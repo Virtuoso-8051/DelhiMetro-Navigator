@@ -162,7 +162,7 @@ public:
     // --- NEW UI: PRETTY PRINTER ---
     void printFormattedOutput(vector<string>& path, int totalDist, map<string, string>& edgeColor) {
         cout << "\n============================================" << endl;
-        cout << "      🏁  JOURNEY PLANNER  🏁             " << endl;
+        cout << "        JOURNEY PLANNER            " << endl;
         cout << "============================================" << endl;
         cout << " From:    " << path[0] << endl;
         cout << " To:      " << path.back() << endl;
@@ -190,7 +190,7 @@ public:
                 cout << colorCode << "| " << RESET << endl;
                 
                 // Print Interchange
-                cout << "\033[1;37m" << "🔄 CHANGE at " << path[i-1] << RESET << endl;
+                cout << "\033[1;37m" << " CHANGE at " << path[i-1] << RESET << endl;
                 cout << "  |" << endl;
                 
                 // Update Color
@@ -234,7 +234,7 @@ public:
         
         cout << "\n[INFO]: Map file 'finalmap.dot' generated." << endl;
         cout << "TO SEE THE MAP: Copy content of 'finalmap.dot' and paste it at: " << endl;
-        cout << "👉 https://dreampuf.github.io/GraphvizOnline/" << endl;
+        cout << "https://dreampuf.github.io/GraphvizOnline/" << endl;
     }
 };
 
@@ -261,4 +261,5 @@ int main() {
         g.findShortestPath(realSrc, realDest);
     }
     return 0;
+
 }
