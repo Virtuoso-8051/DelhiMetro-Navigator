@@ -1,0 +1,274 @@
+//source, destination, distance, colorcode
+// --- RED LINE ---
+Rithala, Rohini West, 1, red
+Rohini West, Rohini East, 1, red
+Rohini East, Pitampura, 1, red
+Pitampura, Kohat Enclave, 1, red
+Kohat Enclave, Netaji Subhash Place, 1, red
+Netaji Subhash Place, Keshav Puram, 1, red
+Keshav Puram, Kanhaiya Nagar, 1, red
+Kanhaiya Nagar, Inderlok, 1, red
+Inderlok, Shastri Nagar, 2, red
+Shastri Nagar, Pratap Nagar, 2, red
+Pratap Nagar, Pulbangash, 1, red
+Pulbangash, Tis Hazari, 1, red
+Tis Hazari, Kashmere Gate, 1, red
+Kashmere Gate, Shastri Park, 2, red
+Shastri Park, Seelampur, 2, red
+Seelampur, Welcome, 1, red
+Welcome, Shahdara, 1, red
+Shahdara, Mansarovar Park, 1, red
+Mansarovar Park, Jhilmil, 1, red
+Jhilmil, Dilshad Garden, 1, red
+Dilshad Garden, Shaheed Nagar, 1, red
+Shaheed Nagar, Raj Bagh, 1, red
+Raj Bagh, Major Mohit Sharma Rajendra Nagar, 1, red
+Major Mohit Sharma Rajendra Nagar, Shyam Park, 1, red
+Shyam Park, Mohan Nagar, 1, red
+Mohan Nagar, Arthala, 1, red
+Arthala, Shaheed Sthal, 1, red
+
+// --- YELLOW LINE ---
+Samaypur Badli, Rohini Sector 18 19, 1, yellow
+Rohini Sector 18 19, Haiderpur Badli Mor, 1, yellow
+Haiderpur Badli Mor, Jahangirpuri, 1, yellow
+Jahangirpuri, Adarsh Nagar, 1, yellow
+Adarsh Nagar, Azadpur, 1, yellow
+Azadpur, Model Town, 1, yellow
+Model Town, GTB Nagar, 1, yellow
+GTB Nagar, Vishwavidyalaya, 1, yellow
+Vishwavidyalaya, Vidhan Sabha, 1, yellow
+Vidhan Sabha, Civil Lines, 1, yellow
+Civil Lines, Chandni Chowk, 1, yellow
+Chandni Chowk, Chawri Bazar, 1, yellow
+Chawri Bazar, New Delhi, 1, yellow
+New Delhi, Rajiv Chowk, 1, yellow
+Rajiv Chowk, Patel Chowk, 1, yellow
+Patel Chowk, Central Secretariat, 1, yellow
+Central Secretariat, Udyog Bhawan, 1, yellow
+Udyog Bhawan, Lok Kalyan Marg, 1, yellow
+Lok Kalyan Marg, Jor Bagh, 1, yellow
+Jor Bagh, Dilli Haat INA, 1, yellow
+Dilli Haat INA, AIIMS, 1, yellow
+AIIMS, Green Park, 1, yellow
+Green Park, Hauz Khas, 1, yellow
+Hauz Khas, Malviya Nagar, 1, yellow
+Malviya Nagar, Saket, 1, yellow
+Saket, Qutab Minar, 2, yellow
+Qutab Minar, Chhatarpur, 1, yellow
+Chhatarpur, Sultanpur, 2, yellow
+Sultanpur, Ghitorni, 1, yellow
+Ghitorni, Arjan Garh, 2, yellow
+Arjan Garh, Guru Dronacharya, 2, yellow
+Guru Dronacharya, Sikanderpur, 1, yellow
+Sikanderpur, MG Road, 1, yellow
+MG Road, IFFCO Chowk, 1, yellow
+IFFCO Chowk, Millennium City Centre Gurugram, 1, yellow
+
+// --- BLUE LINE (Main: Dwarka to Noida) ---
+Dwarka Sector 21, Dwarka Sector 8, 2, blue
+Dwarka Sector 8, Dwarka Sector 9, 1, blue
+Dwarka Sector 9, Dwarka Sector 10, 1, blue
+Dwarka Sector 10, Dwarka Sector 11, 1, blue
+Dwarka Sector 11, Dwarka Sector 12, 1, blue
+Dwarka Sector 12, Dwarka Sector 13, 1, blue
+Dwarka Sector 13, Dwarka Sector 14, 1, blue
+Dwarka Sector 14, Dwarka, 1, blue
+Dwarka, Dwarka Mor, 1, blue
+Dwarka Mor, Nawada, 1, blue
+Nawada, Uttam Nagar West, 1, blue
+Uttam Nagar West, Uttam Nagar East, 1, blue
+Uttam Nagar East, Janakpuri West, 1, blue
+Janakpuri West, Janakpuri East, 1, blue
+Janakpuri East, Tilak Nagar, 1, blue
+Tilak Nagar, Subhash Nagar, 1, blue
+Subhash Nagar, Tagore Garden, 1, blue
+Tagore Garden, Rajouri Garden, 1, blue
+Rajouri Garden, Ramesh Nagar, 1, blue
+Ramesh Nagar, Moti Nagar, 1, blue
+Moti Nagar, Kirti Nagar, 1, blue
+Kirti Nagar, Shadipur, 1, blue
+Shadipur, Patel Nagar, 1, blue
+Patel Nagar, Rajendra Place, 1, blue
+Rajendra Place, Karol Bagh, 1, blue
+Karol Bagh, Jhandewalan, 1, blue
+Jhandewalan, Ramakrishna Ashram Marg, 1, blue
+Ramakrishna Ashram Marg, Rajiv Chowk, 1, blue
+Rajiv Chowk, Barakhamba Road, 1, blue
+Barakhamba Road, Mandi House, 1, blue
+Mandi House, Pragati Maidan (Supreme Court), 1, blue
+Pragati Maidan (Supreme Court), Indraprastha, 1, blue
+Indraprastha, Yamuna Bank, 2, blue
+Yamuna Bank, Akshardham, 1, blue
+Akshardham, Mayur Vihar-1, 2, blue
+Mayur Vihar-1, Mayur Vihar Extension, 1, blue
+Mayur Vihar Extension, New Ashok Nagar, 1, blue
+New Ashok Nagar, Noida Sector 15, 1, blue
+Noida Sector 15, Noida Sector 16, 1, blue
+Noida Sector 16, Noida Sector 18, 1, blue
+Noida Sector 18, Botanical Garden, 1, blue
+Botanical Garden, Golf Course, 1, blue
+Golf Course, Noida City Centre, 1, blue
+Noida City Centre, Noida Sector 34, 1, blue
+Noida Sector 34, Noida Sector 52, 1, blue
+Noida Sector 52, Noida Sector 61, 1, blue
+Noida Sector 61, Noida Sector 59, 1, blue
+Noida Sector 59, Noida Sector 62, 1, blue
+Noida Sector 62, Noida Electronic City, 1, blue
+
+// --- BLUE LINE (Branch: Yamuna Bank to Vaishali) ---
+Yamuna Bank, Laxmi Nagar, 1, blue
+Laxmi Nagar, Nirman Vihar, 1, blue
+Nirman Vihar, Preet Vihar, 1, blue
+Preet Vihar, Karkarduma, 1, blue
+Karkarduma, Anand Vihar ISBT, 1, blue
+Anand Vihar ISBT, Kaushambi, 1, blue
+Kaushambi, Vaishali, 1, blue
+
+// --- GREEN LINE ---
+Inderlok, Ashok Park Main, 1, green
+Ashok Park Main, Punjabi Bagh, 1, green
+Punjabi Bagh, Shivaji Park, 1, green
+Shivaji Park, Madipur, 1, green
+Madipur, Paschim Vihar East, 1, green
+Paschim Vihar East, Paschim Vihar West, 1, green
+Paschim Vihar West, Peeragarhi, 1, green
+Peeragarhi, Udyog Nagar, 1, green
+Udyog Nagar, Surajmal Stadium, 1, green
+Surajmal Stadium, Nangloi, 1, green
+Nangloi, Nangloi Railway Station, 1, green
+Nangloi Railway Station, Rajdhani Park, 1, green
+Rajdhani Park, Mundka, 1, green
+Mundka, Mundka Industrial Area, 1, green
+Mundka Industrial Area, Ghevra Metro Station, 2, green
+Ghevra Metro Station, Tikri Kalan, 2, green
+Tikri Kalan, Tikri Border, 1, green
+Tikri Border, Pandit Shree Ram Sharma, 1, green
+Pandit Shree Ram Sharma, Bahadurgarh City, 1, green
+Bahadurgarh City, Brig. Hoshiar Singh, 1, green
+// Green Line Branch
+Ashok Park Main, Satguru Ram Singh Marg (Link to Kirti Nagar), 1, green
+Satguru Ram Singh Marg (Link to Kirti Nagar), Kirti Nagar, 1, green
+
+// --- VIOLET LINE ---
+Kashmere Gate, Lal Quila, 1, violet
+Lal Quila, Jama Masjid, 1, violet
+Jama Masjid, Delhi Gate, 1, violet
+Delhi Gate, ITO, 1, violet
+ITO, Mandi House, 1, violet
+Mandi House, Janpath, 1, violet
+Janpath, Khan Market, 2, violet
+Khan Market, Jawaharlal Nehru Stadium, 1, violet
+Jawaharlal Nehru Stadium, Jangpura, 1, violet
+Jangpura, Lajpat Nagar, 1, violet
+Lajpat Nagar, Moolchand, 1, violet
+Moolchand, Kailash Colony, 1, violet
+Kailash Colony, Nehru Place, 1, violet
+Nehru Place, Kalkaji Mandir, 1, violet
+Kalkaji Mandir, Govind Puri, 1, violet
+Govind Puri, Harkesh Nagar Okhla, 1, violet
+Harkesh Nagar Okhla, Jasola Apollo, 1, violet
+Jasola Apollo, Sarita Vihar, 1, violet
+Sarita Vihar, Mohan Estate, 1, violet
+Mohan Estate, Tughlakabad Station, 1, violet
+Tughlakabad Station, Badarpur Border, 1, violet
+Badarpur Border, Sarai, 1, violet
+Sarai, NHPC Chowk, 1, violet
+NHPC Chowk, Mewala Maharajpur, 1, violet
+Mewala Maharajpur, Sector 28 Faridabad, 1, violet
+Sector 28 Faridabad, Badkal Mor, 1, violet
+Badkal Mor, Old Faridabad, 1, violet
+Old Faridabad, Neelam Chowk Ajronda, 1, violet
+Neelam Chowk Ajronda, Bata Chowk, 1, violet
+Bata Chowk, Escorts Mujesar, 2, violet
+Escorts Mujesar, Raja Nahar Singh, 1, violet
+
+// --- PINK LINE ---
+Majlis Park, Azadpur, 2, pink
+Azadpur, Shalimar Bagh, 2, pink
+Shalimar Bagh, Netaji Subhash Place, 1, pink
+Netaji Subhash Place, Shakurpur, 1, pink
+Shakurpur, Punjabi Bagh West, 2, pink
+Punjabi Bagh West, ESI - Basaidarapur, 1, pink
+ESI - Basaidarapur, Rajouri Garden, 1, pink
+Rajouri Garden, Mayapuri, 2, pink
+Mayapuri, Naraina Vihar, 1, pink
+Naraina Vihar, Delhi Cantt, 2, pink
+Delhi Cantt, Durgabai Deshmukh South Campus, 2, pink
+Durgabai Deshmukh South Campus, Sir M. Vishweshwaraiah Moti Bagh, 1, pink
+Sir M. Vishweshwaraiah Moti Bagh, Bhikaji Cama Place, 2, pink
+Bhikaji Cama Place, Sarojini Nagar, 1, pink
+Sarojini Nagar, Dilli Haat - INA, 1, pink
+Dilli Haat - INA, South Extension, 1, pink
+South Extension, Lajpat Nagar, 2, pink
+Lajpat Nagar, Vinobapuri, 1, pink
+Vinobapuri, Ashram, 1, pink
+Ashram, Sarai Kale Khan - Nizamuddin, 1, pink
+Sarai Kale Khan - Nizamuddin, Mayur Vihar-1, 3, pink
+Mayur Vihar-1, Mayur Vihar Pocket 1, 1, pink
+Mayur Vihar Pocket 1, Trilokpuri - Sanjay Lake, 2, pink
+Trilokpuri - Sanjay Lake, East Vinod Nagar - Mayur Vihar-2, 1, pink
+East Vinod Nagar - Mayur Vihar-2, Mandawali - West Vinod Nagar, 1, pink
+Mandawali - West Vinod Nagar, I.P. Extension, 1, pink
+I.P. Extension, Anand Vihar ISBT, 2, pink
+Anand Vihar ISBT, Karkarduma, 1, pink
+Karkarduma, Karkarduma Court, 1, pink
+Karkarduma Court, Krishna Nagar, 1, pink
+Krishna Nagar, East Azad Nagar, 1, pink
+East Azad Nagar, Welcome, 1, pink
+Welcome, Jaffrabad, 1, pink
+Jaffrabad, Maujpur - Babarpur, 1, pink
+Maujpur - Babarpur, Gokulpuri, 1, pink
+Gokulpuri, Johri Enclave, 1, pink
+Johri Enclave, Shiv Vihar, 1, pink
+
+// --- MAGENTA LINE ---
+Janakpuri West, Dabri Mor - Janakpuri South, 2, magenta
+Dabri Mor - Janakpuri South, Dashrathpuri, 1, magenta
+Dashrathpuri, Palam, 2, magenta
+Palam, Sadar Bazar Cantonment, 2, magenta
+Sadar Bazar Cantonment, Terminal 1-IGI Airport, 2, magenta
+Terminal 1-IGI Airport, Shankar Vihar, 2, magenta
+Shankar Vihar, Vasant Vihar, 2, magenta
+Vasant Vihar, Munirka, 1, magenta
+Munirka, R.K. Puram, 1, magenta
+R.K. Puram, IIT, 1, magenta
+IIT, Hauz Khas, 1, magenta
+Hauz Khas, Panchsheel Park, 2, magenta
+Panchsheel Park, Chirag Delhi, 1, magenta
+Chirag Delhi, Greater Kailash, 1, magenta
+Greater Kailash, Nehru Enclave, 1, magenta
+Nehru Enclave, Kalkaji Mandir, 1, magenta
+Kalkaji Mandir, Okhla NSIC, 1, magenta
+Okhla NSIC, Sukhdev Vihar, 1, magenta
+Sukhdev Vihar, Jamia Millia Islamia, 1, magenta
+Jamia Millia Islamia, Okhla Vihar, 1, magenta
+Okhla Vihar, Jasola Vihar Shaheen Bagh, 1, magenta
+Jasola Vihar Shaheen Bagh, Kalindi Kunj, 1, magenta
+Kalindi Kunj, Okhla Bird Sanctuary, 2, magenta
+Okhla Bird Sanctuary, Botanical Garden, 2, magenta
+
+// --- GREY LINE ---
+Dwarka, Nangli, 1, grey
+Nangli, Najafgarh, 2, grey
+Najafgarh, Dhansa Bus Stand, 1, grey
+
+// --- AIRPORT EXPRESS (Exact cumulative diffs used) ---
+New Delhi, Shivaji Stadium, 2, orange
+Shivaji Stadium, Dhaula Kuan, 6, orange
+Dhaula Kuan, Delhi Aerocity, 6, orange
+Delhi Aerocity, Airport (T-3), 3, orange
+Airport (T-3), Dwarka Sector 21, 3, orange
+Dwarka Sector 21, Yashobhoomi Dwarka Sector 25, 2, orange
+
+// --- RAPID METRO ---
+Sector 55-56, Sector 54 Chowk, 1, cyan
+Sector 54 Chowk, Sector 53-54, 1, cyan
+Sector 53-54, Sector 42-43, 1, cyan
+Sector 42-43, Phase-1, 1, cyan
+Phase-1, Sikanderpur, 1, cyan
+Sikanderpur, Phase-2, 1, cyan
+Phase-2, Belvedere Towers, 1, cyan
+Belvedere Towers, Cyber City, 1, cyan
+Cyber City, Moulsari Avenue, 1, cyan
+Moulsari Avenue, Phase-3, 1, cyan
