@@ -1,0 +1,3106 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="7714pt" height="2854pt" viewBox="0.00 0.00 7714.00 2854.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 2850.4)">
+<title>MetroSystem</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-2850.4 7710.29,-2850.4 7710.29,4 -4,4"/>
+<!-- AIIMS -->
+<g id="node1" class="node">
+<title>AIIMS</title>
+<polygon fill="white" stroke="black" points="2410.69,-2364 2356.58,-2364 2356.58,-2328 2410.69,-2328 2410.69,-2364"/>
+<text xml:space="preserve" text-anchor="middle" x="2383.63" y="-2341.8" font-family="Arial" font-size="14.00">AIIMS</text>
+</g>
+<!-- Dilli Haat INA -->
+<g id="node2" class="node">
+<title>Dilli Haat INA</title>
+<polygon fill="white" stroke="black" points="2074.25,-2275.2 1975.01,-2275.2 1975.01,-2239.2 2074.25,-2239.2 2074.25,-2275.2"/>
+<text xml:space="preserve" text-anchor="middle" x="2024.63" y="-2253" font-family="Arial" font-size="14.00">Dilli Haat INA</text>
+</g>
+<!-- AIIMS&#45;&#45;Dilli Haat INA -->
+<g id="edge1" class="edge">
+<title>AIIMS--Dilli Haat INA</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M2356.11,-2332.74C2351.66,-2331.01 2347.06,-2329.35 2342.63,-2328 2230.3,-2293.61 2197.72,-2303.22 2083.63,-2275.2 2080.63,-2274.46 2077.55,-2273.67 2074.45,-2272.86"/>
+<text xml:space="preserve" text-anchor="middle" x="2285.75" y="-2297.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Green Park -->
+<g id="node3" class="node">
+<title>Green Park</title>
+<polygon fill="white" stroke="black" points="2432.43,-2275.2 2344.84,-2275.2 2344.84,-2239.2 2432.43,-2239.2 2432.43,-2275.2"/>
+<text xml:space="preserve" text-anchor="middle" x="2388.63" y="-2253" font-family="Arial" font-size="14.00">Green Park</text>
+</g>
+<!-- AIIMS&#45;&#45;Green Park -->
+<g id="edge2" class="edge">
+<title>AIIMS--Green Park</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M2384.62,-2327.85C2385.49,-2312.73 2386.76,-2290.81 2387.63,-2275.61"/>
+<text xml:space="preserve" text-anchor="middle" x="2399.03" y="-2297.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Jor Bagh -->
+<g id="node89" class="node">
+<title>Jor Bagh</title>
+<polygon fill="white" stroke="black" points="893.65,-2186.4 821.62,-2186.4 821.62,-2150.4 893.65,-2150.4 893.65,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="857.63" y="-2164.2" font-family="Arial" font-size="14.00">Jor Bagh</text>
+</g>
+<!-- Dilli Haat INA&#45;&#45;Jor Bagh -->
+<g id="edge64" class="edge">
+<title>Dilli Haat INA--Jor Bagh</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M1974.61,-2256.16C1843.92,-2255.62 1481.58,-2251.28 1181.74,-2221.2 1076.57,-2210.65 953.64,-2188.19 893.91,-2176.62"/>
+<text xml:space="preserve" text-anchor="middle" x="1194.19" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Hauz Khas -->
+<g id="node128" class="node">
+<title>Hauz Khas</title>
+<polygon fill="white" stroke="black" points="2166.88,-2186.4 2082.39,-2186.4 2082.39,-2150.4 2166.88,-2150.4 2166.88,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="2124.63" y="-2164.2" font-family="Arial" font-size="14.00">Hauz Khas</text>
+</g>
+<!-- Green Park&#45;&#45;Hauz Khas -->
+<g id="edge98" class="edge">
+<title>Green Park--Hauz Khas</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M2344.56,-2241.83C2301.47,-2227.76 2234.01,-2205.69 2175.63,-2186.4 2172.89,-2185.49 2170.06,-2184.55 2167.21,-2183.61"/>
+<text xml:space="preserve" text-anchor="middle" x="2292.86" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Adarsh Nagar -->
+<g id="node4" class="node">
+<title>Adarsh Nagar</title>
+<polygon fill="white" stroke="black" points="5953.82,-2097.6 5851.44,-2097.6 5851.44,-2061.6 5953.82,-2061.6 5953.82,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="5902.63" y="-2075.4" font-family="Arial" font-size="14.00">Adarsh Nagar</text>
+</g>
+<!-- Jahangirpuri -->
+<g id="node5" class="node">
+<title>Jahangirpuri</title>
+<polygon fill="white" stroke="black" points="5952.16,-2008.8 5859.11,-2008.8 5859.11,-1972.8 5952.16,-1972.8 5952.16,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="5905.63" y="-1986.6" font-family="Arial" font-size="14.00">Jahangirpuri</text>
+</g>
+<!-- Adarsh Nagar&#45;&#45;Jahangirpuri -->
+<g id="edge3" class="edge">
+<title>Adarsh Nagar--Jahangirpuri</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M5903.23,-2061.45C5903.75,-2046.33 5904.51,-2024.41 5905.03,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="5916.85" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Azadpur -->
+<g id="node6" class="node">
+<title>Azadpur</title>
+<polygon fill="white" stroke="black" points="5786.71,-2008.8 5718.56,-2008.8 5718.56,-1972.8 5786.71,-1972.8 5786.71,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="5752.63" y="-1986.6" font-family="Arial" font-size="14.00">Azadpur</text>
+</g>
+<!-- Adarsh Nagar&#45;&#45;Azadpur -->
+<g id="edge4" class="edge">
+<title>Adarsh Nagar--Azadpur</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M5872.64,-2061.24C5846.56,-2046.15 5808.97,-2024.4 5782.83,-2009.28"/>
+<text xml:space="preserve" text-anchor="middle" x="5853.51" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Model Town -->
+<g id="node30" class="node">
+<title>Model Town</title>
+<polygon fill="white" stroke="black" points="5401.76,-1920 5309.51,-1920 5309.51,-1884 5401.76,-1884 5401.76,-1920"/>
+<text xml:space="preserve" text-anchor="middle" x="5355.63" y="-1897.8" font-family="Arial" font-size="14.00">Model Town</text>
+</g>
+<!-- Azadpur&#45;&#45;Model Town -->
+<g id="edge21" class="edge">
+<title>Azadpur--Model Town</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M5718.2,-1975.08C5715.34,-1974.2 5712.46,-1973.42 5709.63,-1972.8 5673.01,-1964.8 5402.53,-1977.56 5372.74,-1954.8 5362.21,-1946.75 5358.08,-1932.01 5356.5,-1920.31"/>
+<text xml:space="preserve" text-anchor="middle" x="5385.19" y="-1942.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Majlis Park -->
+<g id="node31" class="node">
+<title>Majlis Park</title>
+<polygon fill="white" stroke="black" points="5794.86,-1920 5710.41,-1920 5710.41,-1884 5794.86,-1884 5794.86,-1920"/>
+<text xml:space="preserve" text-anchor="middle" x="5752.63" y="-1897.8" font-family="Arial" font-size="14.00">Majlis Park</text>
+</g>
+<!-- Azadpur&#45;&#45;Majlis Park -->
+<g id="edge22" class="edge">
+<title>Azadpur--Majlis Park</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M5752.63,-1972.65C5752.63,-1957.53 5752.63,-1935.61 5752.63,-1920.41"/>
+<text xml:space="preserve" text-anchor="middle" x="5765.08" y="-1942.2" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Shalimar Bagh -->
+<g id="node32" class="node">
+<title>Shalimar Bagh</title>
+<polygon fill="white" stroke="black" points="5527.55,-1920 5419.72,-1920 5419.72,-1884 5527.55,-1884 5527.55,-1920"/>
+<text xml:space="preserve" text-anchor="middle" x="5473.63" y="-1897.8" font-family="Arial" font-size="14.00">Shalimar Bagh</text>
+</g>
+<!-- Azadpur&#45;&#45;Shalimar Bagh -->
+<g id="edge23" class="edge">
+<title>Azadpur--Shalimar Bagh</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M5718.47,-1975.98C5715.49,-1974.87 5712.52,-1973.79 5709.63,-1972.8 5676.06,-1961.22 5586.56,-1935.25 5527.94,-1918.45"/>
+<text xml:space="preserve" text-anchor="middle" x="5660.43" y="-1942.2" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Airport (T&#45;3) -->
+<g id="node7" class="node">
+<title>Airport (T-3)</title>
+<polygon fill="white" stroke="black" points="543.36,-2186.4 451.91,-2186.4 451.91,-2150.4 543.36,-2150.4 543.36,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="497.63" y="-2164.2" font-family="Arial" font-size="14.00">Airport (T-3)</text>
+</g>
+<!-- Delhi Aerocity -->
+<g id="node8" class="node">
+<title>Delhi Aerocity</title>
+<polygon fill="white" stroke="black" points="566.82,-2097.6 464.45,-2097.6 464.45,-2061.6 566.82,-2061.6 566.82,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="515.63" y="-2075.4" font-family="Arial" font-size="14.00">Delhi Aerocity</text>
+</g>
+<!-- Airport (T&#45;3)&#45;&#45;Delhi Aerocity -->
+<g id="edge5" class="edge">
+<title>Airport (T-3)--Delhi Aerocity</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M501.19,-2150.25C504.33,-2135.13 508.87,-2113.21 512.02,-2098.01"/>
+<text xml:space="preserve" text-anchor="middle" x="520.69" y="-2119.8" font-family="Times,serif" font-size="14.00">3km</text>
+</g>
+<!-- Dwarka Sector 21 -->
+<g id="node9" class="node">
+<title>Dwarka Sector 21</title>
+<polygon fill="white" stroke="black" points="446.27,-2097.6 319,-2097.6 319,-2061.6 446.27,-2061.6 446.27,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="382.63" y="-2075.4" font-family="Arial" font-size="14.00">Dwarka Sector 21</text>
+</g>
+<!-- Airport (T&#45;3)&#45;&#45;Dwarka Sector 21 -->
+<g id="edge6" class="edge">
+<title>Airport (T-3)--Dwarka Sector 21</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M474.64,-2150.04C454.58,-2134.9 425.64,-2113.06 405.59,-2097.93"/>
+<text xml:space="preserve" text-anchor="middle" x="462.88" y="-2119.8" font-family="Times,serif" font-size="14.00">3km</text>
+</g>
+<!-- Dhaula Kuan -->
+<g id="node77" class="node">
+<title>Dhaula Kuan</title>
+<polygon fill="white" stroke="black" points="614.11,-2008.8 517.16,-2008.8 517.16,-1972.8 614.11,-1972.8 614.11,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="565.63" y="-1986.6" font-family="Arial" font-size="14.00">Dhaula Kuan</text>
+</g>
+<!-- Delhi Aerocity&#45;&#45;Dhaula Kuan -->
+<g id="edge55" class="edge">
+<title>Delhi Aerocity--Dhaula Kuan</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M525.51,-2061.45C534.22,-2046.33 546.85,-2024.41 555.61,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="557.56" y="-2031" font-family="Times,serif" font-size="14.00">6km</text>
+</g>
+<!-- Dwarka Sector 8 -->
+<g id="node103" class="node">
+<title>Dwarka Sector 8</title>
+<polygon fill="white" stroke="black" points="499.38,-2008.8 379.89,-2008.8 379.89,-1972.8 499.38,-1972.8 499.38,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="439.63" y="-1986.6" font-family="Arial" font-size="14.00">Dwarka Sector 8</text>
+</g>
+<!-- Dwarka Sector 21&#45;&#45;Dwarka Sector 8 -->
+<g id="edge77" class="edge">
+<title>Dwarka Sector 21--Dwarka Sector 8</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M393.9,-2061.45C403.82,-2046.33 418.22,-2024.41 428.2,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="428.68" y="-2031" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Yashobhoomi Dwarka Sector 25 -->
+<g id="node104" class="node">
+<title>Yashobhoomi Dwarka Sector 25</title>
+<polygon fill="white" stroke="black" points="362.02,-2008.8 145.25,-2008.8 145.25,-1972.8 362.02,-1972.8 362.02,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="253.63" y="-1986.6" font-family="Arial" font-size="14.00">Yashobhoomi Dwarka Sector 25</text>
+</g>
+<!-- Dwarka Sector 21&#45;&#45;Yashobhoomi Dwarka Sector 25 -->
+<g id="edge78" class="edge">
+<title>Dwarka Sector 21--Yashobhoomi Dwarka Sector 25</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M356.84,-2061.24C334.34,-2046.1 301.87,-2024.26 279.38,-2009.13"/>
+<text xml:space="preserve" text-anchor="middle" x="342.13" y="-2031" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Akshardham -->
+<g id="node10" class="node">
+<title>Akshardham</title>
+<polygon fill="white" stroke="black" points="2299.93,-2452.8 2205.34,-2452.8 2205.34,-2416.8 2299.93,-2416.8 2299.93,-2452.8"/>
+<text xml:space="preserve" text-anchor="middle" x="2252.63" y="-2430.6" font-family="Arial" font-size="14.00">Akshardham</text>
+</g>
+<!-- Yamuna Bank -->
+<g id="node11" class="node">
+<title>Yamuna Bank</title>
+<polygon fill="lightgreen" stroke="black" points="2151.61,-2364 2047.66,-2364 2047.66,-2328 2151.61,-2328 2151.61,-2364"/>
+<text xml:space="preserve" text-anchor="middle" x="2099.63" y="-2341.8" font-family="Arial" font-size="14.00">Yamuna Bank</text>
+</g>
+<!-- Akshardham&#45;&#45;Yamuna Bank -->
+<g id="edge7" class="edge">
+<title>Akshardham--Yamuna Bank</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M2222.04,-2416.44C2195.44,-2401.35 2157.1,-2379.6 2130.44,-2364.48"/>
+<text xml:space="preserve" text-anchor="middle" x="2202.28" y="-2386.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Mayur Vihar&#45;1 -->
+<g id="node12" class="node">
+<title>Mayur Vihar-1</title>
+<polygon fill="white" stroke="black" points="2333.59,-2364 2229.68,-2364 2229.68,-2328 2333.59,-2328 2333.59,-2364"/>
+<text xml:space="preserve" text-anchor="middle" x="2281.63" y="-2341.8" font-family="Arial" font-size="14.00">Mayur Vihar-1</text>
+</g>
+<!-- Akshardham&#45;&#45;Mayur Vihar&#45;1 -->
+<g id="edge8" class="edge">
+<title>Akshardham--Mayur Vihar-1</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M2258.36,-2416.65C2263.41,-2401.53 2270.74,-2379.61 2275.82,-2364.41"/>
+<text xml:space="preserve" text-anchor="middle" x="2282.18" y="-2386.2" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Indraprastha -->
+<g id="node141" class="node">
+<title>Indraprastha</title>
+<polygon fill="lightgreen" stroke="black" points="995.94,-2275.2 901.33,-2275.2 901.33,-2239.2 995.94,-2239.2 995.94,-2275.2"/>
+<text xml:space="preserve" text-anchor="middle" x="948.63" y="-2253" font-family="Arial" font-size="14.00">Indraprastha</text>
+</g>
+<!-- Yamuna Bank&#45;&#45;Indraprastha -->
+<g id="edge258" class="edge">
+<title>Yamuna Bank--Indraprastha</title>
+<path fill="none" stroke="black" stroke-width="4" d="M2047.3,-2343.37C1932.8,-2339.58 1651.55,-2329 1416.63,-2310 1262.64,-2297.54 1080.94,-2275.25 996.38,-2264.43"/>
+</g>
+<!-- Sarai Kale Khan &#45; Nizamuddin -->
+<g id="node29" class="node">
+<title>Sarai Kale Khan - Nizamuddin</title>
+<polygon fill="white" stroke="black" points="2216.41,-2097.6 2012.86,-2097.6 2012.86,-2061.6 2216.41,-2061.6 2216.41,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="2114.63" y="-2075.4" font-family="Arial" font-size="14.00">Sarai Kale Khan - Nizamuddin</text>
+</g>
+<!-- Mayur Vihar&#45;1&#45;&#45;Sarai Kale Khan &#45; Nizamuddin -->
+<g id="edge177" class="edge">
+<title>Mayur Vihar-1--Sarai Kale Khan - Nizamuddin</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M2229.44,-2337.07C2144.05,-2323.57 1982.27,-2295.62 1965.63,-2275.2 1920.82,-2220.21 1919.5,-2171.14 1963.63,-2115.6 1967.78,-2110.39 1991.3,-2103.97 2018.59,-2098.06"/>
+<text xml:space="preserve" text-anchor="middle" x="1947.6" y="-2208.6" font-family="Times,serif" font-size="14.00">3km</text>
+</g>
+<!-- Anand Vihar ISBT -->
+<g id="node13" class="node">
+<title>Anand Vihar ISBT</title>
+<polygon fill="lightgreen" stroke="black" points="2772.67,-2846.4 2644.6,-2846.4 2644.6,-2810.4 2772.67,-2810.4 2772.67,-2846.4"/>
+<text xml:space="preserve" text-anchor="middle" x="2708.63" y="-2824.2" font-family="Arial" font-size="14.00">Anand Vihar ISBT</text>
+</g>
+<!-- Karkarduma -->
+<g id="node14" class="node">
+<title>Karkarduma</title>
+<polygon fill="lightgreen" stroke="black" points="2681.76,-2757.6 2589.51,-2757.6 2589.51,-2721.6 2681.76,-2721.6 2681.76,-2757.6"/>
+<text xml:space="preserve" text-anchor="middle" x="2635.63" y="-2735.4" font-family="Arial" font-size="14.00">Karkarduma</text>
+</g>
+<!-- Anand Vihar ISBT&#45;&#45;Karkarduma -->
+<g id="edge9" class="edge">
+<title>Anand Vihar ISBT--Karkarduma</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M2655.35,-2810.05C2648,-2805.44 2641.39,-2799.65 2636.74,-2792.4 2630.24,-2782.25 2630.24,-2768.53 2631.72,-2757.76"/>
+<text xml:space="preserve" text-anchor="middle" x="2649.19" y="-2779.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Anand Vihar ISBT&#45;&#45;Karkarduma -->
+<g id="edge253" class="edge">
+<title>Anand Vihar ISBT--Karkarduma</title>
+<path fill="none" stroke="black" stroke-width="4" d="M2694.21,-2810.25C2681.5,-2795.13 2663.06,-2773.21 2650.28,-2758.01"/>
+</g>
+<!-- Kaushambi -->
+<g id="node15" class="node">
+<title>Kaushambi</title>
+<polygon fill="lightgreen" stroke="black" points="2788.65,-2757.6 2702.61,-2757.6 2702.61,-2721.6 2788.65,-2721.6 2788.65,-2757.6"/>
+<text xml:space="preserve" text-anchor="middle" x="2745.63" y="-2735.4" font-family="Arial" font-size="14.00">Kaushambi</text>
+</g>
+<!-- Anand Vihar ISBT&#45;&#45;Kaushambi -->
+<g id="edge10" class="edge">
+<title>Anand Vihar ISBT--Kaushambi</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M2705.79,-2809.9C2704.87,-2799.52 2705.09,-2786.33 2709.74,-2775.6 2712.59,-2769.05 2717.29,-2763.11 2722.37,-2758.06"/>
+<text xml:space="preserve" text-anchor="middle" x="2722.19" y="-2779.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- I.P. Extension -->
+<g id="node16" class="node">
+<title>I.P. Extension</title>
+<polygon fill="white" stroke="black" points="3108.82,-2703.6 3006.44,-2703.6 3006.44,-2667.6 3108.82,-2667.6 3108.82,-2703.6"/>
+<text xml:space="preserve" text-anchor="middle" x="3057.63" y="-2681.4" font-family="Arial" font-size="14.00">I.P. Extension</text>
+</g>
+<!-- Anand Vihar ISBT&#45;&#45;I.P. Extension -->
+<g id="edge11" class="edge">
+<title>Anand Vihar ISBT--I.P. Extension</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M2751.78,-2809.99C2818.8,-2782.95 2947.19,-2731.16 3014.31,-2704.08"/>
+<text xml:space="preserve" text-anchor="middle" x="2843.93" y="-2779.8" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Preet Vihar -->
+<g id="node170" class="node">
+<title>Preet Vihar</title>
+<polygon fill="lightgreen" stroke="black" points="2563.65,-2649.6 2477.62,-2649.6 2477.62,-2613.6 2563.65,-2613.6 2563.65,-2649.6"/>
+<text xml:space="preserve" text-anchor="middle" x="2520.63" y="-2627.4" font-family="Arial" font-size="14.00">Preet Vihar</text>
+</g>
+<!-- Karkarduma&#45;&#45;Preet Vihar -->
+<g id="edge143" class="edge">
+<title>Karkarduma--Preet Vihar</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M2599.9,-2721.22C2591.2,-2716.16 2582.26,-2710.2 2574.74,-2703.6 2556.81,-2687.85 2540.87,-2665.36 2531.02,-2649.93"/>
+<text xml:space="preserve" text-anchor="middle" x="2587.19" y="-2681.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Karkarduma&#45;&#45;Preet Vihar -->
+<g id="edge254" class="edge">
+<title>Karkarduma--Preet Vihar</title>
+<path fill="none" stroke="black" stroke-width="4" d="M2630.6,-2721.36C2625.22,-2705.56 2615.27,-2682.44 2599.63,-2667.6 2589.62,-2658.1 2576.61,-2650.91 2564.03,-2645.59"/>
+</g>
+<!-- Karkarduma Court -->
+<g id="node171" class="node">
+<title>Karkarduma Court</title>
+<polygon fill="white" stroke="black" points="2731.82,-2595.6 2601.44,-2595.6 2601.44,-2559.6 2731.82,-2559.6 2731.82,-2595.6"/>
+<text xml:space="preserve" text-anchor="middle" x="2666.63" y="-2573.4" font-family="Arial" font-size="14.00">Karkarduma Court</text>
+</g>
+<!-- Karkarduma&#45;&#45;Karkarduma Court -->
+<g id="edge144" class="edge">
+<title>Karkarduma--Karkarduma Court</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M2639.01,-2721.17C2644.97,-2690.4 2657.3,-2626.77 2663.26,-2596.01"/>
+<text xml:space="preserve" text-anchor="middle" x="2661.59" y="-2681.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Kaushambi&#45;&#45;Anand Vihar ISBT -->
+<g id="edge252" class="edge">
+<title>Kaushambi--Anand Vihar ISBT</title>
+<path fill="none" stroke="black" stroke-width="4" d="M2743.84,-2757.98C2742.31,-2768.32 2739.55,-2781.51 2734.63,-2792.4 2731.83,-2798.61 2727.79,-2804.78 2723.72,-2810.17"/>
+</g>
+<!-- Vaishali -->
+<g id="node176" class="node">
+<title>Vaishali</title>
+<polygon fill="lightgreen" stroke="black" points="2780.15,-2649.6 2715.12,-2649.6 2715.12,-2613.6 2780.15,-2613.6 2780.15,-2649.6"/>
+<text xml:space="preserve" text-anchor="middle" x="2747.63" y="-2627.4" font-family="Arial" font-size="14.00">Vaishali</text>
+</g>
+<!-- Kaushambi&#45;&#45;Vaishali -->
+<g id="edge150" class="edge">
+<title>Kaushambi--Vaishali</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M2745.96,-2721.57C2746.33,-2701.91 2746.93,-2669.73 2747.31,-2649.94"/>
+<text xml:space="preserve" text-anchor="middle" x="2759.38" y="-2681.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Mandawali &#45; West Vinod Nagar -->
+<g id="node113" class="node">
+<title>Mandawali - West Vinod Nagar</title>
+<polygon fill="white" stroke="black" points="3250.12,-2364 3041.15,-2364 3041.15,-2328 3250.12,-2328 3250.12,-2364"/>
+<text xml:space="preserve" text-anchor="middle" x="3145.63" y="-2341.8" font-family="Arial" font-size="14.00">Mandawali - West Vinod Nagar</text>
+</g>
+<!-- I.P. Extension&#45;&#45;Mandawali &#45; West Vinod Nagar -->
+<g id="edge106" class="edge">
+<title>I.P. Extension--Mandawali - West Vinod Nagar</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M3079.54,-2667.22C3101.04,-2648.04 3130.63,-2615.02 3130.63,-2578.6 3130.63,-2578.6 3130.63,-2578.6 3130.63,-2433.8 3130.63,-2409.48 3136.42,-2381.89 3140.81,-2364.47"/>
+<text xml:space="preserve" text-anchor="middle" x="3143.08" y="-2519.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Arjan Garh -->
+<g id="node17" class="node">
+<title>Arjan Garh</title>
+<polygon fill="white" stroke="black" points="6256.48,-2275.2 6172.79,-2275.2 6172.79,-2239.2 6256.48,-2239.2 6256.48,-2275.2"/>
+<text xml:space="preserve" text-anchor="middle" x="6214.63" y="-2253" font-family="Arial" font-size="14.00">Arjan Garh</text>
+</g>
+<!-- Ghitorni -->
+<g id="node18" class="node">
+<title>Ghitorni</title>
+<polygon fill="white" stroke="black" points="5847.14,-2186.4 5782.12,-2186.4 5782.12,-2150.4 5847.14,-2150.4 5847.14,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="5814.63" y="-2164.2" font-family="Arial" font-size="14.00">Ghitorni</text>
+</g>
+<!-- Arjan Garh&#45;&#45;Ghitorni -->
+<g id="edge12" class="edge">
+<title>Arjan Garh--Ghitorni</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M6172.39,-2255.58C6091.5,-2253.8 5918.04,-2247 5864.74,-2221.2 5848.86,-2213.51 5835.28,-2198.58 5826.27,-2186.71"/>
+<text xml:space="preserve" text-anchor="middle" x="5877.19" y="-2208.6" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Guru Dronacharya -->
+<g id="node19" class="node">
+<title>Guru Dronacharya</title>
+<polygon fill="white" stroke="black" points="6967.22,-2186.4 6836.05,-2186.4 6836.05,-2150.4 6967.22,-2150.4 6967.22,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="6901.63" y="-2164.2" font-family="Arial" font-size="14.00">Guru Dronacharya</text>
+</g>
+<!-- Arjan Garh&#45;&#45;Guru Dronacharya -->
+<g id="edge13" class="edge">
+<title>Arjan Garh--Guru Dronacharya</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M6256.91,-2253.9C6317.05,-2250.63 6430.77,-2244.45 6527.63,-2239.2 6564.63,-2237.2 6827.73,-2238.23 6860.63,-2221.2 6875,-2213.77 6885.98,-2198.81 6892.94,-2186.87"/>
+<text xml:space="preserve" text-anchor="middle" x="6892.28" y="-2208.6" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Sultanpur -->
+<g id="node67" class="node">
+<title>Sultanpur</title>
+<polygon fill="white" stroke="black" points="4903.6,-2097.6 4827.67,-2097.6 4827.67,-2061.6 4903.6,-2061.6 4903.6,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="4865.63" y="-2075.4" font-family="Arial" font-size="14.00">Sultanpur</text>
+</g>
+<!-- Ghitorni&#45;&#45;Sultanpur -->
+<g id="edge91" class="edge">
+<title>Ghitorni--Sultanpur</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M5781.91,-2164.05C5742.85,-2160.18 5675.54,-2153.89 5617.63,-2150.4 5385.08,-2136.38 5325.26,-2158.46 5093.74,-2132.4 5012.29,-2123.23 4991.66,-2119.34 4912.63,-2097.6 4909.79,-2096.82 4906.87,-2095.94 4903.95,-2095.01"/>
+<text xml:space="preserve" text-anchor="middle" x="5106.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Sikanderpur -->
+<g id="node129" class="node">
+<title>Sikanderpur</title>
+<polygon fill="white" stroke="black" points="7053.38,-2097.6 6961.89,-2097.6 6961.89,-2061.6 7053.38,-2061.6 7053.38,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="7007.63" y="-2075.4" font-family="Arial" font-size="14.00">Sikanderpur</text>
+</g>
+<!-- Guru Dronacharya&#45;&#45;Sikanderpur -->
+<g id="edge99" class="edge">
+<title>Guru Dronacharya--Sikanderpur</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M6922.83,-2150.04C6941.32,-2134.9 6968,-2113.06 6986.48,-2097.93"/>
+<text xml:space="preserve" text-anchor="middle" x="6976.57" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Arthala -->
+<g id="node20" class="node">
+<title>Arthala</title>
+<polygon fill="white" stroke="black" points="3467.81,-2649.6 3407.46,-2649.6 3407.46,-2613.6 3467.81,-2613.6 3467.81,-2649.6"/>
+<text xml:space="preserve" text-anchor="middle" x="3437.63" y="-2627.4" font-family="Arial" font-size="14.00">Arthala</text>
+</g>
+<!-- Mohan Nagar -->
+<g id="node21" class="node">
+<title>Mohan Nagar</title>
+<polygon fill="white" stroke="black" points="3586.05,-2541.6 3485.22,-2541.6 3485.22,-2505.6 3586.05,-2505.6 3586.05,-2541.6"/>
+<text xml:space="preserve" text-anchor="middle" x="3535.63" y="-2519.4" font-family="Arial" font-size="14.00">Mohan Nagar</text>
+</g>
+<!-- Arthala&#45;&#45;Mohan Nagar -->
+<g id="edge14" class="edge">
+<title>Arthala--Mohan Nagar</title>
+<path fill="none" stroke="red" stroke-width="2" d="M3453.38,-2613.57C3471.56,-2593.91 3501.3,-2561.73 3519.6,-2541.94"/>
+<text xml:space="preserve" text-anchor="middle" x="3513.58" y="-2573.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Shaheed Sthal -->
+<g id="node22" class="node">
+<title>Shaheed Sthal</title>
+<polygon fill="white" stroke="black" points="3467.56,-2541.6 3359.71,-2541.6 3359.71,-2505.6 3467.56,-2505.6 3467.56,-2541.6"/>
+<text xml:space="preserve" text-anchor="middle" x="3413.63" y="-2519.4" font-family="Arial" font-size="14.00">Shaheed Sthal</text>
+</g>
+<!-- Arthala&#45;&#45;Shaheed Sthal -->
+<g id="edge15" class="edge">
+<title>Arthala--Shaheed Sthal</title>
+<path fill="none" stroke="red" stroke-width="2" d="M3433.78,-2613.57C3429.33,-2593.91 3422.04,-2561.73 3417.56,-2541.94"/>
+<text xml:space="preserve" text-anchor="middle" x="3441.63" y="-2573.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Shyam Park -->
+<g id="node190" class="node">
+<title>Shyam Park</title>
+<polygon fill="white" stroke="black" points="3671.76,-2452.8 3579.51,-2452.8 3579.51,-2416.8 3671.76,-2416.8 3671.76,-2452.8"/>
+<text xml:space="preserve" text-anchor="middle" x="3625.63" y="-2430.6" font-family="Arial" font-size="14.00">Shyam Park</text>
+</g>
+<!-- Mohan Nagar&#45;&#45;Shyam Park -->
+<g id="edge182" class="edge">
+<title>Mohan Nagar--Shyam Park</title>
+<path fill="none" stroke="red" stroke-width="2" d="M3553.42,-2505.45C3569.09,-2490.33 3591.83,-2468.41 3607.58,-2453.21"/>
+<text xml:space="preserve" text-anchor="middle" x="3601.14" y="-2475" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Ashok Park Main -->
+<g id="node23" class="node">
+<title>Ashok Park Main</title>
+<polygon fill="white" stroke="black" points="4452.54,-2364 4330.72,-2364 4330.72,-2328 4452.54,-2328 4452.54,-2364"/>
+<text xml:space="preserve" text-anchor="middle" x="4391.63" y="-2341.8" font-family="Arial" font-size="14.00">Ashok Park Main</text>
+</g>
+<!-- Inderlok -->
+<g id="node24" class="node">
+<title>Inderlok</title>
+<polygon fill="white" stroke="black" points="4424.54,-2275.2 4358.73,-2275.2 4358.73,-2239.2 4424.54,-2239.2 4424.54,-2275.2"/>
+<text xml:space="preserve" text-anchor="middle" x="4391.63" y="-2253" font-family="Arial" font-size="14.00">Inderlok</text>
+</g>
+<!-- Ashok Park Main&#45;&#45;Inderlok -->
+<g id="edge16" class="edge">
+<title>Ashok Park Main--Inderlok</title>
+<path fill="none" stroke="green" stroke-width="2" d="M4391.63,-2327.85C4391.63,-2312.73 4391.63,-2290.81 4391.63,-2275.61"/>
+<text xml:space="preserve" text-anchor="middle" x="4404.08" y="-2297.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Punjabi Bagh -->
+<g id="node25" class="node">
+<title>Punjabi Bagh</title>
+<polygon fill="white" stroke="black" points="5346.28,-2275.2 5246.99,-2275.2 5246.99,-2239.2 5346.28,-2239.2 5346.28,-2275.2"/>
+<text xml:space="preserve" text-anchor="middle" x="5296.63" y="-2253" font-family="Arial" font-size="14.00">Punjabi Bagh</text>
+</g>
+<!-- Ashok Park Main&#45;&#45;Punjabi Bagh -->
+<g id="edge17" class="edge">
+<title>Ashok Park Main--Punjabi Bagh</title>
+<path fill="none" stroke="green" stroke-width="2" d="M4452.77,-2339.14C4621.63,-2322.94 5092.12,-2277.82 5246.71,-2262.99"/>
+<text xml:space="preserve" text-anchor="middle" x="4937.64" y="-2297.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Satguru Ram Singh Marg (Link to Kirti Nagar) -->
+<g id="node26" class="node">
+<title>Satguru Ram Singh Marg (Link to Kirti Nagar)</title>
+<polygon fill="white" stroke="black" points="1925.86,-1190.4 1627.41,-1190.4 1627.41,-1154.4 1925.86,-1154.4 1925.86,-1190.4"/>
+<text xml:space="preserve" text-anchor="middle" x="1776.63" y="-1168.2" font-family="Arial" font-size="14.00">Satguru Ram Singh Marg (Link to Kirti Nagar)</text>
+</g>
+<!-- Ashok Park Main&#45;&#45;Satguru Ram Singh Marg (Link to Kirti Nagar) -->
+<g id="edge18" class="edge">
+<title>Ashok Park Main--Satguru Ram Singh Marg (Link to Kirti Nagar)</title>
+<path fill="none" stroke="green" stroke-width="2" d="M4330.32,-2340.73C4181.74,-2330.57 3790.59,-2304.93 3463.63,-2293.2 3401,-2290.95 2393.67,-2298.86 2335.63,-2275.2 2314.09,-2266.42 2319.03,-2248.33 2297.63,-2239.2 2221.93,-2206.88 2008.99,-2233.76 1927.63,-2221.2 1897.65,-2216.57 1817.53,-2207.39 1795.63,-2186.4 1775.01,-2166.63 1776.63,-2153.57 1776.63,-2125 1776.63,-2125 1776.63,-2125 1776.63,-1260.2 1776.63,-1236.09 1776.63,-1208.21 1776.63,-1190.69"/>
+<text xml:space="preserve" text-anchor="middle" x="1789.08" y="-1764.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Kanhaiya Nagar -->
+<g id="node139" class="node">
+<title>Kanhaiya Nagar</title>
+<polygon fill="white" stroke="black" points="5068.83,-2186.4 4952.43,-2186.4 4952.43,-2150.4 5068.83,-2150.4 5068.83,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="5010.63" y="-2164.2" font-family="Arial" font-size="14.00">Kanhaiya Nagar</text>
+</g>
+<!-- Inderlok&#45;&#45;Kanhaiya Nagar -->
+<g id="edge111" class="edge">
+<title>Inderlok--Kanhaiya Nagar</title>
+<path fill="none" stroke="red" stroke-width="2" d="M4424.95,-2248.16C4440.29,-2244.79 4458.79,-2241.2 4475.63,-2239.2 4529.29,-2232.82 4912.41,-2243.49 4961.63,-2221.2 4977.65,-2213.95 4990.97,-2198.81 4999.66,-2186.75"/>
+<text xml:space="preserve" text-anchor="middle" x="4996.02" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Shastri Nagar -->
+<g id="node140" class="node">
+<title>Shastri Nagar</title>
+<polygon fill="white" stroke="black" points="3754.43,-2186.4 3652.84,-2186.4 3652.84,-2150.4 3754.43,-2150.4 3754.43,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="3703.63" y="-2164.2" font-family="Arial" font-size="14.00">Shastri Nagar</text>
+</g>
+<!-- Inderlok&#45;&#45;Shastri Nagar -->
+<g id="edge112" class="edge">
+<title>Inderlok--Shastri Nagar</title>
+<path fill="none" stroke="red" stroke-width="2" d="M4358.31,-2249.4C4301.71,-2238.14 4183.04,-2215.71 4081.63,-2204.4 3940.95,-2188.71 3903.24,-2209.84 3763.63,-2186.4 3760.75,-2185.92 3757.81,-2185.35 3754.85,-2184.71"/>
+<text xml:space="preserve" text-anchor="middle" x="4213.83" y="-2208.6" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Shivaji Park -->
+<g id="node186" class="node">
+<title>Shivaji Park</title>
+<polygon fill="white" stroke="black" points="5608.59,-2186.4 5518.68,-2186.4 5518.68,-2150.4 5608.59,-2150.4 5608.59,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="5563.63" y="-2164.2" font-family="Arial" font-size="14.00">Shivaji Park</text>
+</g>
+<!-- Punjabi Bagh&#45;&#45;Shivaji Park -->
+<g id="edge226" class="edge">
+<title>Punjabi Bagh--Shivaji Park</title>
+<path fill="none" stroke="green" stroke-width="2" d="M5346.54,-2239.98C5395.9,-2223.93 5470.76,-2199.59 5518.42,-2184.1"/>
+<text xml:space="preserve" text-anchor="middle" x="5466.49" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Ashram -->
+<g id="node27" class="node">
+<title>Ashram</title>
+<polygon fill="white" stroke="black" points="2248.75,-2186.4 2184.52,-2186.4 2184.52,-2150.4 2248.75,-2150.4 2248.75,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="2216.63" y="-2164.2" font-family="Arial" font-size="14.00">Ashram</text>
+</g>
+<!-- Vinobapuri -->
+<g id="node28" class="node">
+<title>Vinobapuri</title>
+<polygon fill="white" stroke="black" points="3090.1,-2097.6 3007.17,-2097.6 3007.17,-2061.6 3090.1,-2061.6 3090.1,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="3048.63" y="-2075.4" font-family="Arial" font-size="14.00">Vinobapuri</text>
+</g>
+<!-- Ashram&#45;&#45;Vinobapuri -->
+<g id="edge19" class="edge">
+<title>Ashram--Vinobapuri</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M2249.14,-2153.4C2251.99,-2152.33 2254.85,-2151.31 2257.63,-2150.4 2319,-2130.24 2334.75,-2124.35 2398.74,-2115.6 2530.88,-2097.53 2867.39,-2121.33 2998.63,-2097.6 3001.34,-2097.11 3004.1,-2096.5 3006.86,-2095.81"/>
+<text xml:space="preserve" text-anchor="middle" x="2411.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Ashram&#45;&#45;Sarai Kale Khan &#45; Nizamuddin -->
+<g id="edge20" class="edge">
+<title>Ashram--Sarai Kale Khan - Nizamuddin</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M2233.64,-2150.04C2241.92,-2139.46 2248.55,-2126.02 2240.63,-2115.6 2235.45,-2108.78 2222.36,-2102.93 2206.49,-2098.09"/>
+<text xml:space="preserve" text-anchor="middle" x="2256.63" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Badarpur Border -->
+<g id="node33" class="node">
+<title>Badarpur Border</title>
+<polygon fill="white" stroke="black" points="5713.39,-2097.6 5593.88,-2097.6 5593.88,-2061.6 5713.39,-2061.6 5713.39,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="5653.63" y="-2075.4" font-family="Arial" font-size="14.00">Badarpur Border</text>
+</g>
+<!-- Tughlakabad Station -->
+<g id="node34" class="node">
+<title>Tughlakabad Station</title>
+<polygon fill="white" stroke="black" points="5628.85,-2008.8 5484.42,-2008.8 5484.42,-1972.8 5628.85,-1972.8 5628.85,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="5556.63" y="-1986.6" font-family="Arial" font-size="14.00">Tughlakabad Station</text>
+</g>
+<!-- Badarpur Border&#45;&#45;Tughlakabad Station -->
+<g id="edge24" class="edge">
+<title>Badarpur Border--Tughlakabad Station</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M5634.47,-2061.45C5617.58,-2046.33 5593.07,-2024.41 5576.09,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="5626.27" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Sarai -->
+<g id="node35" class="node">
+<title>Sarai</title>
+<polygon fill="white" stroke="black" points="5700.63,-2008.8 5646.63,-2008.8 5646.63,-1972.8 5700.63,-1972.8 5700.63,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="5673.63" y="-1986.6" font-family="Arial" font-size="14.00">Sarai</text>
+</g>
+<!-- Badarpur Border&#45;&#45;Sarai -->
+<g id="edge25" class="edge">
+<title>Badarpur Border--Sarai</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M5657.59,-2061.45C5661.07,-2046.33 5666.12,-2024.41 5669.62,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="5677.87" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Badkal Mor -->
+<g id="node36" class="node">
+<title>Badkal Mor</title>
+<polygon fill="white" stroke="black" points="6403.04,-2186.4 6316.23,-2186.4 6316.23,-2150.4 6403.04,-2150.4 6403.04,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="6359.63" y="-2164.2" font-family="Arial" font-size="14.00">Badkal Mor</text>
+</g>
+<!-- Sector 28 Faridabad -->
+<g id="node37" class="node">
+<title>Sector 28 Faridabad</title>
+<polygon fill="white" stroke="black" points="6432.06,-2097.6 6289.21,-2097.6 6289.21,-2061.6 6432.06,-2061.6 6432.06,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="6360.63" y="-2075.4" font-family="Arial" font-size="14.00">Sector 28 Faridabad</text>
+</g>
+<!-- Badkal Mor&#45;&#45;Sector 28 Faridabad -->
+<g id="edge26" class="edge">
+<title>Badkal Mor--Sector 28 Faridabad</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M6359.83,-2150.25C6360.01,-2135.13 6360.26,-2113.21 6360.43,-2098.01"/>
+<text xml:space="preserve" text-anchor="middle" x="6372.67" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Old Faridabad -->
+<g id="node38" class="node">
+<title>Old Faridabad</title>
+<polygon fill="white" stroke="black" points="6554.99,-2097.6 6450.28,-2097.6 6450.28,-2061.6 6554.99,-2061.6 6554.99,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="6502.63" y="-2075.4" font-family="Arial" font-size="14.00">Old Faridabad</text>
+</g>
+<!-- Badkal Mor&#45;&#45;Old Faridabad -->
+<g id="edge27" class="edge">
+<title>Badkal Mor--Old Faridabad</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M6388.23,-2150.04C6413.17,-2134.9 6449.16,-2113.06 6474.09,-2097.93"/>
+<text xml:space="preserve" text-anchor="middle" x="6456.39" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Bahadurgarh City -->
+<g id="node39" class="node">
+<title>Bahadurgarh City</title>
+<polygon fill="white" stroke="black" points="7622.11,-2186.4 7497.16,-2186.4 7497.16,-2150.4 7622.11,-2150.4 7622.11,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="7559.63" y="-2164.2" font-family="Arial" font-size="14.00">Bahadurgarh City</text>
+</g>
+<!-- Pandit Shree Ram Sharma -->
+<g id="node40" class="node">
+<title>Pandit Shree Ram Sharma</title>
+<polygon fill="white" stroke="black" points="7706.29,-2097.6 7522.98,-2097.6 7522.98,-2061.6 7706.29,-2061.6 7706.29,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="7614.63" y="-2075.4" font-family="Arial" font-size="14.00">Pandit Shree Ram Sharma</text>
+</g>
+<!-- Bahadurgarh City&#45;&#45;Pandit Shree Ram Sharma -->
+<g id="edge28" class="edge">
+<title>Bahadurgarh City--Pandit Shree Ram Sharma</title>
+<path fill="none" stroke="green" stroke-width="2" d="M7570.5,-2150.25C7580.08,-2135.13 7593.97,-2113.21 7603.6,-2098.01"/>
+<text xml:space="preserve" text-anchor="middle" x="7604.51" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Brig. Hoshiar Singh -->
+<g id="node41" class="node">
+<title>Brig. Hoshiar Singh</title>
+<polygon fill="white" stroke="black" points="7504.94,-2097.6 7368.33,-2097.6 7368.33,-2061.6 7504.94,-2061.6 7504.94,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="7436.63" y="-2075.4" font-family="Arial" font-size="14.00">Brig. Hoshiar Singh</text>
+</g>
+<!-- Bahadurgarh City&#45;&#45;Brig. Hoshiar Singh -->
+<g id="edge29" class="edge">
+<title>Bahadurgarh City--Brig. Hoshiar Singh</title>
+<path fill="none" stroke="green" stroke-width="2" d="M7535.04,-2150.04C7513.59,-2134.9 7482.63,-2113.06 7461.19,-2097.93"/>
+<text xml:space="preserve" text-anchor="middle" x="7521.6" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Tikri Border -->
+<g id="node220" class="node">
+<title>Tikri Border</title>
+<polygon fill="white" stroke="black" points="7658.81,-2008.8 7570.46,-2008.8 7570.46,-1972.8 7658.81,-1972.8 7658.81,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="7614.63" y="-1986.6" font-family="Arial" font-size="14.00">Tikri Border</text>
+</g>
+<!-- Pandit Shree Ram Sharma&#45;&#45;Tikri Border -->
+<g id="edge212" class="edge">
+<title>Pandit Shree Ram Sharma--Tikri Border</title>
+<path fill="none" stroke="green" stroke-width="2" d="M7614.63,-2061.45C7614.63,-2046.33 7614.63,-2024.41 7614.63,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="7627.08" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Barakhamba Road -->
+<g id="node42" class="node">
+<title>Barakhamba Road</title>
+<polygon fill="lightgreen" stroke="black" points="765,-2008.8 632.27,-2008.8 632.27,-1972.8 765,-1972.8 765,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="698.63" y="-1986.6" font-family="Arial" font-size="14.00">Barakhamba Road</text>
+</g>
+<!-- Rajiv Chowk -->
+<g id="node43" class="node">
+<title>Rajiv Chowk</title>
+<polygon fill="lightgreen" stroke="black" points="1043.53,-1920 949.73,-1920 949.73,-1884 1043.53,-1884 1043.53,-1920"/>
+<text xml:space="preserve" text-anchor="middle" x="996.63" y="-1897.8" font-family="Arial" font-size="14.00">Rajiv Chowk</text>
+</g>
+<!-- Barakhamba Road&#45;&#45;Rajiv Chowk -->
+<g id="edge30" class="edge">
+<title>Barakhamba Road--Rajiv Chowk</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M750.27,-1972.32C781.76,-1961.88 822.9,-1948.62 859.74,-1938 889.33,-1929.47 922.8,-1920.89 949.24,-1914.36"/>
+<text xml:space="preserve" text-anchor="middle" x="872.19" y="-1942.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Barakhamba Road&#45;&#45;Rajiv Chowk -->
+<g id="edge262" class="edge">
+<title>Barakhamba Road--Rajiv Chowk</title>
+<path fill="none" stroke="black" stroke-width="4" d="M727.68,-1972.42C748.01,-1960.99 776.16,-1946.61 802.63,-1938 848.49,-1923.09 862.19,-1928.62 909.63,-1920 922.5,-1917.66 936.42,-1915 949.27,-1912.49"/>
+</g>
+<!-- Mandi House -->
+<g id="node44" class="node">
+<title>Mandi House</title>
+<polygon fill="lightgreen" stroke="black" points="682.88,-2097.6 584.39,-2097.6 584.39,-2061.6 682.88,-2061.6 682.88,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="633.63" y="-2075.4" font-family="Arial" font-size="14.00">Mandi House</text>
+</g>
+<!-- Barakhamba Road&#45;&#45;Mandi House -->
+<g id="edge31" class="edge">
+<title>Barakhamba Road--Mandi House</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M674.25,-2009C668,-2014.21 661.66,-2020.3 656.74,-2026.8 648.91,-2037.17 643.01,-2050.62 639.13,-2061.21"/>
+<text xml:space="preserve" text-anchor="middle" x="669.19" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Ramakrishna Ashram Marg -->
+<g id="node161" class="node">
+<title>Ramakrishna Ashram Marg</title>
+<polygon fill="lightgreen" stroke="black" points="1268.83,-1831.2 1082.44,-1831.2 1082.44,-1795.2 1268.83,-1795.2 1268.83,-1831.2"/>
+<text xml:space="preserve" text-anchor="middle" x="1175.63" y="-1809" font-family="Arial" font-size="14.00">Ramakrishna Ashram Marg</text>
+</g>
+<!-- Rajiv Chowk&#45;&#45;Ramakrishna Ashram Marg -->
+<g id="edge230" class="edge">
+<title>Rajiv Chowk--Ramakrishna Ashram Marg</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1032.43,-1883.64C1063.54,-1868.55 1108.41,-1846.8 1139.6,-1831.68"/>
+<text xml:space="preserve" text-anchor="middle" x="1114.61" y="-1853.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Rajiv Chowk&#45;&#45;Ramakrishna Ashram Marg -->
+<g id="edge263" class="edge">
+<title>Rajiv Chowk--Ramakrishna Ashram Marg</title>
+<path fill="none" stroke="black" stroke-width="4" d="M1015.97,-1883.68C1029.19,-1872.57 1047.53,-1858.54 1065.63,-1849.2 1078.99,-1842.31 1093.97,-1836.46 1108.46,-1831.62"/>
+</g>
+<!-- Mandi House&#45;&#45;Barakhamba Road -->
+<g id="edge261" class="edge">
+<title>Mandi House--Barakhamba Road</title>
+<path fill="none" stroke="black" stroke-width="4" d="M663.62,-2061.18C670.27,-2056.19 676.78,-2050.27 681.63,-2043.6 689.1,-2033.34 693.4,-2019.63 695.82,-2008.89"/>
+</g>
+<!-- Pragati Maidan (Supreme Court) -->
+<g id="node142" class="node">
+<title>Pragati Maidan (Supreme Court)</title>
+<polygon fill="lightgreen" stroke="black" points="795.79,-2186.4 577.48,-2186.4 577.48,-2150.4 795.79,-2150.4 795.79,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="686.63" y="-2164.2" font-family="Arial" font-size="14.00">Pragati Maidan (Supreme Court)</text>
+</g>
+<!-- Mandi House&#45;&#45;Pragati Maidan (Supreme Court) -->
+<g id="edge169" class="edge">
+<title>Mandi House--Pragati Maidan (Supreme Court)</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M632.78,-2098C633.01,-2108.6 634.71,-2122.05 640.74,-2132.4 644.68,-2139.15 650.48,-2145.04 656.64,-2149.96"/>
+<text xml:space="preserve" text-anchor="middle" x="653.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Bata Chowk -->
+<g id="node45" class="node">
+<title>Bata Chowk</title>
+<polygon fill="white" stroke="black" points="6628.38,-2275.2 6536.89,-2275.2 6536.89,-2239.2 6628.38,-2239.2 6628.38,-2275.2"/>
+<text xml:space="preserve" text-anchor="middle" x="6582.63" y="-2253" font-family="Arial" font-size="14.00">Bata Chowk</text>
+</g>
+<!-- Neelam Chowk Ajronda -->
+<g id="node46" class="node">
+<title>Neelam Chowk Ajronda</title>
+<polygon fill="white" stroke="black" points="6584.17,-2186.4 6421.1,-2186.4 6421.1,-2150.4 6584.17,-2150.4 6584.17,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="6502.63" y="-2164.2" font-family="Arial" font-size="14.00">Neelam Chowk Ajronda</text>
+</g>
+<!-- Bata Chowk&#45;&#45;Neelam Chowk Ajronda -->
+<g id="edge32" class="edge">
+<title>Bata Chowk--Neelam Chowk Ajronda</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M6566.83,-2239.05C6552.89,-2223.93 6532.69,-2202.01 6518.68,-2186.81"/>
+<text xml:space="preserve" text-anchor="middle" x="6562.24" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Escorts Mujesar -->
+<g id="node47" class="node">
+<title>Escorts Mujesar</title>
+<polygon fill="white" stroke="black" points="6718.81,-2186.4 6602.46,-2186.4 6602.46,-2150.4 6718.81,-2150.4 6718.81,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="6660.63" y="-2164.2" font-family="Arial" font-size="14.00">Escorts Mujesar</text>
+</g>
+<!-- Bata Chowk&#45;&#45;Escorts Mujesar -->
+<g id="edge33" class="edge">
+<title>Bata Chowk--Escorts Mujesar</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M6598.04,-2239.05C6611.63,-2223.93 6631.33,-2202.01 6644.99,-2186.81"/>
+<text xml:space="preserve" text-anchor="middle" x="6641.07" y="-2208.6" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Neelam Chowk Ajronda&#45;&#45;Old Faridabad -->
+<g id="edge195" class="edge">
+<title>Neelam Chowk Ajronda--Old Faridabad</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M6502.63,-2150.25C6502.63,-2135.13 6502.63,-2113.21 6502.63,-2098.01"/>
+<text xml:space="preserve" text-anchor="middle" x="6515.08" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Raja Nahar Singh -->
+<g id="node114" class="node">
+<title>Raja Nahar Singh</title>
+<polygon fill="white" stroke="black" points="6705.89,-2097.6 6579.38,-2097.6 6579.38,-2061.6 6705.89,-2061.6 6705.89,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="6642.63" y="-2075.4" font-family="Arial" font-size="14.00">Raja Nahar Singh</text>
+</g>
+<!-- Escorts Mujesar&#45;&#45;Raja Nahar Singh -->
+<g id="edge86" class="edge">
+<title>Escorts Mujesar--Raja Nahar Singh</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M6657.08,-2150.25C6653.94,-2135.13 6649.4,-2113.21 6646.24,-2098.01"/>
+<text xml:space="preserve" text-anchor="middle" x="6665.69" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Belvedere Towers -->
+<g id="node48" class="node">
+<title>Belvedere Towers</title>
+<polygon fill="white" stroke="black" points="6965.05,-2275.2 6836.22,-2275.2 6836.22,-2239.2 6965.05,-2239.2 6965.05,-2275.2"/>
+<text xml:space="preserve" text-anchor="middle" x="6900.63" y="-2253" font-family="Arial" font-size="14.00">Belvedere Towers</text>
+</g>
+<!-- Phase&#45;2 -->
+<g id="node49" class="node">
+<title>Phase-2</title>
+<polygon fill="white" stroke="black" points="7053.71,-2186.4 6985.56,-2186.4 6985.56,-2150.4 7053.71,-2150.4 7053.71,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="7019.63" y="-2164.2" font-family="Arial" font-size="14.00">Phase-2</text>
+</g>
+<!-- Belvedere Towers&#45;&#45;Phase&#45;2 -->
+<g id="edge34" class="edge">
+<title>Belvedere Towers--Phase-2</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M6924.43,-2238.84C6945.18,-2223.7 6975.14,-2201.86 6995.88,-2186.73"/>
+<text xml:space="preserve" text-anchor="middle" x="6983.24" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Cyber City -->
+<g id="node50" class="node">
+<title>Cyber City</title>
+<polygon fill="white" stroke="black" points="6818.31,-2186.4 6736.96,-2186.4 6736.96,-2150.4 6818.31,-2150.4 6818.31,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="6777.63" y="-2164.2" font-family="Arial" font-size="14.00">Cyber City</text>
+</g>
+<!-- Belvedere Towers&#45;&#45;Cyber City -->
+<g id="edge35" class="edge">
+<title>Belvedere Towers--Cyber City</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M6864.72,-2238.75C6855.04,-2233.54 6844.76,-2227.52 6835.74,-2221.2 6821.14,-2210.96 6806.14,-2197.51 6795.05,-2186.88"/>
+<text xml:space="preserve" text-anchor="middle" x="6848.19" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Phase&#45;2&#45;&#45;Sikanderpur -->
+<g id="edge221" class="edge">
+<title>Phase-2--Sikanderpur</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M7017.26,-2150.25C7015.17,-2135.13 7012.14,-2113.21 7010.04,-2098.01"/>
+<text xml:space="preserve" text-anchor="middle" x="7027.15" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Moulsari Avenue -->
+<g id="node72" class="node">
+<title>Moulsari Avenue</title>
+<polygon fill="white" stroke="black" points="6843.77,-2097.6 6723.5,-2097.6 6723.5,-2061.6 6843.77,-2061.6 6843.77,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="6783.63" y="-2075.4" font-family="Arial" font-size="14.00">Moulsari Avenue</text>
+</g>
+<!-- Cyber City&#45;&#45;Moulsari Avenue -->
+<g id="edge51" class="edge">
+<title>Cyber City--Moulsari Avenue</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M6778.82,-2150.25C6779.86,-2135.13 6781.38,-2113.21 6782.43,-2098.01"/>
+<text xml:space="preserve" text-anchor="middle" x="6793.62" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Bhikaji Cama Place -->
+<g id="node51" class="node">
+<title>Bhikaji Cama Place</title>
+<polygon fill="white" stroke="black" points="4242.33,-2186.4 4104.94,-2186.4 4104.94,-2150.4 4242.33,-2150.4 4242.33,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="4173.63" y="-2164.2" font-family="Arial" font-size="14.00">Bhikaji Cama Place</text>
+</g>
+<!-- Sir M. Vishweshwaraiah Moti Bagh -->
+<g id="node52" class="node">
+<title>Sir M. Vishweshwaraiah Moti Bagh</title>
+<polygon fill="white" stroke="black" points="4446.79,-2097.6 4214.48,-2097.6 4214.48,-2061.6 4446.79,-2061.6 4446.79,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="4330.63" y="-2075.4" font-family="Arial" font-size="14.00">Sir M. Vishweshwaraiah Moti Bagh</text>
+</g>
+<!-- Bhikaji Cama Place&#45;&#45;Sir M. Vishweshwaraiah Moti Bagh -->
+<g id="edge36" class="edge">
+<title>Bhikaji Cama Place--Sir M. Vishweshwaraiah Moti Bagh</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M4205.03,-2150.04C4232.32,-2134.95 4271.67,-2113.2 4299.03,-2098.08"/>
+<text xml:space="preserve" text-anchor="middle" x="4278.64" y="-2119.8" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Sarojini Nagar -->
+<g id="node53" class="node">
+<title>Sarojini Nagar</title>
+<polygon fill="white" stroke="black" points="4195.99,-2097.6 4091.28,-2097.6 4091.28,-2061.6 4195.99,-2061.6 4195.99,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="4143.63" y="-2075.4" font-family="Arial" font-size="14.00">Sarojini Nagar</text>
+</g>
+<!-- Bhikaji Cama Place&#45;&#45;Sarojini Nagar -->
+<g id="edge37" class="edge">
+<title>Bhikaji Cama Place--Sarojini Nagar</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M4167.71,-2150.25C4162.48,-2135.13 4154.9,-2113.21 4149.65,-2098.01"/>
+<text xml:space="preserve" text-anchor="middle" x="4173.77" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Botanical Garden -->
+<g id="node54" class="node">
+<title>Botanical Garden</title>
+<polygon fill="white" stroke="black" points="3634.72,-2186.4 3510.54,-2186.4 3510.54,-2150.4 3634.72,-2150.4 3634.72,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="3572.63" y="-2164.2" font-family="Arial" font-size="14.00">Botanical Garden</text>
+</g>
+<!-- Noida Sector 18 -->
+<g id="node55" class="node">
+<title>Noida Sector 18</title>
+<polygon fill="white" stroke="black" points="3584.83,-2097.6 3468.44,-2097.6 3468.44,-2061.6 3584.83,-2061.6 3584.83,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="3526.63" y="-2075.4" font-family="Arial" font-size="14.00">Noida Sector 18</text>
+</g>
+<!-- Botanical Garden&#45;&#45;Noida Sector 18 -->
+<g id="edge38" class="edge">
+<title>Botanical Garden--Noida Sector 18</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M3563.55,-2150.25C3555.53,-2135.13 3543.91,-2113.21 3535.86,-2098.01"/>
+<text xml:space="preserve" text-anchor="middle" x="3566.2" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Golf Course -->
+<g id="node56" class="node">
+<title>Golf Course</title>
+<polygon fill="white" stroke="black" points="3795.98,-2097.6 3705.29,-2097.6 3705.29,-2061.6 3795.98,-2061.6 3795.98,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="3750.63" y="-2075.4" font-family="Arial" font-size="14.00">Golf Course</text>
+</g>
+<!-- Botanical Garden&#45;&#45;Golf Course -->
+<g id="edge39" class="edge">
+<title>Botanical Garden--Golf Course</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M3608.23,-2150.04C3639.17,-2134.95 3683.78,-2113.2 3714.8,-2098.08"/>
+<text xml:space="preserve" text-anchor="middle" x="3690.02" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Okhla Bird Sanctuary -->
+<g id="node57" class="node">
+<title>Okhla Bird Sanctuary</title>
+<polygon fill="white" stroke="black" points="4073.78,-2097.6 3925.49,-2097.6 3925.49,-2061.6 4073.78,-2061.6 4073.78,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="3999.63" y="-2075.4" font-family="Arial" font-size="14.00">Okhla Bird Sanctuary</text>
+</g>
+<!-- Botanical Garden&#45;&#45;Okhla Bird Sanctuary -->
+<g id="edge40" class="edge">
+<title>Botanical Garden--Okhla Bird Sanctuary</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M3634.95,-2152.4C3637.89,-2151.72 3640.79,-2151.05 3643.63,-2150.4 3715.06,-2134.14 3732.75,-2129.16 3804.74,-2115.6 3854.24,-2106.28 3867.09,-2106.66 3916.63,-2097.6 3919.38,-2097.1 3922.18,-2096.58 3925.01,-2096.04"/>
+<text xml:space="preserve" text-anchor="middle" x="3817.19" y="-2119.8" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Noida City Centre -->
+<g id="node123" class="node">
+<title>Noida City Centre</title>
+<polygon fill="white" stroke="black" points="3813.88,-2008.8 3687.39,-2008.8 3687.39,-1972.8 3813.88,-1972.8 3813.88,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="3750.63" y="-1986.6" font-family="Arial" font-size="14.00">Noida City Centre</text>
+</g>
+<!-- Golf Course&#45;&#45;Noida City Centre -->
+<g id="edge94" class="edge">
+<title>Golf Course--Noida City Centre</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M3750.63,-2061.45C3750.63,-2046.33 3750.63,-2024.41 3750.63,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="3763.08" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Central Secretariat -->
+<g id="node58" class="node">
+<title>Central Secretariat</title>
+<polygon fill="white" stroke="black" points="972.99,-2097.6 840.28,-2097.6 840.28,-2061.6 972.99,-2061.6 972.99,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="906.63" y="-2075.4" font-family="Arial" font-size="14.00">Central Secretariat</text>
+</g>
+<!-- Patel Chowk -->
+<g id="node59" class="node">
+<title>Patel Chowk</title>
+<polygon fill="white" stroke="black" points="1103.93,-2008.8 1009.34,-2008.8 1009.34,-1972.8 1103.93,-1972.8 1103.93,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="1056.63" y="-1986.6" font-family="Arial" font-size="14.00">Patel Chowk</text>
+</g>
+<!-- Central Secretariat&#45;&#45;Patel Chowk -->
+<g id="edge41" class="edge">
+<title>Central Secretariat--Patel Chowk</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M920.92,-2061.26C930.84,-2050.14 944.9,-2036.1 959.74,-2026.8 968.5,-2021.32 989.07,-2013.66 1009.02,-2006.9"/>
+<text xml:space="preserve" text-anchor="middle" x="972.19" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Udyog Bhawan -->
+<g id="node60" class="node">
+<title>Udyog Bhawan</title>
+<polygon fill="white" stroke="black" points="894.11,-2008.8 783.16,-2008.8 783.16,-1972.8 894.11,-1972.8 894.11,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="838.63" y="-1986.6" font-family="Arial" font-size="14.00">Udyog Bhawan</text>
+</g>
+<!-- Central Secretariat&#45;&#45;Udyog Bhawan -->
+<g id="edge42" class="edge">
+<title>Central Secretariat--Udyog Bhawan</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M879.32,-2061.43C872.63,-2056.29 865.91,-2050.24 860.74,-2043.6 852.7,-2033.26 847.02,-2019.55 843.43,-2008.84"/>
+<text xml:space="preserve" text-anchor="middle" x="873.19" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Patel Chowk&#45;&#45;Rajiv Chowk -->
+<g id="edge215" class="edge">
+<title>Patel Chowk--Rajiv Chowk</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M1044.78,-1972.65C1034.33,-1957.53 1019.17,-1935.61 1008.67,-1920.41"/>
+<text xml:space="preserve" text-anchor="middle" x="1044.45" y="-1942.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Chandni Chowk -->
+<g id="node61" class="node">
+<title>Chandni Chowk</title>
+<polygon fill="white" stroke="black" points="1194.05,-2186.4 1079.22,-2186.4 1079.22,-2150.4 1194.05,-2150.4 1194.05,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="1136.63" y="-2164.2" font-family="Arial" font-size="14.00">Chandni Chowk</text>
+</g>
+<!-- Civil Lines -->
+<g id="node62" class="node">
+<title>Civil Lines</title>
+<polygon fill="white" stroke="black" points="1188.53,-2097.6 1108.73,-2097.6 1108.73,-2061.6 1188.53,-2061.6 1188.53,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="1148.63" y="-2075.4" font-family="Arial" font-size="14.00">Civil Lines</text>
+</g>
+<!-- Chandni Chowk&#45;&#45;Civil Lines -->
+<g id="edge43" class="edge">
+<title>Chandni Chowk--Civil Lines</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M1139.01,-2150.25C1141.1,-2135.13 1144.13,-2113.21 1146.23,-2098.01"/>
+<text xml:space="preserve" text-anchor="middle" x="1156.15" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Chawri Bazar -->
+<g id="node63" class="node">
+<title>Chawri Bazar</title>
+<polygon fill="white" stroke="black" points="1090.65,-2097.6 990.62,-2097.6 990.62,-2061.6 1090.65,-2061.6 1090.65,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="1040.63" y="-2075.4" font-family="Arial" font-size="14.00">Chawri Bazar</text>
+</g>
+<!-- Chandni Chowk&#45;&#45;Chawri Bazar -->
+<g id="edge44" class="edge">
+<title>Chandni Chowk--Chawri Bazar</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M1078.82,-2153.66C1067.78,-2148.62 1057.32,-2141.75 1049.74,-2132.4 1041.93,-2122.75 1039.84,-2108.74 1039.61,-2097.71"/>
+<text xml:space="preserve" text-anchor="middle" x="1062.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Vidhan Sabha -->
+<g id="node71" class="node">
+<title>Vidhan Sabha</title>
+<polygon fill="white" stroke="black" points="1231.62,-2008.8 1127.65,-2008.8 1127.65,-1972.8 1231.62,-1972.8 1231.62,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="1179.63" y="-1986.6" font-family="Arial" font-size="14.00">Vidhan Sabha</text>
+</g>
+<!-- Civil Lines&#45;&#45;Vidhan Sabha -->
+<g id="edge50" class="edge">
+<title>Civil Lines--Vidhan Sabha</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M1154.76,-2061.45C1160.16,-2046.33 1167.99,-2024.41 1173.42,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="1179.36" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- New Delhi -->
+<g id="node64" class="node">
+<title>New Delhi</title>
+<polygon fill="white" stroke="black" points="991.53,-2008.8 911.73,-2008.8 911.73,-1972.8 991.53,-1972.8 991.53,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="951.63" y="-1986.6" font-family="Arial" font-size="14.00">New Delhi</text>
+</g>
+<!-- Chawri Bazar&#45;&#45;New Delhi -->
+<g id="edge45" class="edge">
+<title>Chawri Bazar--New Delhi</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M1023.05,-2061.45C1007.55,-2046.33 985.07,-2024.41 969.49,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="1016.55" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- New Delhi&#45;&#45;Rajiv Chowk -->
+<g id="edge199" class="edge">
+<title>New Delhi--Rajiv Chowk</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M953.8,-1972.7C955.64,-1962.22 958.94,-1948.78 964.74,-1938 968.17,-1931.63 973.01,-1925.5 977.89,-1920.2"/>
+<text xml:space="preserve" text-anchor="middle" x="977.19" y="-1942.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Shivaji Stadium -->
+<g id="node86" class="node">
+<title>Shivaji Stadium</title>
+<polygon fill="white" stroke="black" points="900.88,-1920 788.39,-1920 788.39,-1884 900.88,-1884 900.88,-1920"/>
+<text xml:space="preserve" text-anchor="middle" x="844.63" y="-1897.8" font-family="Arial" font-size="14.00">Shivaji Stadium</text>
+</g>
+<!-- New Delhi&#45;&#45;Shivaji Stadium -->
+<g id="edge200" class="edge">
+<title>New Delhi--Shivaji Stadium</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M930.24,-1972.44C911.58,-1957.3 884.64,-1935.46 865.99,-1920.33"/>
+<text xml:space="preserve" text-anchor="middle" x="920.16" y="-1942.2" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Chhatarpur -->
+<g id="node65" class="node">
+<title>Chhatarpur</title>
+<polygon fill="white" stroke="black" points="3858.65,-2186.4 3772.61,-2186.4 3772.61,-2150.4 3858.65,-2150.4 3858.65,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="3815.63" y="-2164.2" font-family="Arial" font-size="14.00">Chhatarpur</text>
+</g>
+<!-- Qutab Minar -->
+<g id="node66" class="node">
+<title>Qutab Minar</title>
+<polygon fill="white" stroke="black" points="3907.15,-2097.6 3814.12,-2097.6 3814.12,-2061.6 3907.15,-2061.6 3907.15,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="3860.63" y="-2075.4" font-family="Arial" font-size="14.00">Qutab Minar</text>
+</g>
+<!-- Chhatarpur&#45;&#45;Qutab Minar -->
+<g id="edge46" class="edge">
+<title>Chhatarpur--Qutab Minar</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M3824.52,-2150.25C3832.36,-2135.13 3843.73,-2113.21 3851.61,-2098.01"/>
+<text xml:space="preserve" text-anchor="middle" x="3854.61" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Chhatarpur&#45;&#45;Sultanpur -->
+<g id="edge47" class="edge">
+<title>Chhatarpur--Sultanpur</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M3859.14,-2152.43C3862,-2151.68 3864.85,-2150.99 3867.63,-2150.4 3943.24,-2134.3 3969.81,-2163.38 4040.63,-2132.4 4050.99,-2127.87 4049.21,-2119.72 4059.74,-2115.6 4138.31,-2084.91 4735.73,-2113.15 4818.63,-2097.6 4821.45,-2097.07 4824.32,-2096.4 4827.18,-2095.62"/>
+<text xml:space="preserve" text-anchor="middle" x="4072.19" y="-2119.8" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Saket -->
+<g id="node191" class="node">
+<title>Saket</title>
+<polygon fill="white" stroke="black" points="3886.63,-2008.8 3832.63,-2008.8 3832.63,-1972.8 3886.63,-1972.8 3886.63,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="3859.63" y="-1986.6" font-family="Arial" font-size="14.00">Saket</text>
+</g>
+<!-- Qutab Minar&#45;&#45;Saket -->
+<g id="edge228" class="edge">
+<title>Qutab Minar--Saket</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M3860.44,-2061.45C3860.26,-2046.33 3860.01,-2024.41 3859.83,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="3872.67" y="-2031" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Chirag Delhi -->
+<g id="node68" class="node">
+<title>Chirag Delhi</title>
+<polygon fill="white" stroke="black" points="3023.15,-2186.4 2930.12,-2186.4 2930.12,-2150.4 3023.15,-2150.4 3023.15,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="2976.63" y="-2164.2" font-family="Arial" font-size="14.00">Chirag Delhi</text>
+</g>
+<!-- Panchsheel Park -->
+<g id="node69" class="node">
+<title>Panchsheel Park</title>
+<polygon fill="white" stroke="black" points="2865.55,-2097.6 2743.71,-2097.6 2743.71,-2061.6 2865.55,-2061.6 2865.55,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="2804.63" y="-2075.4" font-family="Arial" font-size="14.00">Panchsheel Park</text>
+</g>
+<!-- Chirag Delhi&#45;&#45;Panchsheel Park -->
+<g id="edge48" class="edge">
+<title>Chirag Delhi--Panchsheel Park</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M2964.31,-2150.18C2955.34,-2138.82 2942.24,-2124.46 2927.63,-2115.6 2921.87,-2112.1 2893.87,-2104.04 2866.04,-2096.54"/>
+<text xml:space="preserve" text-anchor="middle" x="2959.87" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Greater Kailash -->
+<g id="node70" class="node">
+<title>Greater Kailash</title>
+<polygon fill="white" stroke="black" points="3314.27,-2097.6 3201,-2097.6 3201,-2061.6 3314.27,-2061.6 3314.27,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="3257.63" y="-2075.4" font-family="Arial" font-size="14.00">Greater Kailash</text>
+</g>
+<!-- Chirag Delhi&#45;&#45;Greater Kailash -->
+<g id="edge49" class="edge">
+<title>Chirag Delhi--Greater Kailash</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M3023.36,-2153.11C3026.49,-2152.18 3029.61,-2151.27 3032.63,-2150.4 3061.85,-2141.98 3071.22,-2145.55 3098.63,-2132.4 3110.08,-2126.91 3110.26,-2121.01 3121.74,-2115.6 3150.76,-2101.93 3160.57,-2105.6 3191.63,-2097.6 3194.61,-2096.83 3197.67,-2096.05 3200.75,-2095.25"/>
+<text xml:space="preserve" text-anchor="middle" x="3134.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Nehru Enclave -->
+<g id="node127" class="node">
+<title>Nehru Enclave</title>
+<polygon fill="white" stroke="black" points="4325.55,-2008.8 4217.72,-2008.8 4217.72,-1972.8 4325.55,-1972.8 4325.55,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="4271.63" y="-1986.6" font-family="Arial" font-size="14.00">Nehru Enclave</text>
+</g>
+<!-- Greater Kailash&#45;&#45;Nehru Enclave -->
+<g id="edge97" class="edge">
+<title>Greater Kailash--Nehru Enclave</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M3314.72,-2063.08C3317.72,-2062.52 3320.71,-2062.02 3323.63,-2061.6 3572.35,-2026.05 3638.26,-2064.46 3888.63,-2043.6 4006.32,-2033.79 4143.21,-2012.99 4217.28,-2000.94"/>
+<text xml:space="preserve" text-anchor="middle" x="4048.89" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Vishwavidyalaya -->
+<g id="node116" class="node">
+<title>Vishwavidyalaya</title>
+<polygon fill="white" stroke="black" points="4804.38,-1920 4684.89,-1920 4684.89,-1884 4804.38,-1884 4804.38,-1920"/>
+<text xml:space="preserve" text-anchor="middle" x="4744.63" y="-1897.8" font-family="Arial" font-size="14.00">Vishwavidyalaya</text>
+</g>
+<!-- Vidhan Sabha&#45;&#45;Vishwavidyalaya -->
+<g id="edge250" class="edge">
+<title>Vidhan Sabha--Vishwavidyalaya</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M1231.81,-1974.79C1235.79,-1974 1239.76,-1973.32 1243.63,-1972.8 1383.28,-1954.07 3638.81,-1959.08 3779.63,-1954.8 4122.37,-1944.39 4532.91,-1917.59 4684.55,-1907.2"/>
+<text xml:space="preserve" text-anchor="middle" x="4163.62" y="-1942.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Phase&#45;3 -->
+<g id="node201" class="node">
+<title>Phase-3</title>
+<polygon fill="white" stroke="black" points="6817.71,-2008.8 6749.56,-2008.8 6749.56,-1972.8 6817.71,-1972.8 6817.71,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="6783.63" y="-1986.6" font-family="Arial" font-size="14.00">Phase-3</text>
+</g>
+<!-- Moulsari Avenue&#45;&#45;Phase&#45;3 -->
+<g id="edge184" class="edge">
+<title>Moulsari Avenue--Phase-3</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M6783.63,-2061.45C6783.63,-2046.33 6783.63,-2024.41 6783.63,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="6796.08" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Dabri Mor &#45; Janakpuri South -->
+<g id="node73" class="node">
+<title>Dabri Mor - Janakpuri South</title>
+<polygon fill="white" stroke="black" points="3459.17,-2364 3268.1,-2364 3268.1,-2328 3459.17,-2328 3459.17,-2364"/>
+<text xml:space="preserve" text-anchor="middle" x="3363.63" y="-2341.8" font-family="Arial" font-size="14.00">Dabri Mor - Janakpuri South</text>
+</g>
+<!-- Janakpuri West -->
+<g id="node74" class="node">
+<title>Janakpuri West</title>
+<polygon fill="lightgreen" stroke="black" points="1603.88,-568.8 1491.39,-568.8 1491.39,-532.8 1603.88,-532.8 1603.88,-568.8"/>
+<text xml:space="preserve" text-anchor="middle" x="1547.63" y="-546.6" font-family="Arial" font-size="14.00">Janakpuri West</text>
+</g>
+<!-- Dabri Mor &#45; Janakpuri South&#45;&#45;Janakpuri West -->
+<g id="edge52" class="edge">
+<title>Dabri Mor - Janakpuri South--Janakpuri West</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M3388.75,-2327.59C3408,-2315.34 3435.73,-2299.97 3462.63,-2293.2 3505.95,-2282.29 5038,-2305.7 5070.63,-2275.2 5085.21,-2261.57 5077.63,-2085.23 5077.63,-2036.2 5077.63,-2036.2 5077.63,-2036.2 5077.63,-638.6 5077.63,-547.87 2056.96,-550.72 1604.15,-551.66"/>
+<text xml:space="preserve" text-anchor="middle" x="5090.08" y="-1434.6" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Dashrathpuri -->
+<g id="node75" class="node">
+<title>Dashrathpuri</title>
+<polygon fill="white" stroke="black" points="2288.71,-2275.2 2192.56,-2275.2 2192.56,-2239.2 2288.71,-2239.2 2288.71,-2275.2"/>
+<text xml:space="preserve" text-anchor="middle" x="2240.63" y="-2253" font-family="Arial" font-size="14.00">Dashrathpuri</text>
+</g>
+<!-- Dabri Mor &#45; Janakpuri South&#45;&#45;Dashrathpuri -->
+<g id="edge53" class="edge">
+<title>Dabri Mor - Janakpuri South--Dashrathpuri</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M3267.84,-2329.05C3264.74,-2328.67 3261.66,-2328.32 3258.63,-2328 3047.05,-2305.56 2512.59,-2309.66 2302.63,-2275.2 2298.23,-2274.48 2293.69,-2273.56 2289.16,-2272.54"/>
+<text xml:space="preserve" text-anchor="middle" x="2903.63" y="-2297.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Uttam Nagar East -->
+<g id="node150" class="node">
+<title>Uttam Nagar East</title>
+<polygon fill="lightgreen" stroke="black" points="1571.27,-480 1444,-480 1444,-444 1571.27,-444 1571.27,-480"/>
+<text xml:space="preserve" text-anchor="middle" x="1507.63" y="-457.8" font-family="Arial" font-size="14.00">Uttam Nagar East</text>
+</g>
+<!-- Janakpuri West&#45;&#45;Uttam Nagar East -->
+<g id="edge122" class="edge">
+<title>Janakpuri West--Uttam Nagar East</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1522.46,-532.66C1516.95,-527.6 1511.85,-521.57 1508.74,-514.8 1503.8,-504.01 1503.66,-490.57 1504.68,-480.09"/>
+<text xml:space="preserve" text-anchor="middle" x="1521.19" y="-502.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Janakpuri West&#45;&#45;Uttam Nagar East -->
+<g id="edge278" class="edge">
+<title>Janakpuri West--Uttam Nagar East</title>
+<path fill="none" stroke="black" stroke-width="4" d="M1544.64,-532.43C1542.45,-522.08 1538.92,-508.9 1533.63,-498 1530.66,-491.87 1526.57,-485.72 1522.5,-480.33"/>
+</g>
+<!-- Palam -->
+<g id="node76" class="node">
+<title>Palam</title>
+<polygon fill="white" stroke="black" points="1664.48,-2186.4 1608.79,-2186.4 1608.79,-2150.4 1664.48,-2150.4 1664.48,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="1636.63" y="-2164.2" font-family="Arial" font-size="14.00">Palam</text>
+</g>
+<!-- Dashrathpuri&#45;&#45;Palam -->
+<g id="edge54" class="edge">
+<title>Dashrathpuri--Palam</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M2192.31,-2240.92C2189.39,-2240.27 2186.48,-2239.69 2183.63,-2239.2 2018.32,-2211.03 1972.52,-2246.55 1806.74,-2221.2 1746.3,-2211.96 1731.22,-2206.98 1673.63,-2186.4 1670.71,-2185.35 1667.69,-2184.16 1664.7,-2182.91"/>
+<text xml:space="preserve" text-anchor="middle" x="1819.19" y="-2208.6" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Sadar Bazar Cantonment -->
+<g id="node219" class="node">
+<title>Sadar Bazar Cantonment</title>
+<polygon fill="white" stroke="black" points="1748.62,-2097.6 1574.65,-2097.6 1574.65,-2061.6 1748.62,-2061.6 1748.62,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="1661.63" y="-2075.4" font-family="Arial" font-size="14.00">Sadar Bazar Cantonment</text>
+</g>
+<!-- Palam&#45;&#45;Sadar Bazar Cantonment -->
+<g id="edge211" class="edge">
+<title>Palam--Sadar Bazar Cantonment</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M1641.57,-2150.25C1645.93,-2135.13 1652.24,-2113.21 1656.62,-2098.01"/>
+<text xml:space="preserve" text-anchor="middle" x="1663.82" y="-2119.8" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Dhaula Kuan&#45;&#45;Shivaji Stadium -->
+<g id="edge61" class="edge">
+<title>Dhaula Kuan--Shivaji Stadium</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M599.69,-1972.35C622.45,-1961.25 653.31,-1947.28 681.74,-1938 716.39,-1926.69 756.39,-1918.03 788.08,-1912.16"/>
+<text xml:space="preserve" text-anchor="middle" x="694.19" y="-1942.2" font-family="Times,serif" font-size="14.00">6km</text>
+</g>
+<!-- Delhi Cantt -->
+<g id="node78" class="node">
+<title>Delhi Cantt</title>
+<polygon fill="white" stroke="black" points="4188.26,-2275.2 4103.01,-2275.2 4103.01,-2239.2 4188.26,-2239.2 4188.26,-2275.2"/>
+<text xml:space="preserve" text-anchor="middle" x="4145.63" y="-2253" font-family="Arial" font-size="14.00">Delhi Cantt</text>
+</g>
+<!-- Naraina Vihar -->
+<g id="node79" class="node">
+<title>Naraina Vihar</title>
+<polygon fill="white" stroke="black" points="3978.43,-2186.4 3876.83,-2186.4 3876.83,-2150.4 3978.43,-2150.4 3978.43,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="3927.63" y="-2164.2" font-family="Arial" font-size="14.00">Naraina Vihar</text>
+</g>
+<!-- Delhi Cantt&#45;&#45;Naraina Vihar -->
+<g id="edge56" class="edge">
+<title>Delhi Cantt--Naraina Vihar</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M4102.66,-2239.34C4088.08,-2233.61 4071.69,-2227.14 4056.74,-2221.2 4028.13,-2209.83 3995.99,-2196.93 3970.94,-2186.85"/>
+<text xml:space="preserve" text-anchor="middle" x="4069.19" y="-2208.6" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Durgabai Deshmukh South Campus -->
+<g id="node80" class="node">
+<title>Durgabai Deshmukh South Campus</title>
+<polygon fill="white" stroke="black" points="4500.69,-2186.4 4260.58,-2186.4 4260.58,-2150.4 4500.69,-2150.4 4500.69,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="4380.63" y="-2164.2" font-family="Arial" font-size="14.00">Durgabai Deshmukh South Campus</text>
+</g>
+<!-- Delhi Cantt&#45;&#45;Durgabai Deshmukh South Campus -->
+<g id="edge57" class="edge">
+<title>Delhi Cantt--Durgabai Deshmukh South Campus</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M4188.74,-2240.28C4229.68,-2225.16 4291.1,-2202.47 4333.37,-2186.86"/>
+<text xml:space="preserve" text-anchor="middle" x="4296.63" y="-2208.6" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Durgabai Deshmukh South Campus&#45;&#45;Sir M. Vishweshwaraiah Moti Bagh -->
+<g id="edge67" class="edge">
+<title>Durgabai Deshmukh South Campus--Sir M. Vishweshwaraiah Moti Bagh</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M4370.76,-2150.25C4362.05,-2135.13 4349.42,-2113.21 4340.66,-2098.01"/>
+<text xml:space="preserve" text-anchor="middle" x="4372.56" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Delhi Gate -->
+<g id="node81" class="node">
+<title>Delhi Gate</title>
+<polygon fill="white" stroke="black" points="2174.71,-2275.2 2092.56,-2275.2 2092.56,-2239.2 2174.71,-2239.2 2174.71,-2275.2"/>
+<text xml:space="preserve" text-anchor="middle" x="2133.63" y="-2253" font-family="Arial" font-size="14.00">Delhi Gate</text>
+</g>
+<!-- Jama Masjid -->
+<g id="node82" class="node">
+<title>Jama Masjid</title>
+<polygon fill="white" stroke="black" points="1579.92,-2186.4 1485.34,-2186.4 1485.34,-2150.4 1579.92,-2150.4 1579.92,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="1532.63" y="-2164.2" font-family="Arial" font-size="14.00">Jama Masjid</text>
+</g>
+<!-- Delhi Gate&#45;&#45;Jama Masjid -->
+<g id="edge58" class="edge">
+<title>Delhi Gate--Jama Masjid</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M2092.13,-2241.1C2089.28,-2240.37 2086.43,-2239.73 2083.63,-2239.2 1904.42,-2205.51 1852.54,-2257.04 1673.74,-2221.2 1637.54,-2213.94 1598.25,-2198.88 1570.34,-2186.86"/>
+<text xml:space="preserve" text-anchor="middle" x="1686.19" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- ITO -->
+<g id="node83" class="node">
+<title>ITO</title>
+<polygon fill="white" stroke="black" points="1029.63,-2186.4 975.63,-2186.4 975.63,-2150.4 1029.63,-2150.4 1029.63,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="1002.63" y="-2164.2" font-family="Arial" font-size="14.00">ITO</text>
+</g>
+<!-- Delhi Gate&#45;&#45;ITO -->
+<g id="edge59" class="edge">
+<title>Delhi Gate--ITO</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M2092.13,-2241.08C2089.28,-2240.35 2086.43,-2239.71 2083.63,-2239.2 1975.62,-2219.31 1699.42,-2226.87 1589.74,-2221.2 1358.82,-2209.25 1299.06,-2222.32 1070.63,-2186.4 1057.05,-2184.26 1042.21,-2180.7 1029.87,-2177.39"/>
+<text xml:space="preserve" text-anchor="middle" x="1602.19" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Lal Quila -->
+<g id="node144" class="node">
+<title>Lal Quila</title>
+<polygon fill="white" stroke="black" points="1556.26,-2097.6 1485.01,-2097.6 1485.01,-2061.6 1556.26,-2061.6 1556.26,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="1520.63" y="-2075.4" font-family="Arial" font-size="14.00">Lal Quila</text>
+</g>
+<!-- Jama Masjid&#45;&#45;Lal Quila -->
+<g id="edge117" class="edge">
+<title>Jama Masjid--Lal Quila</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M1530.26,-2150.25C1528.17,-2135.13 1525.14,-2113.21 1523.04,-2098.01"/>
+<text xml:space="preserve" text-anchor="middle" x="1540.15" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- ITO&#45;&#45;Mandi House -->
+<g id="edge110" class="edge">
+<title>ITO--Mandi House</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M975.51,-2162.55C955.41,-2159.01 927.35,-2154.2 902.63,-2150.4 844.6,-2141.48 828.67,-2146.8 771.74,-2132.4 737.61,-2123.77 700.3,-2109.46 673.07,-2098.07"/>
+<text xml:space="preserve" text-anchor="middle" x="784.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Dhansa Bus Stand -->
+<g id="node84" class="node">
+<title>Dhansa Bus Stand</title>
+<polygon fill="white" stroke="black" points="1598.01,-213.6 1465.26,-213.6 1465.26,-177.6 1598.01,-177.6 1598.01,-213.6"/>
+<text xml:space="preserve" text-anchor="middle" x="1531.63" y="-191.4" font-family="Arial" font-size="14.00">Dhansa Bus Stand</text>
+</g>
+<!-- Najafgarh -->
+<g id="node85" class="node">
+<title>Najafgarh</title>
+<polygon fill="white" stroke="black" points="1545.99,-124.8 1469.28,-124.8 1469.28,-88.8 1545.99,-88.8 1545.99,-124.8"/>
+<text xml:space="preserve" text-anchor="middle" x="1507.63" y="-102.6" font-family="Arial" font-size="14.00">Najafgarh</text>
+</g>
+<!-- Dhansa Bus Stand&#45;&#45;Najafgarh -->
+<g id="edge60" class="edge">
+<title>Dhansa Bus Stand--Najafgarh</title>
+<path fill="none" stroke="grey" stroke-width="2" d="M1526.89,-177.45C1522.71,-162.33 1516.65,-140.41 1512.45,-125.21"/>
+<text xml:space="preserve" text-anchor="middle" x="1534.23" y="-147" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Nangli -->
+<g id="node96" class="node">
+<title>Nangli</title>
+<polygon fill="white" stroke="black" points="1478.48,-36 1422.79,-36 1422.79,0 1478.48,0 1478.48,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="1450.63" y="-13.8" font-family="Arial" font-size="14.00">Nangli</text>
+</g>
+<!-- Najafgarh&#45;&#45;Nangli -->
+<g id="edge190" class="edge">
+<title>Najafgarh--Nangli</title>
+<path fill="none" stroke="grey" stroke-width="2" d="M1496.37,-88.65C1486.44,-73.53 1472.05,-51.61 1462.07,-36.41"/>
+<text xml:space="preserve" text-anchor="middle" x="1496.68" y="-58.2" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Dilli Haat &#45; INA -->
+<g id="node87" class="node">
+<title>Dilli Haat - INA</title>
+<polygon fill="white" stroke="black" points="3492.53,-2186.4 3384.74,-2186.4 3384.74,-2150.4 3492.53,-2150.4 3492.53,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="3438.63" y="-2164.2" font-family="Arial" font-size="14.00">Dilli Haat - INA</text>
+</g>
+<!-- Dilli Haat &#45; INA&#45;&#45;Sarojini Nagar -->
+<g id="edge62" class="edge">
+<title>Dilli Haat - INA--Sarojini Nagar</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M3492.77,-2152C3495.76,-2151.4 3498.72,-2150.86 3501.63,-2150.4 3663.83,-2124.86 3707.36,-2149.73 3870.63,-2132.4 3894.37,-2129.88 4059.32,-2102.75 4082.63,-2097.6 4085.32,-2097.01 4088.06,-2096.37 4090.82,-2095.7"/>
+<text xml:space="preserve" text-anchor="middle" x="3989.24" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- South Extension -->
+<g id="node88" class="node">
+<title>South Extension</title>
+<polygon fill="white" stroke="black" points="3450.61,-2097.6 3332.66,-2097.6 3332.66,-2061.6 3450.61,-2061.6 3450.61,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="3391.63" y="-2075.4" font-family="Arial" font-size="14.00">South Extension</text>
+</g>
+<!-- Dilli Haat &#45; INA&#45;&#45;South Extension -->
+<g id="edge63" class="edge">
+<title>Dilli Haat - INA--South Extension</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M3429.35,-2150.25C3421.16,-2135.13 3409.29,-2113.21 3401.06,-2098.01"/>
+<text xml:space="preserve" text-anchor="middle" x="3431.79" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Lok Kalyan Marg -->
+<g id="node164" class="node">
+<title>Lok Kalyan Marg</title>
+<polygon fill="white" stroke="black" points="822.16,-2097.6 701.11,-2097.6 701.11,-2061.6 822.16,-2061.6 822.16,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="761.63" y="-2075.4" font-family="Arial" font-size="14.00">Lok Kalyan Marg</text>
+</g>
+<!-- Jor Bagh&#45;&#45;Lok Kalyan Marg -->
+<g id="edge135" class="edge">
+<title>Jor Bagh--Lok Kalyan Marg</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M838.67,-2150.25C821.95,-2135.13 797.7,-2113.21 780.89,-2098.01"/>
+<text xml:space="preserve" text-anchor="middle" x="830.68" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Dilshad Garden -->
+<g id="node90" class="node">
+<title>Dilshad Garden</title>
+<polygon fill="white" stroke="black" points="3561.27,-2452.8 3448,-2452.8 3448,-2416.8 3561.27,-2416.8 3561.27,-2452.8"/>
+<text xml:space="preserve" text-anchor="middle" x="3504.63" y="-2430.6" font-family="Arial" font-size="14.00">Dilshad Garden</text>
+</g>
+<!-- Jhilmil -->
+<g id="node91" class="node">
+<title>Jhilmil</title>
+<polygon fill="white" stroke="black" points="3532.08,-2364 3477.19,-2364 3477.19,-2328 3532.08,-2328 3532.08,-2364"/>
+<text xml:space="preserve" text-anchor="middle" x="3504.63" y="-2341.8" font-family="Arial" font-size="14.00">Jhilmil</text>
+</g>
+<!-- Dilshad Garden&#45;&#45;Jhilmil -->
+<g id="edge65" class="edge">
+<title>Dilshad Garden--Jhilmil</title>
+<path fill="none" stroke="red" stroke-width="2" d="M3504.63,-2416.65C3504.63,-2401.53 3504.63,-2379.61 3504.63,-2364.41"/>
+<text xml:space="preserve" text-anchor="middle" x="3517.08" y="-2386.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Shaheed Nagar -->
+<g id="node92" class="node">
+<title>Shaheed Nagar</title>
+<polygon fill="white" stroke="black" points="3708.67,-2364 3594.6,-2364 3594.6,-2328 3708.67,-2328 3708.67,-2364"/>
+<text xml:space="preserve" text-anchor="middle" x="3651.63" y="-2341.8" font-family="Arial" font-size="14.00">Shaheed Nagar</text>
+</g>
+<!-- Dilshad Garden&#45;&#45;Shaheed Nagar -->
+<g id="edge66" class="edge">
+<title>Dilshad Garden--Shaheed Nagar</title>
+<path fill="none" stroke="red" stroke-width="2" d="M3534.03,-2416.44C3559.58,-2401.35 3596.43,-2379.6 3622.04,-2364.48"/>
+<text xml:space="preserve" text-anchor="middle" x="3603.75" y="-2386.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Mansarovar Park -->
+<g id="node162" class="node">
+<title>Mansarovar Park</title>
+<polygon fill="white" stroke="black" points="3395.93,-2275.2 3273.34,-2275.2 3273.34,-2239.2 3395.93,-2239.2 3395.93,-2275.2"/>
+<text xml:space="preserve" text-anchor="middle" x="3334.63" y="-2253" font-family="Arial" font-size="14.00">Mansarovar Park</text>
+</g>
+<!-- Jhilmil&#45;&#45;Mansarovar Park -->
+<g id="edge133" class="edge">
+<title>Jhilmil--Mansarovar Park</title>
+<path fill="none" stroke="red" stroke-width="2" d="M3476.94,-2330.86C3447.4,-2315.78 3400.57,-2291.87 3368.77,-2275.63"/>
+<text xml:space="preserve" text-anchor="middle" x="3447.31" y="-2297.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Dwarka -->
+<g id="node93" class="node">
+<title>Dwarka</title>
+<polygon fill="lightgreen" stroke="black" points="1421.36,-124.8 1357.91,-124.8 1357.91,-88.8 1421.36,-88.8 1421.36,-124.8"/>
+<text xml:space="preserve" text-anchor="middle" x="1389.63" y="-102.6" font-family="Arial" font-size="14.00">Dwarka</text>
+</g>
+<!-- Dwarka Sector 14 -->
+<g id="node94" class="node">
+<title>Dwarka Sector 14</title>
+<polygon fill="white" stroke="black" points="1370.27,-36 1243,-36 1243,0 1370.27,0 1370.27,-36"/>
+<text xml:space="preserve" text-anchor="middle" x="1306.63" y="-13.8" font-family="Arial" font-size="14.00">Dwarka Sector 14</text>
+</g>
+<!-- Dwarka&#45;&#45;Dwarka Sector 14 -->
+<g id="edge68" class="edge">
+<title>Dwarka--Dwarka Sector 14</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1373.24,-88.65C1358.78,-73.53 1337.81,-51.61 1323.28,-36.41"/>
+<text xml:space="preserve" text-anchor="middle" x="1368.01" y="-58.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Dwarka Mor -->
+<g id="node95" class="node">
+<title>Dwarka Mor</title>
+<polygon fill="lightgreen" stroke="black" points="1447.36,-213.6 1355.91,-213.6 1355.91,-177.6 1447.36,-177.6 1447.36,-213.6"/>
+<text xml:space="preserve" text-anchor="middle" x="1401.63" y="-191.4" font-family="Arial" font-size="14.00">Dwarka Mor</text>
+</g>
+<!-- Dwarka&#45;&#45;Dwarka Mor -->
+<g id="edge69" class="edge">
+<title>Dwarka--Dwarka Mor</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1392.04,-125.21C1394.14,-140.41 1397.17,-162.33 1399.26,-177.45"/>
+<text xml:space="preserve" text-anchor="middle" x="1409.15" y="-147" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Dwarka&#45;&#45;Nangli -->
+<g id="edge70" class="edge">
+<title>Dwarka--Nangli</title>
+<path fill="none" stroke="grey" stroke-width="2" d="M1401.69,-88.65C1412.31,-73.53 1427.72,-51.61 1438.4,-36.41"/>
+<text xml:space="preserve" text-anchor="middle" x="1438.04" y="-58.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Dwarka Mor&#45;&#45;Dwarka -->
+<g id="edge282" class="edge">
+<title>Dwarka Mor--Dwarka</title>
+<path fill="none" stroke="black" stroke-width="4" d="M1395.15,-177.39C1393.34,-171.8 1391.6,-165.51 1390.63,-159.6 1388.78,-148.24 1388.53,-135.29 1388.74,-125.18"/>
+</g>
+<!-- Nawada -->
+<g id="node97" class="node">
+<title>Nawada</title>
+<polygon fill="lightgreen" stroke="black" points="1468.32,-302.4 1400.95,-302.4 1400.95,-266.4 1468.32,-266.4 1468.32,-302.4"/>
+<text xml:space="preserve" text-anchor="middle" x="1434.63" y="-280.2" font-family="Arial" font-size="14.00">Nawada</text>
+</g>
+<!-- Dwarka Mor&#45;&#45;Nawada -->
+<g id="edge71" class="edge">
+<title>Dwarka Mor--Nawada</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1408.25,-214.01C1414.03,-229.21 1422.37,-251.13 1428.11,-266.25"/>
+<text xml:space="preserve" text-anchor="middle" x="1433.53" y="-235.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Nawada&#45;&#45;Dwarka Mor -->
+<g id="edge281" class="edge">
+<title>Nawada--Dwarka Mor</title>
+<path fill="none" stroke="black" stroke-width="4" d="M1424.14,-265.98C1421.12,-260.49 1418,-254.31 1415.63,-248.4 1411.13,-237.16 1407.59,-223.97 1405.2,-213.72"/>
+</g>
+<!-- Uttam Nagar West -->
+<g id="node209" class="node">
+<title>Uttam Nagar West</title>
+<polygon fill="lightgreen" stroke="black" points="1533.2,-391.2 1402.07,-391.2 1402.07,-355.2 1533.2,-355.2 1533.2,-391.2"/>
+<text xml:space="preserve" text-anchor="middle" x="1467.63" y="-369" font-family="Arial" font-size="14.00">Uttam Nagar West</text>
+</g>
+<!-- Nawada&#45;&#45;Uttam Nagar West -->
+<g id="edge194" class="edge">
+<title>Nawada--Uttam Nagar West</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1441.25,-302.81C1447.03,-318.01 1455.37,-339.93 1461.11,-355.05"/>
+<text xml:space="preserve" text-anchor="middle" x="1466.53" y="-324.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Dwarka Sector 10 -->
+<g id="node98" class="node">
+<title>Dwarka Sector 10</title>
+<polygon fill="white" stroke="black" points="127.27,-2008.8 0,-2008.8 0,-1972.8 127.27,-1972.8 127.27,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="63.63" y="-1986.6" font-family="Arial" font-size="14.00">Dwarka Sector 10</text>
+</g>
+<!-- Dwarka Sector 9 -->
+<g id="node99" class="node">
+<title>Dwarka Sector 9</title>
+<polygon fill="white" stroke="black" points="367.38,-1920 247.89,-1920 247.89,-1884 367.38,-1884 367.38,-1920"/>
+<text xml:space="preserve" text-anchor="middle" x="307.63" y="-1897.8" font-family="Arial" font-size="14.00">Dwarka Sector 9</text>
+</g>
+<!-- Dwarka Sector 10&#45;&#45;Dwarka Sector 9 -->
+<g id="edge72" class="edge">
+<title>Dwarka Sector 10--Dwarka Sector 9</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M112.72,-1972.34C155.16,-1957.24 216.21,-1935.52 258.63,-1920.43"/>
+<text xml:space="preserve" text-anchor="middle" x="219.93" y="-1942.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Dwarka Sector 11 -->
+<g id="node100" class="node">
+<title>Dwarka Sector 11</title>
+<polygon fill="white" stroke="black" points="201.27,-1920 74,-1920 74,-1884 201.27,-1884 201.27,-1920"/>
+<text xml:space="preserve" text-anchor="middle" x="137.63" y="-1897.8" font-family="Arial" font-size="14.00">Dwarka Sector 11</text>
+</g>
+<!-- Dwarka Sector 10&#45;&#45;Dwarka Sector 11 -->
+<g id="edge73" class="edge">
+<title>Dwarka Sector 10--Dwarka Sector 11</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M78.25,-1972.65C91.14,-1957.53 109.84,-1935.61 122.79,-1920.41"/>
+<text xml:space="preserve" text-anchor="middle" x="119.71" y="-1942.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Dwarka Sector 12 -->
+<g id="node101" class="node">
+<title>Dwarka Sector 12</title>
+<polygon fill="white" stroke="black" points="738.27,-1831.2 611,-1831.2 611,-1795.2 738.27,-1795.2 738.27,-1831.2"/>
+<text xml:space="preserve" text-anchor="middle" x="674.63" y="-1809" font-family="Arial" font-size="14.00">Dwarka Sector 12</text>
+</g>
+<!-- Dwarka Sector 11&#45;&#45;Dwarka Sector 12 -->
+<g id="edge74" class="edge">
+<title>Dwarka Sector 11--Dwarka Sector 12</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M201.74,-1890.13C213.98,-1888.08 226.7,-1885.96 238.63,-1884 370.82,-1862.29 525.71,-1837.7 610.7,-1824.27"/>
+<text xml:space="preserve" text-anchor="middle" x="465.58" y="-1853.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Dwarka Sector 13 -->
+<g id="node102" class="node">
+<title>Dwarka Sector 13</title>
+<polygon fill="white" stroke="black" points="1042.27,-1688.4 915,-1688.4 915,-1652.4 1042.27,-1652.4 1042.27,-1688.4"/>
+<text xml:space="preserve" text-anchor="middle" x="978.63" y="-1666.2" font-family="Arial" font-size="14.00">Dwarka Sector 13</text>
+</g>
+<!-- Dwarka Sector 12&#45;&#45;Dwarka Sector 13 -->
+<g id="edge75" class="edge">
+<title>Dwarka Sector 12--Dwarka Sector 13</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M712.22,-1794.79C770.68,-1767.72 882.73,-1715.82 941.14,-1688.77"/>
+<text xml:space="preserve" text-anchor="middle" x="794.09" y="-1764.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Dwarka Sector 13&#45;&#45;Dwarka Sector 14 -->
+<g id="edge76" class="edge">
+<title>Dwarka Sector 13--Dwarka Sector 14</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1042.6,-1663.1C1135.46,-1652.15 1296.63,-1625.57 1296.63,-1573 1296.63,-1573 1296.63,-1573 1296.63,-105.8 1296.63,-81.53 1300.54,-53.69 1303.47,-36.22"/>
+<text xml:space="preserve" text-anchor="middle" x="1309.08" y="-857.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Dwarka Sector 8&#45;&#45;Dwarka Sector 9 -->
+<g id="edge79" class="edge">
+<title>Dwarka Sector 8--Dwarka Sector 9</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M413.24,-1972.44C390.22,-1957.3 356.99,-1935.46 333.98,-1920.33"/>
+<text xml:space="preserve" text-anchor="middle" x="397.9" y="-1942.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- ESI &#45; Basaidarapur -->
+<g id="node105" class="node">
+<title>ESI - Basaidarapur</title>
+<polygon fill="white" stroke="black" points="4809.78,-2097.6 4675.49,-2097.6 4675.49,-2061.6 4809.78,-2061.6 4809.78,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="4742.63" y="-2075.4" font-family="Arial" font-size="14.00">ESI - Basaidarapur</text>
+</g>
+<!-- Punjabi Bagh West -->
+<g id="node106" class="node">
+<title>Punjabi Bagh West</title>
+<polygon fill="white" stroke="black" points="4924.17,-2008.8 4789.1,-2008.8 4789.1,-1972.8 4924.17,-1972.8 4924.17,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="4856.63" y="-1986.6" font-family="Arial" font-size="14.00">Punjabi Bagh West</text>
+</g>
+<!-- ESI &#45; Basaidarapur&#45;&#45;Punjabi Bagh West -->
+<g id="edge80" class="edge">
+<title>ESI - Basaidarapur--Punjabi Bagh West</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M4765.43,-2061.24C4785.31,-2046.1 4814.01,-2024.26 4833.88,-2009.13"/>
+<text xml:space="preserve" text-anchor="middle" x="4822.29" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Rajouri Garden -->
+<g id="node107" class="node">
+<title>Rajouri Garden</title>
+<polygon fill="lightgreen" stroke="black" points="1707.1,-1012.8 1596.17,-1012.8 1596.17,-976.8 1707.1,-976.8 1707.1,-1012.8"/>
+<text xml:space="preserve" text-anchor="middle" x="1651.63" y="-990.6" font-family="Arial" font-size="14.00">Rajouri Garden</text>
+</g>
+<!-- ESI &#45; Basaidarapur&#45;&#45;Rajouri Garden -->
+<g id="edge81" class="edge">
+<title>ESI - Basaidarapur--Rajouri Garden</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M4721.5,-2061.35C4706.76,-2048.31 4687.66,-2029.2 4675.63,-2008.8 4661.13,-1984.19 4656.63,-1975.97 4656.63,-1947.4 4656.63,-1947.4 4656.63,-1947.4 4656.63,-1082.6 4656.63,-1004.46 4565.82,-1042.92 4488.63,-1030.8 4346.26,-1008.45 2092.62,-997.71 1707.43,-996.03"/>
+<text xml:space="preserve" text-anchor="middle" x="4669.08" y="-1523.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Shakurpur -->
+<g id="node210" class="node">
+<title>Shakurpur</title>
+<polygon fill="white" stroke="black" points="5185.93,-1920 5105.34,-1920 5105.34,-1884 5185.93,-1884 5185.93,-1920"/>
+<text xml:space="preserve" text-anchor="middle" x="5145.63" y="-1897.8" font-family="Arial" font-size="14.00">Shakurpur</text>
+</g>
+<!-- Punjabi Bagh West&#45;&#45;Shakurpur -->
+<g id="edge227" class="edge">
+<title>Punjabi Bagh West--Shakurpur</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M4914.77,-1972.34C4971.31,-1955.36 5055.7,-1930.01 5105.26,-1915.13"/>
+<text xml:space="preserve" text-anchor="middle" x="5039.46" y="-1942.2" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Ramesh Nagar -->
+<g id="node200" class="node">
+<title>Ramesh Nagar</title>
+<polygon fill="lightgreen" stroke="black" points="1658.71,-1101.6 1548.56,-1101.6 1548.56,-1065.6 1658.71,-1065.6 1658.71,-1101.6"/>
+<text xml:space="preserve" text-anchor="middle" x="1603.63" y="-1079.4" font-family="Arial" font-size="14.00">Ramesh Nagar</text>
+</g>
+<!-- Rajouri Garden&#45;&#45;Ramesh Nagar -->
+<g id="edge232" class="edge">
+<title>Rajouri Garden--Ramesh Nagar</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1625.73,-1013.01C1619.93,-1018.07 1614.42,-1024.07 1610.74,-1030.8 1605,-1041.32 1603.29,-1054.76 1602.98,-1065.32"/>
+<text xml:space="preserve" text-anchor="middle" x="1623.19" y="-1035" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Tagore Garden -->
+<g id="node230" class="node">
+<title>Tagore Garden</title>
+<polygon fill="lightgreen" stroke="black" points="1667.11,-924 1556.16,-924 1556.16,-888 1667.11,-888 1667.11,-924"/>
+<text xml:space="preserve" text-anchor="middle" x="1611.63" y="-901.8" font-family="Arial" font-size="14.00">Tagore Garden</text>
+</g>
+<!-- Rajouri Garden&#45;&#45;Tagore Garden -->
+<g id="edge231" class="edge">
+<title>Rajouri Garden--Tagore Garden</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1626.46,-976.66C1620.95,-971.6 1615.85,-965.57 1612.74,-958.8 1607.8,-948.01 1607.66,-934.57 1608.68,-924.09"/>
+<text xml:space="preserve" text-anchor="middle" x="1625.19" y="-946.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Rajouri Garden&#45;&#45;Tagore Garden -->
+<g id="edge273" class="edge">
+<title>Rajouri Garden--Tagore Garden</title>
+<path fill="none" stroke="black" stroke-width="4" d="M1648.64,-976.43C1646.45,-966.08 1642.92,-952.9 1637.63,-942 1634.66,-935.87 1630.57,-929.72 1626.5,-924.33"/>
+</g>
+<!-- East Azad Nagar -->
+<g id="node108" class="node">
+<title>East Azad Nagar</title>
+<polygon fill="white" stroke="black" points="2912.55,-2186.4 2790.72,-2186.4 2790.72,-2150.4 2912.55,-2150.4 2912.55,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="2851.63" y="-2164.2" font-family="Arial" font-size="14.00">East Azad Nagar</text>
+</g>
+<!-- Krishna Nagar -->
+<g id="node109" class="node">
+<title>Krishna Nagar</title>
+<polygon fill="white" stroke="black" points="2989.38,-2097.6 2883.89,-2097.6 2883.89,-2061.6 2989.38,-2061.6 2989.38,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="2936.63" y="-2075.4" font-family="Arial" font-size="14.00">Krishna Nagar</text>
+</g>
+<!-- East Azad Nagar&#45;&#45;Krishna Nagar -->
+<g id="edge82" class="edge">
+<title>East Azad Nagar--Krishna Nagar</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M2868.43,-2150.25C2883.23,-2135.13 2904.7,-2113.21 2919.58,-2098.01"/>
+<text xml:space="preserve" text-anchor="middle" x="2914.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Welcome -->
+<g id="node110" class="node">
+<title>Welcome</title>
+<polygon fill="white" stroke="black" points="3182.81,-2097.6 3108.46,-2097.6 3108.46,-2061.6 3182.81,-2061.6 3182.81,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="3145.63" y="-2075.4" font-family="Arial" font-size="14.00">Welcome</text>
+</g>
+<!-- East Azad Nagar&#45;&#45;Welcome -->
+<g id="edge83" class="edge">
+<title>East Azad Nagar--Welcome</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M2912.89,-2151.96C2915.5,-2151.41 2918.09,-2150.89 2920.63,-2150.4 2977.92,-2139.41 2997.6,-2156.68 3050.63,-2132.4 3060.92,-2127.69 3060.26,-2121.77 3069.74,-2115.6 3081.66,-2107.85 3095.58,-2100.9 3108.22,-2095.28"/>
+<text xml:space="preserve" text-anchor="middle" x="3082.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- East Vinod Nagar &#45; Mayur Vihar&#45;2 -->
+<g id="node111" class="node">
+<title>East Vinod Nagar - Mayur Vihar-2</title>
+<polygon fill="white" stroke="black" points="3095.68,-2452.8 2869.59,-2452.8 2869.59,-2416.8 3095.68,-2416.8 3095.68,-2452.8"/>
+<text xml:space="preserve" text-anchor="middle" x="2982.63" y="-2430.6" font-family="Arial" font-size="14.00">East Vinod Nagar - Mayur Vihar-2</text>
+</g>
+<!-- Trilokpuri &#45; Sanjay Lake -->
+<g id="node112" class="node">
+<title>Trilokpuri - Sanjay Lake</title>
+<polygon fill="white" stroke="black" points="3023.17,-2364 2860.1,-2364 2860.1,-2328 3023.17,-2328 3023.17,-2364"/>
+<text xml:space="preserve" text-anchor="middle" x="2941.63" y="-2341.8" font-family="Arial" font-size="14.00">Trilokpuri - Sanjay Lake</text>
+</g>
+<!-- East Vinod Nagar &#45; Mayur Vihar&#45;2&#45;&#45;Trilokpuri &#45; Sanjay Lake -->
+<g id="edge84" class="edge">
+<title>East Vinod Nagar - Mayur Vihar-2--Trilokpuri - Sanjay Lake</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M2971.42,-2416.31C2968.1,-2410.82 2964.6,-2404.65 2961.74,-2398.8 2956.24,-2387.53 2951.14,-2374.35 2947.45,-2364.1"/>
+<text xml:space="preserve" text-anchor="middle" x="2974.19" y="-2386.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- East Vinod Nagar &#45; Mayur Vihar&#45;2&#45;&#45;Mandawali &#45; West Vinod Nagar -->
+<g id="edge85" class="edge">
+<title>East Vinod Nagar - Mayur Vihar-2--Mandawali - West Vinod Nagar</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M3015.23,-2416.44C3043.56,-2401.35 3084.42,-2379.6 3112.82,-2364.48"/>
+<text xml:space="preserve" text-anchor="middle" x="3091.18" y="-2386.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- GTB Nagar -->
+<g id="node115" class="node">
+<title>GTB Nagar</title>
+<polygon fill="white" stroke="black" points="4771.03,-2008.8 4684.23,-2008.8 4684.23,-1972.8 4771.03,-1972.8 4771.03,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="4727.63" y="-1986.6" font-family="Arial" font-size="14.00">GTB Nagar</text>
+</g>
+<!-- GTB Nagar&#45;&#45;Model Town -->
+<g id="edge87" class="edge">
+<title>GTB Nagar--Model Town</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M4771.51,-1975.08C4774.25,-1974.28 4776.97,-1973.51 4779.63,-1972.8 4852.94,-1953.25 4871.5,-1947.69 4946.74,-1938 5102.94,-1917.89 5145.56,-1947.47 5300.63,-1920 5303.39,-1919.51 5306.2,-1918.93 5309.02,-1918.27"/>
+<text xml:space="preserve" text-anchor="middle" x="4959.19" y="-1942.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- GTB Nagar&#45;&#45;Vishwavidyalaya -->
+<g id="edge88" class="edge">
+<title>GTB Nagar--Vishwavidyalaya</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M4730.99,-1972.65C4733.95,-1957.53 4738.25,-1935.61 4741.22,-1920.41"/>
+<text xml:space="preserve" text-anchor="middle" x="4750.1" y="-1942.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Ghevra Metro Station -->
+<g id="node117" class="node">
+<title>Ghevra Metro Station</title>
+<polygon fill="white" stroke="black" points="7551.17,-2008.8 7402.1,-2008.8 7402.1,-1972.8 7551.17,-1972.8 7551.17,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="7476.63" y="-1986.6" font-family="Arial" font-size="14.00">Ghevra Metro Station</text>
+</g>
+<!-- Mundka Industrial Area -->
+<g id="node118" class="node">
+<title>Mundka Industrial Area</title>
+<polygon fill="white" stroke="black" points="7555.62,-1920 7395.65,-1920 7395.65,-1884 7555.62,-1884 7555.62,-1920"/>
+<text xml:space="preserve" text-anchor="middle" x="7475.63" y="-1897.8" font-family="Arial" font-size="14.00">Mundka Industrial Area</text>
+</g>
+<!-- Ghevra Metro Station&#45;&#45;Mundka Industrial Area -->
+<g id="edge89" class="edge">
+<title>Ghevra Metro Station--Mundka Industrial Area</title>
+<path fill="none" stroke="green" stroke-width="2" d="M7476.44,-1972.65C7476.26,-1957.53 7476.01,-1935.61 7475.83,-1920.41"/>
+<text xml:space="preserve" text-anchor="middle" x="7488.67" y="-1942.2" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Tikri Kalan -->
+<g id="node119" class="node">
+<title>Tikri Kalan</title>
+<polygon fill="white" stroke="black" points="7655.7,-1920 7573.57,-1920 7573.57,-1884 7655.7,-1884 7655.7,-1920"/>
+<text xml:space="preserve" text-anchor="middle" x="7614.63" y="-1897.8" font-family="Arial" font-size="14.00">Tikri Kalan</text>
+</g>
+<!-- Ghevra Metro Station&#45;&#45;Tikri Kalan -->
+<g id="edge90" class="edge">
+<title>Ghevra Metro Station--Tikri Kalan</title>
+<path fill="none" stroke="green" stroke-width="2" d="M7504.23,-1972.44C7528.3,-1957.3 7563.03,-1935.46 7587.09,-1920.33"/>
+<text xml:space="preserve" text-anchor="middle" x="7570.44" y="-1942.2" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Gokulpuri -->
+<g id="node120" class="node">
+<title>Gokulpuri</title>
+<polygon fill="white" stroke="black" points="2642.59,-2186.4 2566.68,-2186.4 2566.68,-2150.4 2642.59,-2150.4 2642.59,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="2604.63" y="-2164.2" font-family="Arial" font-size="14.00">Gokulpuri</text>
+</g>
+<!-- Maujpur &#45; Babarpur -->
+<g id="node121" class="node">
+<title>Maujpur - Babarpur</title>
+<polygon fill="white" stroke="black" points="2725.94,-2097.6 2589.33,-2097.6 2589.33,-2061.6 2725.94,-2061.6 2725.94,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="2657.63" y="-2075.4" font-family="Arial" font-size="14.00">Maujpur - Babarpur</text>
+</g>
+<!-- Gokulpuri&#45;&#45;Maujpur &#45; Babarpur -->
+<g id="edge92" class="edge">
+<title>Gokulpuri--Maujpur - Babarpur</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M2612.78,-2150.23C2617.86,-2139.97 2624.74,-2126.78 2631.74,-2115.6 2635.44,-2109.71 2639.82,-2103.53 2643.92,-2098.03"/>
+<text xml:space="preserve" text-anchor="middle" x="2644.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Johri Enclave -->
+<g id="node122" class="node">
+<title>Johri Enclave</title>
+<polygon fill="white" stroke="black" points="2571.65,-2097.6 2471.61,-2097.6 2471.61,-2061.6 2571.65,-2061.6 2571.65,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="2521.63" y="-2075.4" font-family="Arial" font-size="14.00">Johri Enclave</text>
+</g>
+<!-- Gokulpuri&#45;&#45;Johri Enclave -->
+<g id="edge93" class="edge">
+<title>Gokulpuri--Johri Enclave</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M2588.24,-2150.25C2573.78,-2135.13 2552.81,-2113.21 2538.28,-2098.01"/>
+<text xml:space="preserve" text-anchor="middle" x="2583.01" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Shiv Vihar -->
+<g id="node163" class="node">
+<title>Shiv Vihar</title>
+<polygon fill="white" stroke="black" points="2561.54,-2008.8 2481.73,-2008.8 2481.73,-1972.8 2561.54,-1972.8 2561.54,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="2521.63" y="-1986.6" font-family="Arial" font-size="14.00">Shiv Vihar</text>
+</g>
+<!-- Johri Enclave&#45;&#45;Shiv Vihar -->
+<g id="edge134" class="edge">
+<title>Johri Enclave--Shiv Vihar</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M2521.63,-2061.45C2521.63,-2046.33 2521.63,-2024.41 2521.63,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="2534.08" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Noida Sector 34 -->
+<g id="node212" class="node">
+<title>Noida Sector 34</title>
+<polygon fill="white" stroke="black" points="3808.83,-1920 3692.44,-1920 3692.44,-1884 3808.83,-1884 3808.83,-1920"/>
+<text xml:space="preserve" text-anchor="middle" x="3750.63" y="-1897.8" font-family="Arial" font-size="14.00">Noida Sector 34</text>
+</g>
+<!-- Noida City Centre&#45;&#45;Noida Sector 34 -->
+<g id="edge202" class="edge">
+<title>Noida City Centre--Noida Sector 34</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M3750.63,-1972.65C3750.63,-1957.53 3750.63,-1935.61 3750.63,-1920.41"/>
+<text xml:space="preserve" text-anchor="middle" x="3763.08" y="-1942.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Govind Puri -->
+<g id="node124" class="node">
+<title>Govind Puri</title>
+<polygon fill="white" stroke="black" points="5061.21,-2275.2 4972.06,-2275.2 4972.06,-2239.2 5061.21,-2239.2 5061.21,-2275.2"/>
+<text xml:space="preserve" text-anchor="middle" x="5016.63" y="-2253" font-family="Arial" font-size="14.00">Govind Puri</text>
+</g>
+<!-- Kalkaji Mandir -->
+<g id="node125" class="node">
+<title>Kalkaji Mandir</title>
+<polygon fill="white" stroke="black" points="4896.6,-2186.4 4792.67,-2186.4 4792.67,-2150.4 4896.6,-2150.4 4896.6,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="4844.63" y="-2164.2" font-family="Arial" font-size="14.00">Kalkaji Mandir</text>
+</g>
+<!-- Govind Puri&#45;&#45;Kalkaji Mandir -->
+<g id="edge95" class="edge">
+<title>Govind Puri--Kalkaji Mandir</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M4974.81,-2238.81C4962.44,-2233.41 4948.94,-2227.28 4936.74,-2221.2 4915.24,-2210.47 4891.62,-2197.16 4873.69,-2186.72"/>
+<text xml:space="preserve" text-anchor="middle" x="4949.19" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Harkesh Nagar Okhla -->
+<g id="node126" class="node">
+<title>Harkesh Nagar Okhla</title>
+<polygon fill="white" stroke="black" points="5344.94,-2186.4 5194.33,-2186.4 5194.33,-2150.4 5344.94,-2150.4 5344.94,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="5269.63" y="-2164.2" font-family="Arial" font-size="14.00">Harkesh Nagar Okhla</text>
+</g>
+<!-- Govind Puri&#45;&#45;Harkesh Nagar Okhla -->
+<g id="edge96" class="edge">
+<title>Govind Puri--Harkesh Nagar Okhla</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M5061.57,-2240.78C5105.73,-2225.63 5173.01,-2202.55 5219.03,-2186.76"/>
+<text xml:space="preserve" text-anchor="middle" x="5178.24" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Kalkaji Mandir&#45;&#45;Nehru Enclave -->
+<g id="edge140" class="edge">
+<title>Kalkaji Mandir--Nehru Enclave</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M4792.54,-2152.39C4741.33,-2137.13 4667.27,-2113.52 4641.74,-2097.6 4622.52,-2085.61 4625.58,-2072.36 4605.63,-2061.6 4515.45,-2012.92 4394.62,-1998.16 4325.76,-1993.7"/>
+<text xml:space="preserve" text-anchor="middle" x="4654.19" y="-2075.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Nehru Place -->
+<g id="node167" class="node">
+<title>Nehru Place</title>
+<polygon fill="white" stroke="black" points="4596.15,-2097.6 4503.11,-2097.6 4503.11,-2061.6 4596.15,-2061.6 4596.15,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="4549.63" y="-2075.4" font-family="Arial" font-size="14.00">Nehru Place</text>
+</g>
+<!-- Kalkaji Mandir&#45;&#45;Nehru Place -->
+<g id="edge139" class="edge">
+<title>Kalkaji Mandir--Nehru Place</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M4792.2,-2152.15C4789.31,-2151.51 4786.44,-2150.92 4783.63,-2150.4 4741.96,-2142.68 4631.34,-2151.97 4593.74,-2132.4 4578.97,-2124.71 4567.09,-2109.78 4559.4,-2097.91"/>
+<text xml:space="preserve" text-anchor="middle" x="4606.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Okhla NSIC -->
+<g id="node168" class="node">
+<title>Okhla NSIC</title>
+<polygon fill="white" stroke="black" points="5011.59,-2097.6 4921.68,-2097.6 4921.68,-2061.6 5011.59,-2061.6 5011.59,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="4966.63" y="-2075.4" font-family="Arial" font-size="14.00">Okhla NSIC</text>
+</g>
+<!-- Kalkaji Mandir&#45;&#45;Okhla NSIC -->
+<g id="edge141" class="edge">
+<title>Kalkaji Mandir--Okhla NSIC</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M4862.44,-2150.01C4873.76,-2139.42 4889.02,-2125.97 4903.74,-2115.6 4912.63,-2109.34 4922.74,-2103.29 4932.22,-2098.04"/>
+<text xml:space="preserve" text-anchor="middle" x="4916.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Jasola Apollo -->
+<g id="node132" class="node">
+<title>Jasola Apollo</title>
+<polygon fill="white" stroke="black" points="5455.27,-2097.6 5356,-2097.6 5356,-2061.6 5455.27,-2061.6 5455.27,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="5405.63" y="-2075.4" font-family="Arial" font-size="14.00">Jasola Apollo</text>
+</g>
+<!-- Harkesh Nagar Okhla&#45;&#45;Jasola Apollo -->
+<g id="edge102" class="edge">
+<title>Harkesh Nagar Okhla--Jasola Apollo</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M5296.83,-2150.04C5320.55,-2134.9 5354.78,-2113.06 5378.49,-2097.93"/>
+<text xml:space="preserve" text-anchor="middle" x="5362.26" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Hauz Khas&#45;&#45;Panchsheel Park -->
+<g id="edge105" class="edge">
+<title>Hauz Khas--Panchsheel Park</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M2135.34,-2150.11C2144.1,-2136.6 2156.24,-2119.49 2163.74,-2115.6 2220.1,-2086.42 2671.75,-2106.13 2734.63,-2097.6 2737.48,-2097.21 2740.39,-2096.76 2743.31,-2096.25"/>
+<text xml:space="preserve" text-anchor="middle" x="2176.19" y="-2119.8" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Malviya Nagar -->
+<g id="node133" class="node">
+<title>Malviya Nagar</title>
+<polygon fill="white" stroke="black" points="2340.37,-2097.6 2234.9,-2097.6 2234.9,-2061.6 2340.37,-2061.6 2340.37,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="2287.63" y="-2075.4" font-family="Arial" font-size="14.00">Malviya Nagar</text>
+</g>
+<!-- Hauz Khas&#45;&#45;Malviya Nagar -->
+<g id="edge103" class="edge">
+<title>Hauz Khas--Malviya Nagar</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M2117.19,-2150.11C2113.69,-2139.02 2111.82,-2124.99 2119.74,-2115.6 2135.14,-2097.36 2202.33,-2102.76 2225.63,-2097.6 2228.58,-2096.95 2231.59,-2096.24 2234.62,-2095.51"/>
+<text xml:space="preserve" text-anchor="middle" x="2132.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- IIT -->
+<g id="node134" class="node">
+<title>IIT</title>
+<polygon fill="white" stroke="black" points="1260.63,-2097.6 1206.63,-2097.6 1206.63,-2061.6 1260.63,-2061.6 1260.63,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="1233.63" y="-2075.4" font-family="Arial" font-size="14.00">IIT</text>
+</g>
+<!-- Hauz Khas&#45;&#45;IIT -->
+<g id="edge104" class="edge">
+<title>Hauz Khas--IIT</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M2082.17,-2152.85C2079.29,-2151.98 2076.43,-2151.16 2073.63,-2150.4 2036.42,-2140.29 2023.81,-2148.45 1988.74,-2132.4 1977.52,-2127.26 1978.28,-2119.69 1966.63,-2115.6 1893.54,-2089.93 1345,-2115.53 1269.63,-2097.6 1266.81,-2096.93 1263.94,-2096.02 1261.12,-2094.97"/>
+<text xml:space="preserve" text-anchor="middle" x="2001.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Haiderpur Badli Mor -->
+<g id="node130" class="node">
+<title>Haiderpur Badli Mor</title>
+<polygon fill="white" stroke="black" points="6111.88,-2097.6 5971.39,-2097.6 5971.39,-2061.6 6111.88,-2061.6 6111.88,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="6041.63" y="-2075.4" font-family="Arial" font-size="14.00">Haiderpur Badli Mor</text>
+</g>
+<!-- Haiderpur Badli Mor&#45;&#45;Jahangirpuri -->
+<g id="edge101" class="edge">
+<title>Haiderpur Badli Mor--Jahangirpuri</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M6014.44,-2061.24C5990.72,-2046.1 5956.49,-2024.26 5932.78,-2009.13"/>
+<text xml:space="preserve" text-anchor="middle" x="5998.26" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Rohini Sector 18 19 -->
+<g id="node131" class="node">
+<title>Rohini Sector 18 19</title>
+<polygon fill="white" stroke="black" points="6111.12,-2008.8 5972.15,-2008.8 5972.15,-1972.8 6111.12,-1972.8 6111.12,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="6041.63" y="-1986.6" font-family="Arial" font-size="14.00">Rohini Sector 18 19</text>
+</g>
+<!-- Haiderpur Badli Mor&#45;&#45;Rohini Sector 18 19 -->
+<g id="edge100" class="edge">
+<title>Haiderpur Badli Mor--Rohini Sector 18 19</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M6041.63,-2061.45C6041.63,-2046.33 6041.63,-2024.41 6041.63,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="6054.08" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Samaypur Badli -->
+<g id="node233" class="node">
+<title>Samaypur Badli</title>
+<polygon fill="white" stroke="black" points="6099.05,-1920 5984.22,-1920 5984.22,-1884 6099.05,-1884 6099.05,-1920"/>
+<text xml:space="preserve" text-anchor="middle" x="6041.63" y="-1897.8" font-family="Arial" font-size="14.00">Samaypur Badli</text>
+</g>
+<!-- Rohini Sector 18 19&#45;&#45;Samaypur Badli -->
+<g id="edge235" class="edge">
+<title>Rohini Sector 18 19--Samaypur Badli</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M6041.63,-1972.65C6041.63,-1957.53 6041.63,-1935.61 6041.63,-1920.41"/>
+<text xml:space="preserve" text-anchor="middle" x="6054.08" y="-1942.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Sarita Vihar -->
+<g id="node156" class="node">
+<title>Sarita Vihar</title>
+<polygon fill="white" stroke="black" points="5466.21,-2008.8 5377.06,-2008.8 5377.06,-1972.8 5466.21,-1972.8 5466.21,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="5421.63" y="-1986.6" font-family="Arial" font-size="14.00">Sarita Vihar</text>
+</g>
+<!-- Jasola Apollo&#45;&#45;Sarita Vihar -->
+<g id="edge127" class="edge">
+<title>Jasola Apollo--Sarita Vihar</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M5408.8,-2061.45C5411.58,-2046.33 5415.62,-2024.41 5418.42,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="5427.51" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Malviya Nagar&#45;&#45;Saket -->
+<g id="edge168" class="edge">
+<title>Malviya Nagar--Saket</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M2340.5,-2061.45C2381.53,-2049.08 2440.09,-2033.43 2492.74,-2026.8 2639.37,-2008.34 3678.49,-2041.35 3822.63,-2008.8 3825.81,-2008.08 3829.03,-2007.08 3832.19,-2005.9"/>
+<text xml:space="preserve" text-anchor="middle" x="2505.19" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- R.K. Puram -->
+<g id="node138" class="node">
+<title>R.K. Puram</title>
+<polygon fill="white" stroke="black" points="1340.81,-2008.8 1252.46,-2008.8 1252.46,-1972.8 1340.81,-1972.8 1340.81,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="1296.63" y="-1986.6" font-family="Arial" font-size="14.00">R.K. Puram</text>
+</g>
+<!-- IIT&#45;&#45;R.K. Puram -->
+<g id="edge109" class="edge">
+<title>IIT--R.K. Puram</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M1246.08,-2061.45C1257.05,-2046.33 1272.97,-2024.41 1284,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="1283.22" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- IFFCO Chowk -->
+<g id="node135" class="node">
+<title>IFFCO Chowk</title>
+<polygon fill="white" stroke="black" points="7340.97,-2275.2 7236.3,-2275.2 7236.3,-2239.2 7340.97,-2239.2 7340.97,-2275.2"/>
+<text xml:space="preserve" text-anchor="middle" x="7288.63" y="-2253" font-family="Arial" font-size="14.00">IFFCO Chowk</text>
+</g>
+<!-- MG Road -->
+<g id="node136" class="node">
+<title>MG Road</title>
+<polygon fill="white" stroke="black" points="7147.59,-2186.4 7071.68,-2186.4 7071.68,-2150.4 7147.59,-2150.4 7147.59,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="7109.63" y="-2164.2" font-family="Arial" font-size="14.00">MG Road</text>
+</g>
+<!-- IFFCO Chowk&#45;&#45;MG Road -->
+<g id="edge107" class="edge">
+<title>IFFCO Chowk--MG Road</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M7252.84,-2238.84C7221.72,-2223.75 7176.86,-2202 7145.67,-2186.88"/>
+<text xml:space="preserve" text-anchor="middle" x="7227.61" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Millennium City Centre Gurugram -->
+<g id="node137" class="node">
+<title>Millennium City Centre Gurugram</title>
+<polygon fill="white" stroke="black" points="7475.5,-2186.4 7251.77,-2186.4 7251.77,-2150.4 7475.5,-2150.4 7475.5,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="7363.63" y="-2164.2" font-family="Arial" font-size="14.00">Millennium City Centre Gurugram</text>
+</g>
+<!-- IFFCO Chowk&#45;&#45;Millennium City Centre Gurugram -->
+<g id="edge108" class="edge">
+<title>IFFCO Chowk--Millennium City Centre Gurugram</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M7303.45,-2239.05C7316.52,-2223.93 7335.46,-2202.01 7348.59,-2186.81"/>
+<text xml:space="preserve" text-anchor="middle" x="7345.3" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- MG Road&#45;&#45;Sikanderpur -->
+<g id="edge163" class="edge">
+<title>MG Road--Sikanderpur</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M7089.48,-2150.25C7071.72,-2135.13 7045.95,-2113.21 7028.09,-2098.01"/>
+<text xml:space="preserve" text-anchor="middle" x="7080.22" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Keshav Puram -->
+<g id="node169" class="node">
+<title>Keshav Puram</title>
+<polygon fill="white" stroke="black" points="5337.54,-2097.6 5229.72,-2097.6 5229.72,-2061.6 5337.54,-2061.6 5337.54,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="5283.63" y="-2075.4" font-family="Arial" font-size="14.00">Keshav Puram</text>
+</g>
+<!-- Kanhaiya Nagar&#45;&#45;Keshav Puram -->
+<g id="edge142" class="edge">
+<title>Kanhaiya Nagar--Keshav Puram</title>
+<path fill="none" stroke="red" stroke-width="2" d="M5065.55,-2149.94C5113.2,-2134.79 5181.79,-2112.98 5229.27,-2097.88"/>
+<text xml:space="preserve" text-anchor="middle" x="5184.03" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Indraprastha&#45;&#45;Yamuna Bank -->
+<g id="edge114" class="edge">
+<title>Indraprastha--Yamuna Bank</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M996.22,-2261.79C1181.45,-2275.76 1853.68,-2326.45 2047.19,-2341.04"/>
+<text xml:space="preserve" text-anchor="middle" x="1639.67" y="-2297.4" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Indraprastha&#45;&#45;Pragati Maidan (Supreme Court) -->
+<g id="edge113" class="edge">
+<title>Indraprastha--Pragati Maidan (Supreme Court)</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M900.88,-2240.38C855.13,-2225.22 786.24,-2202.4 739,-2186.75"/>
+<text xml:space="preserve" text-anchor="middle" x="853.55" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Indraprastha&#45;&#45;Pragati Maidan (Supreme Court) -->
+<g id="edge259" class="edge">
+<title>Indraprastha--Pragati Maidan (Supreme Court)</title>
+<path fill="none" stroke="black" stroke-width="4" d="M927.13,-2238.74C911.93,-2227.28 890.61,-2212.89 869.63,-2204.4 846.55,-2195.05 820.79,-2188.16 796.06,-2183.1"/>
+</g>
+<!-- Pragati Maidan (Supreme Court)&#45;&#45;Mandi House -->
+<g id="edge260" class="edge">
+<title>Pragati Maidan (Supreme Court)--Mandi House</title>
+<path fill="none" stroke="black" stroke-width="4" d="M681.44,-2150.34C677.84,-2139.87 672.47,-2126.43 665.63,-2115.6 661.68,-2109.33 656.55,-2103.15 651.56,-2097.76"/>
+</g>
+<!-- Jaffrabad -->
+<g id="node143" class="node">
+<title>Jaffrabad</title>
+<polygon fill="white" stroke="black" points="2772.82,-2186.4 2698.45,-2186.4 2698.45,-2150.4 2772.82,-2150.4 2772.82,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="2735.63" y="-2164.2" font-family="Arial" font-size="14.00">Jaffrabad</text>
+</g>
+<!-- Jaffrabad&#45;&#45;Welcome -->
+<g id="edge115" class="edge">
+<title>Jaffrabad--Welcome</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M2768.57,-2149.94C2792.59,-2138.08 2826.3,-2123.22 2857.74,-2115.6 2962.08,-2090.3 2993.65,-2120.07 3098.63,-2097.6 3101.77,-2096.93 3104.99,-2096.1 3108.19,-2095.16"/>
+<text xml:space="preserve" text-anchor="middle" x="2870.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Jaffrabad&#45;&#45;Maujpur &#45; Babarpur -->
+<g id="edge116" class="edge">
+<title>Jaffrabad--Maujpur - Babarpur</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M2720.22,-2150.25C2706.64,-2135.13 2686.94,-2113.21 2673.28,-2098.01"/>
+<text xml:space="preserve" text-anchor="middle" x="2716.07" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Jamia Millia Islamia -->
+<g id="node145" class="node">
+<title>Jamia Millia Islamia</title>
+<polygon fill="white" stroke="black" points="4953.31,-2275.2 4815.96,-2275.2 4815.96,-2239.2 4953.31,-2239.2 4953.31,-2275.2"/>
+<text xml:space="preserve" text-anchor="middle" x="4884.63" y="-2253" font-family="Arial" font-size="14.00">Jamia Millia Islamia</text>
+</g>
+<!-- Sukhdev Vihar -->
+<g id="node146" class="node">
+<title>Sukhdev Vihar</title>
+<polygon fill="white" stroke="black" points="5049.16,-2008.8 4942.11,-2008.8 4942.11,-1972.8 5049.16,-1972.8 5049.16,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="4995.63" y="-1986.6" font-family="Arial" font-size="14.00">Sukhdev Vihar</text>
+</g>
+<!-- Jamia Millia Islamia&#45;&#45;Sukhdev Vihar -->
+<g id="edge118" class="edge">
+<title>Jamia Millia Islamia--Sukhdev Vihar</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M4898.73,-2238.96C4902.86,-2233.48 4907.19,-2227.25 4910.63,-2221.2 4935.79,-2176.99 4916.54,-2149.17 4954.74,-2115.6 4977.55,-2095.56 5002.21,-2121.73 5020.63,-2097.6 5040.68,-2071.35 5021.64,-2031.55 5007.58,-2008.99"/>
+<text xml:space="preserve" text-anchor="middle" x="4967.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Okhla Vihar -->
+<g id="node147" class="node">
+<title>Okhla Vihar</title>
+<polygon fill="white" stroke="black" points="4774.21,-2186.4 4685.06,-2186.4 4685.06,-2150.4 4774.21,-2150.4 4774.21,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="4729.63" y="-2164.2" font-family="Arial" font-size="14.00">Okhla Vihar</text>
+</g>
+<!-- Jamia Millia Islamia&#45;&#45;Okhla Vihar -->
+<g id="edge119" class="edge">
+<title>Jamia Millia Islamia--Okhla Vihar</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M4850.43,-2238.72C4839.89,-2233.22 4828.29,-2227.05 4817.74,-2221.2 4797.73,-2210.09 4775.51,-2197.02 4758.4,-2186.79"/>
+<text xml:space="preserve" text-anchor="middle" x="4830.19" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Janakpuri East -->
+<g id="node148" class="node">
+<title>Janakpuri East</title>
+<polygon fill="lightgreen" stroke="black" points="1620.94,-657.6 1512.33,-657.6 1512.33,-621.6 1620.94,-621.6 1620.94,-657.6"/>
+<text xml:space="preserve" text-anchor="middle" x="1566.63" y="-635.4" font-family="Arial" font-size="14.00">Janakpuri East</text>
+</g>
+<!-- Janakpuri East&#45;&#45;Janakpuri West -->
+<g id="edge120" class="edge">
+<title>Janakpuri East--Janakpuri West</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1562.88,-621.45C1559.57,-606.33 1554.77,-584.41 1551.45,-569.21"/>
+<text xml:space="preserve" text-anchor="middle" x="1571.28" y="-591" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Janakpuri East&#45;&#45;Janakpuri West -->
+<g id="edge277" class="edge">
+<title>Janakpuri East--Janakpuri West</title>
+<path fill="none" stroke="black" stroke-width="4" d="M1557.84,-621.18C1555.43,-615.69 1553.09,-609.51 1551.63,-603.6 1548.88,-592.39 1547.88,-579.44 1547.57,-569.29"/>
+</g>
+<!-- Tilak Nagar -->
+<g id="node149" class="node">
+<title>Tilak Nagar</title>
+<polygon fill="lightgreen" stroke="black" points="1642.42,-746.4 1554.84,-746.4 1554.84,-710.4 1642.42,-710.4 1642.42,-746.4"/>
+<text xml:space="preserve" text-anchor="middle" x="1598.63" y="-724.2" font-family="Arial" font-size="14.00">Tilak Nagar</text>
+</g>
+<!-- Janakpuri East&#45;&#45;Tilak Nagar -->
+<g id="edge121" class="edge">
+<title>Janakpuri East--Tilak Nagar</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1573.05,-658.01C1578.66,-673.21 1586.74,-695.13 1592.31,-710.25"/>
+<text xml:space="preserve" text-anchor="middle" x="1597.95" y="-679.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Tilak Nagar&#45;&#45;Janakpuri East -->
+<g id="edge276" class="edge">
+<title>Tilak Nagar--Janakpuri East</title>
+<path fill="none" stroke="black" stroke-width="4" d="M1588.73,-709.93C1585.87,-704.43 1582.9,-698.26 1580.63,-692.4 1576.26,-681.11 1572.72,-667.93 1570.29,-657.69"/>
+</g>
+<!-- Uttam Nagar East&#45;&#45;Uttam Nagar West -->
+<g id="edge249" class="edge">
+<title>Uttam Nagar East--Uttam Nagar West</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1482.46,-443.86C1476.95,-438.8 1471.85,-432.77 1468.74,-426 1463.8,-415.21 1463.66,-401.77 1464.68,-391.29"/>
+<text xml:space="preserve" text-anchor="middle" x="1481.19" y="-413.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Uttam Nagar East&#45;&#45;Uttam Nagar West -->
+<g id="edge279" class="edge">
+<title>Uttam Nagar East--Uttam Nagar West</title>
+<path fill="none" stroke="black" stroke-width="4" d="M1504.64,-443.63C1502.45,-433.28 1498.92,-420.1 1493.63,-409.2 1490.66,-403.07 1486.57,-396.92 1482.5,-391.53"/>
+</g>
+<!-- Jangpura -->
+<g id="node151" class="node">
+<title>Jangpura</title>
+<polygon fill="white" stroke="black" points="2861.82,-2275.2 2787.44,-2275.2 2787.44,-2239.2 2861.82,-2239.2 2861.82,-2275.2"/>
+<text xml:space="preserve" text-anchor="middle" x="2824.63" y="-2253" font-family="Arial" font-size="14.00">Jangpura</text>
+</g>
+<!-- Jawaharlal Nehru Stadium -->
+<g id="node152" class="node">
+<title>Jawaharlal Nehru Stadium</title>
+<polygon fill="white" stroke="black" points="2548.73,-2186.4 2368.54,-2186.4 2368.54,-2150.4 2548.73,-2150.4 2548.73,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="2458.63" y="-2164.2" font-family="Arial" font-size="14.00">Jawaharlal Nehru Stadium</text>
+</g>
+<!-- Jangpura&#45;&#45;Jawaharlal Nehru Stadium -->
+<g id="edge123" class="edge">
+<title>Jangpura--Jawaharlal Nehru Stadium</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M2787.19,-2247.32C2727.43,-2233.15 2609.4,-2205.15 2532.28,-2186.87"/>
+<text xml:space="preserve" text-anchor="middle" x="2686.86" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Lajpat Nagar -->
+<g id="node153" class="node">
+<title>Lajpat Nagar</title>
+<polygon fill="white" stroke="black" points="3137.72,-2186.4 3041.55,-2186.4 3041.55,-2150.4 3137.72,-2150.4 3137.72,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="3089.63" y="-2164.2" font-family="Arial" font-size="14.00">Lajpat Nagar</text>
+</g>
+<!-- Jangpura&#45;&#45;Lajpat Nagar -->
+<g id="edge124" class="edge">
+<title>Jangpura--Lajpat Nagar</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M2862.32,-2243.86C2909.33,-2228.46 2989.79,-2202.1 3041.29,-2185.23"/>
+<text xml:space="preserve" text-anchor="middle" x="2993.31" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Khan Market -->
+<g id="node155" class="node">
+<title>Khan Market</title>
+<polygon fill="white" stroke="black" points="2453.32,-2097.6 2357.95,-2097.6 2357.95,-2061.6 2453.32,-2061.6 2453.32,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="2405.63" y="-2075.4" font-family="Arial" font-size="14.00">Khan Market</text>
+</g>
+<!-- Jawaharlal Nehru Stadium&#45;&#45;Khan Market -->
+<g id="edge130" class="edge">
+<title>Jawaharlal Nehru Stadium--Khan Market</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M2448.16,-2150.25C2438.93,-2135.13 2425.54,-2113.21 2416.27,-2098.01"/>
+<text xml:space="preserve" text-anchor="middle" x="2449.33" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Lajpat Nagar&#45;&#45;Vinobapuri -->
+<g id="edge159" class="edge">
+<title>Lajpat Nagar--Vinobapuri</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M3043.33,-2150.05C3036.31,-2145.39 3030,-2139.58 3025.74,-2132.4 3019.23,-2121.4 3025.23,-2108.22 3032.72,-2097.9"/>
+<text xml:space="preserve" text-anchor="middle" x="3038.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Lajpat Nagar&#45;&#45;South Extension -->
+<g id="edge158" class="edge">
+<title>Lajpat Nagar--South Extension</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M3120.14,-2149.99C3128.9,-2144.64 3138.32,-2138.54 3146.63,-2132.4 3155.73,-2125.68 3155.41,-2120.18 3165.74,-2115.6 3230.31,-2086.97 3254.14,-2110.19 3323.63,-2097.6 3326.51,-2097.08 3329.44,-2096.51 3332.4,-2095.9"/>
+<text xml:space="preserve" text-anchor="middle" x="3178.19" y="-2119.8" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Moolchand -->
+<g id="node166" class="node">
+<title>Moolchand</title>
+<polygon fill="white" stroke="black" points="3686.88,-2097.6 3602.39,-2097.6 3602.39,-2061.6 3686.88,-2061.6 3686.88,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="3644.63" y="-2075.4" font-family="Arial" font-size="14.00">Moolchand</text>
+</g>
+<!-- Lajpat Nagar&#45;&#45;Moolchand -->
+<g id="edge157" class="edge">
+<title>Lajpat Nagar--Moolchand</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M3137.96,-2152.16C3140.88,-2151.5 3143.79,-2150.9 3146.63,-2150.4 3279.05,-2127.03 3315.7,-2152.58 3448.63,-2132.4 3479.46,-2127.72 3486.43,-2122.89 3516.74,-2115.6 3550.87,-2107.4 3559.86,-2107.16 3593.63,-2097.6 3596.42,-2096.81 3599.28,-2095.97 3602.15,-2095.09"/>
+<text xml:space="preserve" text-anchor="middle" x="3529.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Janpath -->
+<g id="node154" class="node">
+<title>Janpath</title>
+<polygon fill="white" stroke="black" points="1748.54,-2186.4 1682.72,-2186.4 1682.72,-2150.4 1748.54,-2150.4 1748.54,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="1715.63" y="-2164.2" font-family="Arial" font-size="14.00">Janpath</text>
+</g>
+<!-- Janpath&#45;&#45;Mandi House -->
+<g id="edge125" class="edge">
+<title>Janpath--Mandi House</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M1682.5,-2152.76C1679.54,-2151.83 1676.56,-2151.02 1673.63,-2150.4 1551.62,-2124.61 1234.35,-2160.06 1112.74,-2132.4 1094.69,-2128.29 1092.65,-2119.84 1074.63,-2115.6 908.75,-2076.57 859.7,-2125.77 691.63,-2097.6 688.84,-2097.13 685.99,-2096.57 683.13,-2095.95"/>
+<text xml:space="preserve" text-anchor="middle" x="1125.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Janpath&#45;&#45;Khan Market -->
+<g id="edge126" class="edge">
+<title>Janpath--Khan Market</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M1748.94,-2159.32C1763.24,-2156.12 1780.18,-2152.66 1795.63,-2150.4 1893.58,-2136.08 1919.93,-2148.3 2017.63,-2132.4 2048.41,-2127.39 2054.94,-2120.41 2085.74,-2115.6 2201.89,-2097.46 2234.01,-2118.81 2349.63,-2097.6 2352.23,-2097.12 2354.88,-2096.57 2357.54,-2095.96"/>
+<text xml:space="preserve" text-anchor="middle" x="2098.19" y="-2119.8" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Jasola Vihar Shaheen Bagh -->
+<g id="node157" class="node">
+<title>Jasola Vihar Shaheen Bagh</title>
+<polygon fill="white" stroke="black" points="4787.42,-2275.2 4597.85,-2275.2 4597.85,-2239.2 4787.42,-2239.2 4787.42,-2275.2"/>
+<text xml:space="preserve" text-anchor="middle" x="4692.63" y="-2253" font-family="Arial" font-size="14.00">Jasola Vihar Shaheen Bagh</text>
+</g>
+<!-- Jasola Vihar Shaheen Bagh&#45;&#45;Okhla Vihar -->
+<g id="edge128" class="edge">
+<title>Jasola Vihar Shaheen Bagh--Okhla Vihar</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M4705.48,-2239.02C4709.15,-2233.54 4712.89,-2227.3 4715.63,-2221.2 4720.6,-2210.16 4724.13,-2196.97 4726.41,-2186.67"/>
+<text xml:space="preserve" text-anchor="middle" x="4734.18" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Kalindi Kunj -->
+<g id="node158" class="node">
+<title>Kalindi Kunj</title>
+<polygon fill="white" stroke="black" points="4086.6,-2186.4 3996.67,-2186.4 3996.67,-2150.4 4086.6,-2150.4 4086.6,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="4041.63" y="-2164.2" font-family="Arial" font-size="14.00">Kalindi Kunj</text>
+</g>
+<!-- Jasola Vihar Shaheen Bagh&#45;&#45;Kalindi Kunj -->
+<g id="edge129" class="edge">
+<title>Jasola Vihar Shaheen Bagh--Kalindi Kunj</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M4616.26,-2238.7C4562.42,-2227.07 4488.48,-2212.49 4422.63,-2204.4 4278.17,-2186.65 4238.84,-2212.46 4095.63,-2186.4 4092.83,-2185.89 4089.97,-2185.28 4087.1,-2184.59"/>
+<text xml:space="preserve" text-anchor="middle" x="4539.54" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Kalindi Kunj&#45;&#45;Okhla Bird Sanctuary -->
+<g id="edge138" class="edge">
+<title>Kalindi Kunj--Okhla Bird Sanctuary</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M4026.97,-2149.99C4022.93,-2144.59 4018.82,-2138.47 4015.74,-2132.4 4010.21,-2121.48 4006.14,-2108.29 4003.48,-2097.96"/>
+<text xml:space="preserve" text-anchor="middle" x="4028.19" y="-2119.8" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Jhandewalan -->
+<g id="node159" class="node">
+<title>Jhandewalan</title>
+<polygon fill="lightgreen" stroke="black" points="1351.89,-1742.4 1253.38,-1742.4 1253.38,-1706.4 1351.89,-1706.4 1351.89,-1742.4"/>
+<text xml:space="preserve" text-anchor="middle" x="1302.63" y="-1720.2" font-family="Arial" font-size="14.00">Jhandewalan</text>
+</g>
+<!-- Karol Bagh -->
+<g id="node160" class="node">
+<title>Karol Bagh</title>
+<polygon fill="lightgreen" stroke="black" points="1415.27,-1634.4 1330,-1634.4 1330,-1598.4 1415.27,-1598.4 1415.27,-1634.4"/>
+<text xml:space="preserve" text-anchor="middle" x="1372.63" y="-1612.2" font-family="Arial" font-size="14.00">Karol Bagh</text>
+</g>
+<!-- Jhandewalan&#45;&#45;Karol Bagh -->
+<g id="edge131" class="edge">
+<title>Jhandewalan--Karol Bagh</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1305.23,-1706C1308.19,-1690.73 1314.19,-1668.52 1325.74,-1652.4 1330.6,-1645.63 1337.15,-1639.61 1343.82,-1634.55"/>
+<text xml:space="preserve" text-anchor="middle" x="1338.19" y="-1666.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Jhandewalan&#45;&#45;Karol Bagh -->
+<g id="edge265" class="edge">
+<title>Jhandewalan--Karol Bagh</title>
+<path fill="none" stroke="black" stroke-width="4" d="M1332.7,-1706.04C1339.35,-1701.05 1345.84,-1695.11 1350.63,-1688.4 1362.12,-1672.34 1367.73,-1650.11 1370.39,-1634.83"/>
+</g>
+<!-- Jhandewalan&#45;&#45;Ramakrishna Ashram Marg -->
+<g id="edge132" class="edge">
+<title>Jhandewalan--Ramakrishna Ashram Marg</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1278.08,-1742.83C1263.73,-1752.96 1245.23,-1765.91 1228.63,-1777.2 1220.15,-1782.97 1210.84,-1789.16 1202.42,-1794.71"/>
+<text xml:space="preserve" text-anchor="middle" x="1263.58" y="-1764.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Rajendra Place -->
+<g id="node172" class="node">
+<title>Rajendra Place</title>
+<polygon fill="lightgreen" stroke="black" points="1477.5,-1545.6 1365.77,-1545.6 1365.77,-1509.6 1477.5,-1509.6 1477.5,-1545.6"/>
+<text xml:space="preserve" text-anchor="middle" x="1421.63" y="-1523.4" font-family="Arial" font-size="14.00">Rajendra Place</text>
+</g>
+<!-- Karol Bagh&#45;&#45;Rajendra Place -->
+<g id="edge146" class="edge">
+<title>Karol Bagh--Rajendra Place</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1372.38,-1598.1C1372.92,-1587.54 1374.89,-1574.09 1380.74,-1563.6 1384.48,-1556.91 1390.02,-1550.91 1395.82,-1545.85"/>
+<text xml:space="preserve" text-anchor="middle" x="1393.19" y="-1567.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Karol Bagh&#45;&#45;Rajendra Place -->
+<g id="edge266" class="edge">
+<title>Karol Bagh--Rajendra Place</title>
+<path fill="none" stroke="black" stroke-width="4" d="M1391.83,-1598.17C1396.88,-1592.87 1401.93,-1586.75 1405.63,-1580.4 1411.89,-1569.67 1415.95,-1556.23 1418.41,-1545.73"/>
+</g>
+<!-- Ramakrishna Ashram Marg&#45;&#45;Jhandewalan -->
+<g id="edge264" class="edge">
+<title>Ramakrishna Ashram Marg--Jhandewalan</title>
+<path fill="none" stroke="black" stroke-width="4" d="M1190.63,-1794.83C1200.62,-1783.98 1214.48,-1770.25 1228.63,-1760.4 1238.08,-1753.83 1248.96,-1747.91 1259.42,-1742.89"/>
+</g>
+<!-- Shahdara -->
+<g id="node192" class="node">
+<title>Shahdara</title>
+<polygon fill="white" stroke="black" points="3231.99,-2186.4 3155.28,-2186.4 3155.28,-2150.4 3231.99,-2150.4 3231.99,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="3193.63" y="-2164.2" font-family="Arial" font-size="14.00">Shahdara</text>
+</g>
+<!-- Mansarovar Park&#45;&#45;Shahdara -->
+<g id="edge170" class="edge">
+<title>Mansarovar Park--Shahdara</title>
+<path fill="none" stroke="red" stroke-width="2" d="M3273.04,-2243.31C3257.58,-2238.15 3241.72,-2231.01 3228.74,-2221.2 3216.78,-2212.16 3207.52,-2197.81 3201.51,-2186.51"/>
+<text xml:space="preserve" text-anchor="middle" x="3241.19" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Lok Kalyan Marg&#45;&#45;Udyog Bhawan -->
+<g id="edge162" class="edge">
+<title>Lok Kalyan Marg--Udyog Bhawan</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M776.85,-2061.45C790.26,-2046.33 809.71,-2024.41 823.19,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="819.48" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Kailash Colony -->
+<g id="node165" class="node">
+<title>Kailash Colony</title>
+<polygon fill="white" stroke="black" points="4628.33,-2186.4 4518.94,-2186.4 4518.94,-2150.4 4628.33,-2150.4 4628.33,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="4573.63" y="-2164.2" font-family="Arial" font-size="14.00">Kailash Colony</text>
+</g>
+<!-- Kailash Colony&#45;&#45;Moolchand -->
+<g id="edge136" class="edge">
+<title>Kailash Colony--Moolchand</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M4518.63,-2152C4515.6,-2151.4 4512.59,-2150.86 4509.63,-2150.4 4341.27,-2124.39 4292.58,-2171.42 4126.74,-2132.4 4108.73,-2128.16 4106.66,-2119.83 4088.63,-2115.6 3918.84,-2075.75 3868.19,-2128.98 3696.63,-2097.6 3693.55,-2097.04 3690.4,-2096.33 3687.25,-2095.54"/>
+<text xml:space="preserve" text-anchor="middle" x="4139.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Kailash Colony&#45;&#45;Nehru Place -->
+<g id="edge137" class="edge">
+<title>Kailash Colony--Nehru Place</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M4555.99,-2149.94C4551.82,-2144.73 4547.95,-2138.71 4545.74,-2132.4 4541.87,-2121.33 4542.94,-2108.15 4544.92,-2097.85"/>
+<text xml:space="preserve" text-anchor="middle" x="4558.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Okhla NSIC&#45;&#45;Sukhdev Vihar -->
+<g id="edge210" class="edge">
+<title>Okhla NSIC--Sukhdev Vihar</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M4972.36,-2061.45C4977.41,-2046.33 4984.74,-2024.41 4989.82,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="4996.18" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Netaji Subhash Place -->
+<g id="node177" class="node">
+<title>Netaji Subhash Place</title>
+<polygon fill="white" stroke="black" points="5358.56,-2008.8 5208.7,-2008.8 5208.7,-1972.8 5358.56,-1972.8 5358.56,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="5283.63" y="-1986.6" font-family="Arial" font-size="14.00">Netaji Subhash Place</text>
+</g>
+<!-- Keshav Puram&#45;&#45;Netaji Subhash Place -->
+<g id="edge151" class="edge">
+<title>Keshav Puram--Netaji Subhash Place</title>
+<path fill="none" stroke="red" stroke-width="2" d="M5283.63,-2061.45C5283.63,-2046.33 5283.63,-2024.41 5283.63,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="5296.08" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Nirman Vihar -->
+<g id="node184" class="node">
+<title>Nirman Vihar</title>
+<polygon fill="lightgreen" stroke="black" points="2423.48,-2541.6 2325.79,-2541.6 2325.79,-2505.6 2423.48,-2505.6 2423.48,-2541.6"/>
+<text xml:space="preserve" text-anchor="middle" x="2374.63" y="-2519.4" font-family="Arial" font-size="14.00">Nirman Vihar</text>
+</g>
+<!-- Preet Vihar&#45;&#45;Nirman Vihar -->
+<g id="edge255" class="edge">
+<title>Preet Vihar--Nirman Vihar</title>
+<path fill="none" stroke="black" stroke-width="4" d="M2496.85,-2613.33C2469.7,-2593.62 2425.55,-2561.57 2398.41,-2541.86"/>
+</g>
+<!-- Karkarduma Court&#45;&#45;Krishna Nagar -->
+<g id="edge145" class="edge">
+<title>Karkarduma Court--Krishna Nagar</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M2667.79,-2559.19C2668.97,-2539.9 2670.63,-2507.84 2670.63,-2480.2 2670.63,-2480.2 2670.63,-2480.2 2670.63,-2167.4 2670.63,-2143.43 2667.18,-2130.89 2685.63,-2115.6 2718.12,-2088.68 2833.14,-2105.21 2874.63,-2097.6 2877.6,-2097.06 2880.63,-2096.44 2883.67,-2095.77"/>
+<text xml:space="preserve" text-anchor="middle" x="2683.08" y="-2341.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Patel Nagar -->
+<g id="node223" class="node">
+<title>Patel Nagar</title>
+<polygon fill="lightgreen" stroke="black" points="1503.6,-1456.8 1413.67,-1456.8 1413.67,-1420.8 1503.6,-1420.8 1503.6,-1456.8"/>
+<text xml:space="preserve" text-anchor="middle" x="1458.63" y="-1434.6" font-family="Arial" font-size="14.00">Patel Nagar</text>
+</g>
+<!-- Rajendra Place&#45;&#45;Patel Nagar -->
+<g id="edge267" class="edge">
+<title>Rajendra Place--Patel Nagar</title>
+<path fill="none" stroke="black" stroke-width="4" d="M1426.3,-1509.48C1429.33,-1499.23 1433.64,-1486.04 1438.63,-1474.8 1441.25,-1468.92 1444.57,-1462.74 1447.75,-1457.24"/>
+</g>
+<!-- Kashmere Gate -->
+<g id="node173" class="node">
+<title>Kashmere Gate</title>
+<polygon fill="white" stroke="black" points="1918.66,-2186.4 1804.61,-2186.4 1804.61,-2150.4 1918.66,-2150.4 1918.66,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="1861.63" y="-2164.2" font-family="Arial" font-size="14.00">Kashmere Gate</text>
+</g>
+<!-- Kashmere Gate&#45;&#45;Lal Quila -->
+<g id="edge149" class="edge">
+<title>Kashmere Gate--Lal Quila</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M1807.43,-2149.99C1771.7,-2138.99 1723.72,-2125.1 1680.63,-2115.6 1630.11,-2104.46 1615.65,-2110.81 1565.63,-2097.6 1562.57,-2096.79 1559.42,-2095.85 1556.28,-2094.82"/>
+<text xml:space="preserve" text-anchor="middle" x="1758.32" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Tis Hazari -->
+<g id="node174" class="node">
+<title>Tis Hazari</title>
+<polygon fill="white" stroke="black" points="1884.14,-2097.6 1805.13,-2097.6 1805.13,-2061.6 1884.14,-2061.6 1884.14,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="1844.63" y="-2075.4" font-family="Arial" font-size="14.00">Tis Hazari</text>
+</g>
+<!-- Kashmere Gate&#45;&#45;Tis Hazari -->
+<g id="edge147" class="edge">
+<title>Kashmere Gate--Tis Hazari</title>
+<path fill="none" stroke="red" stroke-width="2" d="M1829.82,-2150.06C1823.74,-2145.19 1818.21,-2139.3 1814.74,-2132.4 1808.88,-2120.71 1816.03,-2107.97 1824.8,-2098.06"/>
+<text xml:space="preserve" text-anchor="middle" x="1827.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Shastri Park -->
+<g id="node175" class="node">
+<title>Shastri Park</title>
+<polygon fill="white" stroke="black" points="1994.76,-2097.6 1902.51,-2097.6 1902.51,-2061.6 1994.76,-2061.6 1994.76,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="1948.63" y="-2075.4" font-family="Arial" font-size="14.00">Shastri Park</text>
+</g>
+<!-- Kashmere Gate&#45;&#45;Shastri Park -->
+<g id="edge148" class="edge">
+<title>Kashmere Gate--Shastri Park</title>
+<path fill="none" stroke="red" stroke-width="2" d="M1857.5,-2150.09C1855.93,-2139.26 1855.91,-2125.53 1862.74,-2115.6 1867.81,-2108.24 1884.63,-2100.68 1902.06,-2094.48"/>
+<text xml:space="preserve" text-anchor="middle" x="1875.19" y="-2119.8" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Vaishali&#45;&#45;Kaushambi -->
+<g id="edge251" class="edge">
+<title>Vaishali--Kaushambi</title>
+<path fill="none" stroke="black" stroke-width="4" d="M2745.85,-2650.03C2745.35,-2655.63 2744.88,-2661.87 2744.63,-2667.6 2743.85,-2685.95 2744.32,-2706.99 2744.84,-2721.38"/>
+</g>
+<!-- Netaji Subhash Place&#45;&#45;Shalimar Bagh -->
+<g id="edge196" class="edge">
+<title>Netaji Subhash Place--Shalimar Bagh</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M5356.54,-1972.34C5371.8,-1967.55 5387.53,-1961.72 5401.63,-1954.8 5420.44,-1945.58 5439.58,-1931.53 5453.4,-1920.4"/>
+<text xml:space="preserve" text-anchor="middle" x="5441.27" y="-1942.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Netaji Subhash Place&#45;&#45;Shakurpur -->
+<g id="edge197" class="edge">
+<title>Netaji Subhash Place--Shakurpur</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M5208.51,-1974.36C5187.93,-1968.82 5169.22,-1962.11 5161.74,-1954.8 5152.45,-1945.71 5148.5,-1931.37 5146.83,-1920.08"/>
+<text xml:space="preserve" text-anchor="middle" x="5174.19" y="-1942.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Kirti Nagar -->
+<g id="node178" class="node">
+<title>Kirti Nagar</title>
+<polygon fill="lightgreen" stroke="black" points="1575.7,-1279.2 1493.57,-1279.2 1493.57,-1243.2 1575.7,-1243.2 1575.7,-1279.2"/>
+<text xml:space="preserve" text-anchor="middle" x="1534.63" y="-1257" font-family="Arial" font-size="14.00">Kirti Nagar</text>
+</g>
+<!-- Kirti Nagar&#45;&#45;Satguru Ram Singh Marg (Link to Kirti Nagar) -->
+<g id="edge154" class="edge">
+<title>Kirti Nagar--Satguru Ram Singh Marg (Link to Kirti Nagar)</title>
+<path fill="none" stroke="green" stroke-width="2" d="M1575.96,-1245.38C1618.08,-1230.27 1683.38,-1206.85 1727.98,-1190.85"/>
+<text xml:space="preserve" text-anchor="middle" x="1689.75" y="-1212.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Moti Nagar -->
+<g id="node179" class="node">
+<title>Moti Nagar</title>
+<polygon fill="lightgreen" stroke="black" points="1609.87,-1190.4 1525.4,-1190.4 1525.4,-1154.4 1609.87,-1154.4 1609.87,-1190.4"/>
+<text xml:space="preserve" text-anchor="middle" x="1567.63" y="-1168.2" font-family="Arial" font-size="14.00">Moti Nagar</text>
+</g>
+<!-- Kirti Nagar&#45;&#45;Moti Nagar -->
+<g id="edge152" class="edge">
+<title>Kirti Nagar--Moti Nagar</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1541.15,-1243.05C1546.9,-1227.93 1555.24,-1206.01 1561.02,-1190.81"/>
+<text xml:space="preserve" text-anchor="middle" x="1566.53" y="-1212.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Kirti Nagar&#45;&#45;Moti Nagar -->
+<g id="edge270" class="edge">
+<title>Kirti Nagar--Moti Nagar</title>
+<path fill="none" stroke="black" stroke-width="4" d="M1538.2,-1243.08C1540.59,-1232.83 1544.13,-1219.64 1548.63,-1208.4 1551,-1202.49 1554.12,-1196.31 1557.14,-1190.82"/>
+</g>
+<!-- Shadipur -->
+<g id="node180" class="node">
+<title>Shadipur</title>
+<polygon fill="lightgreen" stroke="black" points="1536.65,-1368 1464.61,-1368 1464.61,-1332 1536.65,-1332 1536.65,-1368"/>
+<text xml:space="preserve" text-anchor="middle" x="1500.63" y="-1345.8" font-family="Arial" font-size="14.00">Shadipur</text>
+</g>
+<!-- Kirti Nagar&#45;&#45;Shadipur -->
+<g id="edge153" class="edge">
+<title>Kirti Nagar--Shadipur</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1527.81,-1279.61C1521.86,-1294.81 1513.27,-1316.73 1507.35,-1331.85"/>
+<text xml:space="preserve" text-anchor="middle" x="1533.12" y="-1301.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Moti Nagar&#45;&#45;Ramesh Nagar -->
+<g id="edge183" class="edge">
+<title>Moti Nagar--Ramesh Nagar</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1574.75,-1154.25C1581.02,-1139.13 1590.11,-1117.21 1596.41,-1102.01"/>
+<text xml:space="preserve" text-anchor="middle" x="1601.3" y="-1123.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Moti Nagar&#45;&#45;Ramesh Nagar -->
+<g id="edge271" class="edge">
+<title>Moti Nagar--Ramesh Nagar</title>
+<path fill="none" stroke="black" stroke-width="4" d="M1572.39,-1154.32C1575.45,-1144.08 1579.76,-1130.9 1584.63,-1119.6 1587.15,-1113.76 1590.32,-1107.6 1593.33,-1102.1"/>
+</g>
+<!-- Shadipur&#45;&#45;Kirti Nagar -->
+<g id="edge269" class="edge">
+<title>Shadipur--Kirti Nagar</title>
+<path fill="none" stroke="black" stroke-width="4" d="M1504.6,-1331.89C1507.22,-1321.64 1511.01,-1308.46 1515.63,-1297.2 1518.05,-1291.32 1521.18,-1285.14 1524.21,-1279.64"/>
+</g>
+<!-- Kohat Enclave -->
+<g id="node181" class="node">
+<title>Kohat Enclave</title>
+<polygon fill="white" stroke="black" points="5211.78,-2097.6 5105.49,-2097.6 5105.49,-2061.6 5211.78,-2061.6 5211.78,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="5158.63" y="-2075.4" font-family="Arial" font-size="14.00">Kohat Enclave</text>
+</g>
+<!-- Kohat Enclave&#45;&#45;Netaji Subhash Place -->
+<g id="edge156" class="edge">
+<title>Kohat Enclave--Netaji Subhash Place</title>
+<path fill="none" stroke="red" stroke-width="2" d="M5183.63,-2061.24C5205.43,-2046.1 5236.89,-2024.26 5258.68,-2009.13"/>
+<text xml:space="preserve" text-anchor="middle" x="5244.78" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Pitampura -->
+<g id="node182" class="node">
+<title>Pitampura</title>
+<polygon fill="white" stroke="black" points="5190.54,-2008.8 5110.73,-2008.8 5110.73,-1972.8 5190.54,-1972.8 5190.54,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="5150.63" y="-1986.6" font-family="Arial" font-size="14.00">Pitampura</text>
+</g>
+<!-- Kohat Enclave&#45;&#45;Pitampura -->
+<g id="edge155" class="edge">
+<title>Kohat Enclave--Pitampura</title>
+<path fill="none" stroke="red" stroke-width="2" d="M5157.05,-2061.45C5155.66,-2046.33 5153.64,-2024.41 5152.24,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="5167.8" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Rohini East -->
+<g id="node227" class="node">
+<title>Rohini East</title>
+<polygon fill="white" stroke="black" points="5291.43,-1920 5203.84,-1920 5203.84,-1884 5291.43,-1884 5291.43,-1920"/>
+<text xml:space="preserve" text-anchor="middle" x="5247.63" y="-1897.8" font-family="Arial" font-size="14.00">Rohini East</text>
+</g>
+<!-- Pitampura&#45;&#45;Rohini East -->
+<g id="edge222" class="edge">
+<title>Pitampura--Rohini East</title>
+<path fill="none" stroke="red" stroke-width="2" d="M5169.8,-1972.65C5186.69,-1957.53 5211.2,-1935.61 5228.18,-1920.41"/>
+<text xml:space="preserve" text-anchor="middle" x="5220.27" y="-1942.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Laxmi Nagar -->
+<g id="node183" class="node">
+<title>Laxmi Nagar</title>
+<polygon fill="lightgreen" stroke="black" points="2187.32,-2452.8 2091.95,-2452.8 2091.95,-2416.8 2187.32,-2416.8 2187.32,-2452.8"/>
+<text xml:space="preserve" text-anchor="middle" x="2139.63" y="-2430.6" font-family="Arial" font-size="14.00">Laxmi Nagar</text>
+</g>
+<!-- Laxmi Nagar&#45;&#45;Yamuna Bank -->
+<g id="edge160" class="edge">
+<title>Laxmi Nagar--Yamuna Bank</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M2114.46,-2416.66C2108.95,-2411.6 2103.85,-2405.57 2100.74,-2398.8 2095.8,-2388.01 2095.66,-2374.57 2096.68,-2364.09"/>
+<text xml:space="preserve" text-anchor="middle" x="2113.19" y="-2386.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Laxmi Nagar&#45;&#45;Yamuna Bank -->
+<g id="edge257" class="edge">
+<title>Laxmi Nagar--Yamuna Bank</title>
+<path fill="none" stroke="black" stroke-width="4" d="M2136.64,-2416.43C2134.45,-2406.08 2130.92,-2392.9 2125.63,-2382 2122.66,-2375.87 2118.57,-2369.72 2114.5,-2364.33"/>
+</g>
+<!-- Laxmi Nagar&#45;&#45;Nirman Vihar -->
+<g id="edge161" class="edge">
+<title>Laxmi Nagar--Nirman Vihar</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M2186.83,-2453.23C2227.69,-2468.32 2286.48,-2490.04 2327.36,-2505.14"/>
+<text xml:space="preserve" text-anchor="middle" x="2290.63" y="-2475" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Nirman Vihar&#45;&#45;Preet Vihar -->
+<g id="edge201" class="edge">
+<title>Nirman Vihar--Preet Vihar</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M2423.97,-2534.2C2441.91,-2539.48 2461.49,-2547.52 2476.63,-2559.6 2494.43,-2573.8 2506.95,-2597.28 2513.97,-2613.33"/>
+<text xml:space="preserve" text-anchor="middle" x="2517.1" y="-2573.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Nirman Vihar&#45;&#45;Laxmi Nagar -->
+<g id="edge256" class="edge">
+<title>Nirman Vihar--Laxmi Nagar</title>
+<path fill="none" stroke="black" stroke-width="4" d="M2356.88,-2505.14C2344,-2493.53 2325.58,-2478.96 2306.63,-2470.8 2261.13,-2451.21 2244.91,-2463.9 2196.63,-2452.8 2193.72,-2452.13 2190.73,-2451.39 2187.72,-2450.61"/>
+</g>
+<!-- Madipur -->
+<g id="node185" class="node">
+<title>Madipur</title>
+<polygon fill="white" stroke="black" points="5843.92,-2275.2 5777.34,-2275.2 5777.34,-2239.2 5843.92,-2239.2 5843.92,-2275.2"/>
+<text xml:space="preserve" text-anchor="middle" x="5810.63" y="-2253" font-family="Arial" font-size="14.00">Madipur</text>
+</g>
+<!-- Madipur&#45;&#45;Shivaji Park -->
+<g id="edge164" class="edge">
+<title>Madipur--Shivaji Park</title>
+<path fill="none" stroke="green" stroke-width="2" d="M5777.07,-2244.4C5733.54,-2229.11 5657.46,-2202.37 5608.87,-2185.3"/>
+<text xml:space="preserve" text-anchor="middle" x="5721.7" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Paschim Vihar East -->
+<g id="node187" class="node">
+<title>Paschim Vihar East</title>
+<polygon fill="white" stroke="black" points="6081.71,-2186.4 5943.56,-2186.4 5943.56,-2150.4 6081.71,-2150.4 6081.71,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="6012.63" y="-2164.2" font-family="Arial" font-size="14.00">Paschim Vihar East</text>
+</g>
+<!-- Madipur&#45;&#45;Paschim Vihar East -->
+<g id="edge165" class="edge">
+<title>Madipur--Paschim Vihar East</title>
+<path fill="none" stroke="green" stroke-width="2" d="M5843.99,-2241.87C5879.18,-2226.75 5934.63,-2202.92 5972.26,-2186.75"/>
+<text xml:space="preserve" text-anchor="middle" x="5942.17" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Paschim Vihar West -->
+<g id="node221" class="node">
+<title>Paschim Vihar West</title>
+<polygon fill="white" stroke="black" points="6271.65,-2097.6 6129.62,-2097.6 6129.62,-2061.6 6271.65,-2061.6 6271.65,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="6200.63" y="-2075.4" font-family="Arial" font-size="14.00">Paschim Vihar West</text>
+</g>
+<!-- Paschim Vihar East&#45;&#45;Paschim Vihar West -->
+<g id="edge213" class="edge">
+<title>Paschim Vihar East--Paschim Vihar West</title>
+<path fill="none" stroke="green" stroke-width="2" d="M6044.25,-2150.02C6063.76,-2139.56 6089.42,-2126.25 6112.74,-2115.6 6126.19,-2109.46 6141.05,-2103.31 6154.66,-2097.92"/>
+<text xml:space="preserve" text-anchor="middle" x="6125.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Major Mohit Sharma Rajendra Nagar -->
+<g id="node188" class="node">
+<title>Major Mohit Sharma Rajendra Nagar</title>
+<polygon fill="white" stroke="black" points="3849.02,-2541.6 3604.25,-2541.6 3604.25,-2505.6 3849.02,-2505.6 3849.02,-2541.6"/>
+<text xml:space="preserve" text-anchor="middle" x="3726.63" y="-2519.4" font-family="Arial" font-size="14.00">Major Mohit Sharma Rajendra Nagar</text>
+</g>
+<!-- Raj Bagh -->
+<g id="node189" class="node">
+<title>Raj Bagh</title>
+<polygon fill="white" stroke="black" points="3763.43,-2452.8 3689.84,-2452.8 3689.84,-2416.8 3763.43,-2416.8 3763.43,-2452.8"/>
+<text xml:space="preserve" text-anchor="middle" x="3726.63" y="-2430.6" font-family="Arial" font-size="14.00">Raj Bagh</text>
+</g>
+<!-- Major Mohit Sharma Rajendra Nagar&#45;&#45;Raj Bagh -->
+<g id="edge166" class="edge">
+<title>Major Mohit Sharma Rajendra Nagar--Raj Bagh</title>
+<path fill="none" stroke="red" stroke-width="2" d="M3726.63,-2505.45C3726.63,-2490.33 3726.63,-2468.41 3726.63,-2453.21"/>
+<text xml:space="preserve" text-anchor="middle" x="3739.08" y="-2475" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Major Mohit Sharma Rajendra Nagar&#45;&#45;Shyam Park -->
+<g id="edge167" class="edge">
+<title>Major Mohit Sharma Rajendra Nagar--Shyam Park</title>
+<path fill="none" stroke="red" stroke-width="2" d="M3706.68,-2505.45C3689.09,-2490.33 3663.58,-2468.41 3645.89,-2453.21"/>
+<text xml:space="preserve" text-anchor="middle" x="3697.63" y="-2475" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Raj Bagh&#45;&#45;Shaheed Nagar -->
+<g id="edge229" class="edge">
+<title>Raj Bagh--Shaheed Nagar</title>
+<path fill="none" stroke="red" stroke-width="2" d="M3711.82,-2416.65C3698.75,-2401.53 3679.81,-2379.61 3666.68,-2364.41"/>
+<text xml:space="preserve" text-anchor="middle" x="3708.3" y="-2386.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Shahdara&#45;&#45;Welcome -->
+<g id="edge242" class="edge">
+<title>Shahdara--Welcome</title>
+<path fill="none" stroke="red" stroke-width="2" d="M3197.93,-2150.14C3199.63,-2139.6 3200.07,-2126.16 3194.63,-2115.6 3191.09,-2108.72 3185.51,-2102.89 3179.35,-2098.09"/>
+<text xml:space="preserve" text-anchor="middle" x="3211.32" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Mayapuri -->
+<g id="node193" class="node">
+<title>Mayapuri</title>
+<polygon fill="white" stroke="black" points="4558.42,-2275.2 4484.84,-2275.2 4484.84,-2239.2 4558.42,-2239.2 4558.42,-2275.2"/>
+<text xml:space="preserve" text-anchor="middle" x="4521.63" y="-2253" font-family="Arial" font-size="14.00">Mayapuri</text>
+</g>
+<!-- Mayapuri&#45;&#45;Naraina Vihar -->
+<g id="edge172" class="edge">
+<title>Mayapuri--Naraina Vihar</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M4484.68,-2244.8C4443.24,-2232.55 4373.82,-2213.59 4312.63,-2204.4 4169.57,-2182.9 4130.32,-2210.26 3987.63,-2186.4 3984.75,-2185.92 3981.81,-2185.35 3978.85,-2184.72"/>
+<text xml:space="preserve" text-anchor="middle" x="4406.27" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Mayapuri&#45;&#45;Rajouri Garden -->
+<g id="edge171" class="edge">
+<title>Mayapuri--Rajouri Garden</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M4558.68,-2241.97C4603.12,-2222.83 4668.08,-2186.94 4637.63,-2150.4 4609.29,-2116.38 4580.17,-2150.24 4539.63,-2132.4 4492.41,-2111.61 4474.63,-2087.8 4474.63,-2036.2 4474.63,-2036.2 4474.63,-2036.2 4474.63,-1082.6 4474.63,-1010.7 2103.37,-997.68 1707.39,-996.01"/>
+<text xml:space="preserve" text-anchor="middle" x="4487.08" y="-1612.2" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Mayur Vihar Extension -->
+<g id="node194" class="node">
+<title>Mayur Vihar Extension</title>
+<polygon fill="white" stroke="black" points="2475.05,-2452.8 2318.21,-2452.8 2318.21,-2416.8 2475.05,-2416.8 2475.05,-2452.8"/>
+<text xml:space="preserve" text-anchor="middle" x="2396.63" y="-2430.6" font-family="Arial" font-size="14.00">Mayur Vihar Extension</text>
+</g>
+<!-- Mayur Vihar Extension&#45;&#45;Mayur Vihar&#45;1 -->
+<g id="edge173" class="edge">
+<title>Mayur Vihar Extension--Mayur Vihar-1</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M2373.64,-2416.44C2353.58,-2401.3 2324.64,-2379.46 2304.59,-2364.33"/>
+<text xml:space="preserve" text-anchor="middle" x="2361.88" y="-2386.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- New Ashok Nagar -->
+<g id="node195" class="node">
+<title>New Ashok Nagar</title>
+<polygon fill="white" stroke="black" points="2842.05,-2364 2713.22,-2364 2713.22,-2328 2842.05,-2328 2842.05,-2364"/>
+<text xml:space="preserve" text-anchor="middle" x="2777.63" y="-2341.8" font-family="Arial" font-size="14.00">New Ashok Nagar</text>
+</g>
+<!-- Mayur Vihar Extension&#45;&#45;New Ashok Nagar -->
+<g id="edge174" class="edge">
+<title>Mayur Vihar Extension--New Ashok Nagar</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M2402.18,-2416.5C2406.96,-2404.64 2415.12,-2389.71 2427.74,-2382 2479.43,-2350.45 2639.68,-2372.47 2699.63,-2364 2704.03,-2363.38 2708.54,-2362.65 2713.07,-2361.84"/>
+<text xml:space="preserve" text-anchor="middle" x="2440.19" y="-2386.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Noida Sector 15 -->
+<g id="node211" class="node">
+<title>Noida Sector 15</title>
+<polygon fill="white" stroke="black" points="3209.83,-2275.2 3093.44,-2275.2 3093.44,-2239.2 3209.83,-2239.2 3209.83,-2275.2"/>
+<text xml:space="preserve" text-anchor="middle" x="3151.63" y="-2253" font-family="Arial" font-size="14.00">Noida Sector 15</text>
+</g>
+<!-- New Ashok Nagar&#45;&#45;Noida Sector 15 -->
+<g id="edge198" class="edge">
+<title>New Ashok Nagar--Noida Sector 15</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M2842.51,-2329.89C2845.26,-2329.25 2847.97,-2328.62 2850.63,-2328 2934.89,-2308.42 3032.43,-2285.81 3093.08,-2271.76"/>
+<text xml:space="preserve" text-anchor="middle" x="3011.19" y="-2297.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Mayur Vihar Pocket 1 -->
+<g id="node196" class="node">
+<title>Mayur Vihar Pocket 1</title>
+<polygon fill="white" stroke="black" points="2642.55,-2452.8 2492.72,-2452.8 2492.72,-2416.8 2642.55,-2416.8 2642.55,-2452.8"/>
+<text xml:space="preserve" text-anchor="middle" x="2567.63" y="-2430.6" font-family="Arial" font-size="14.00">Mayur Vihar Pocket 1</text>
+</g>
+<!-- Mayur Vihar Pocket 1&#45;&#45;Mayur Vihar&#45;1 -->
+<g id="edge175" class="edge">
+<title>Mayur Vihar Pocket 1--Mayur Vihar-1</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M2536.49,-2416.46C2514.73,-2405.05 2484.67,-2390.68 2456.63,-2382 2409.73,-2367.48 2395.68,-2374.13 2347.63,-2364 2343.12,-2363.05 2338.45,-2361.99 2333.77,-2360.88"/>
+<text xml:space="preserve" text-anchor="middle" x="2509.9" y="-2386.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Mayur Vihar Pocket 1&#45;&#45;Trilokpuri &#45; Sanjay Lake -->
+<g id="edge176" class="edge">
+<title>Mayur Vihar Pocket 1--Trilokpuri - Sanjay Lake</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M2642.87,-2416.34C2707.93,-2401.24 2801.5,-2379.52 2866.52,-2364.43"/>
+<text xml:space="preserve" text-anchor="middle" x="2800.58" y="-2386.2" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Mewala Maharajpur -->
+<g id="node197" class="node">
+<title>Mewala Maharajpur</title>
+<polygon fill="white" stroke="black" points="6278.11,-2186.4 6139.16,-2186.4 6139.16,-2150.4 6278.11,-2150.4 6278.11,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="6208.63" y="-2164.2" font-family="Arial" font-size="14.00">Mewala Maharajpur</text>
+</g>
+<!-- Mewala Maharajpur&#45;&#45;Sector 28 Faridabad -->
+<g id="edge179" class="edge">
+<title>Mewala Maharajpur--Sector 28 Faridabad</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M6239.03,-2150.04C6265.45,-2134.95 6303.55,-2113.2 6330.03,-2098.08"/>
+<text xml:space="preserve" text-anchor="middle" x="6310.69" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- NHPC Chowk -->
+<g id="node198" class="node">
+<title>NHPC Chowk</title>
+<polygon fill="white" stroke="black" points="5833.81,-2097.6 5731.46,-2097.6 5731.46,-2061.6 5833.81,-2061.6 5833.81,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="5782.63" y="-2075.4" font-family="Arial" font-size="14.00">NHPC Chowk</text>
+</g>
+<!-- Mewala Maharajpur&#45;&#45;NHPC Chowk -->
+<g id="edge178" class="edge">
+<title>Mewala Maharajpur--NHPC Chowk</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M6191.06,-2150.1C6177.64,-2138.08 6158.02,-2122.94 6137.63,-2115.6 6075.84,-2093.35 5907.38,-2108.62 5842.63,-2097.6 5839.86,-2097.13 5837.03,-2096.58 5834.18,-2095.97"/>
+<text xml:space="preserve" text-anchor="middle" x="6179.66" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- NHPC Chowk&#45;&#45;Sarai -->
+<g id="edge189" class="edge">
+<title>NHPC Chowk--Sarai</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M5760.84,-2061.24C5741.83,-2046.1 5714.39,-2024.26 5695.39,-2009.13"/>
+<text xml:space="preserve" text-anchor="middle" x="5750.34" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Mohan Estate -->
+<g id="node199" class="node">
+<title>Mohan Estate</title>
+<polygon fill="white" stroke="black" points="5575.83,-2097.6 5473.44,-2097.6 5473.44,-2061.6 5575.83,-2061.6 5575.83,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="5524.63" y="-2075.4" font-family="Arial" font-size="14.00">Mohan Estate</text>
+</g>
+<!-- Mohan Estate&#45;&#45;Tughlakabad Station -->
+<g id="edge181" class="edge">
+<title>Mohan Estate--Tughlakabad Station</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M5530.96,-2061.45C5536.53,-2046.33 5544.61,-2024.41 5550.22,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="5555.95" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Mohan Estate&#45;&#45;Sarita Vihar -->
+<g id="edge180" class="edge">
+<title>Mohan Estate--Sarita Vihar</title>
+<path fill="none" stroke="violet" stroke-width="2" d="M5504.28,-2061.45C5486.34,-2046.33 5460.33,-2024.41 5442.29,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="5494.8" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Ramesh Nagar&#45;&#45;Rajouri Garden -->
+<g id="edge272" class="edge">
+<title>Ramesh Nagar--Rajouri Garden</title>
+<path fill="none" stroke="black" stroke-width="4" d="M1622.24,-1065.29C1627.13,-1059.99 1632.03,-1053.89 1635.63,-1047.6 1641.81,-1036.82 1645.87,-1023.38 1648.36,-1012.9"/>
+</g>
+<!-- Mundka -->
+<g id="node202" class="node">
+<title>Mundka</title>
+<polygon fill="white" stroke="black" points="7378.54,-2008.8 7312.73,-2008.8 7312.73,-1972.8 7378.54,-1972.8 7378.54,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="7345.63" y="-1986.6" font-family="Arial" font-size="14.00">Mundka</text>
+</g>
+<!-- Mundka&#45;&#45;Mundka Industrial Area -->
+<g id="edge186" class="edge">
+<title>Mundka--Mundka Industrial Area</title>
+<path fill="none" stroke="green" stroke-width="2" d="M7371.63,-1972.44C7394.3,-1957.3 7427.02,-1935.46 7449.68,-1920.33"/>
+<text xml:space="preserve" text-anchor="middle" x="7434.72" y="-1942.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Rajdhani Park -->
+<g id="node203" class="node">
+<title>Rajdhani Park</title>
+<polygon fill="white" stroke="black" points="7377.6,-1920 7273.67,-1920 7273.67,-1884 7377.6,-1884 7377.6,-1920"/>
+<text xml:space="preserve" text-anchor="middle" x="7325.63" y="-1897.8" font-family="Arial" font-size="14.00">Rajdhani Park</text>
+</g>
+<!-- Mundka&#45;&#45;Rajdhani Park -->
+<g id="edge185" class="edge">
+<title>Mundka--Rajdhani Park</title>
+<path fill="none" stroke="green" stroke-width="2" d="M7341.68,-1972.65C7338.2,-1957.53 7333.15,-1935.61 7329.65,-1920.41"/>
+<text xml:space="preserve" text-anchor="middle" x="7349.87" y="-1942.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Munirka -->
+<g id="node204" class="node">
+<title>Munirka</title>
+<polygon fill="white" stroke="black" points="1344.53,-2097.6 1278.74,-2097.6 1278.74,-2061.6 1344.53,-2061.6 1344.53,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="1311.63" y="-2075.4" font-family="Arial" font-size="14.00">Munirka</text>
+</g>
+<!-- Munirka&#45;&#45;R.K. Puram -->
+<g id="edge188" class="edge">
+<title>Munirka--R.K. Puram</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M1308.67,-2061.45C1306.06,-2046.33 1302.27,-2024.41 1299.64,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="1317.92" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Vasant Vihar -->
+<g id="node205" class="node">
+<title>Vasant Vihar</title>
+<polygon fill="white" stroke="black" points="1455.71,-2008.8 1359.56,-2008.8 1359.56,-1972.8 1455.71,-1972.8 1455.71,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="1407.63" y="-1986.6" font-family="Arial" font-size="14.00">Vasant Vihar</text>
+</g>
+<!-- Munirka&#45;&#45;Vasant Vihar -->
+<g id="edge187" class="edge">
+<title>Munirka--Vasant Vihar</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M1330.6,-2061.45C1347.32,-2046.33 1371.57,-2024.41 1388.38,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="1380.68" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Nangloi -->
+<g id="node206" class="node">
+<title>Nangloi</title>
+<polygon fill="white" stroke="black" points="7134.37,-2097.6 7070.9,-2097.6 7070.9,-2061.6 7134.37,-2061.6 7134.37,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="7102.63" y="-2075.4" font-family="Arial" font-size="14.00">Nangloi</text>
+</g>
+<!-- Surajmal Stadium -->
+<g id="node207" class="node">
+<title>Surajmal Stadium</title>
+<polygon fill="white" stroke="black" points="6978.88,-2008.8 6852.39,-2008.8 6852.39,-1972.8 6978.88,-1972.8 6978.88,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="6915.63" y="-1986.6" font-family="Arial" font-size="14.00">Surajmal Stadium</text>
+</g>
+<!-- Nangloi&#45;&#45;Surajmal Stadium -->
+<g id="edge191" class="edge">
+<title>Nangloi--Surajmal Stadium</title>
+<path fill="none" stroke="green" stroke-width="2" d="M7070.49,-2063.68C7037.91,-2048.56 6987.53,-2025.17 6953.15,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="7038.33" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Nangloi Railway Station -->
+<g id="node208" class="node">
+<title>Nangloi Railway Station</title>
+<polygon fill="white" stroke="black" points="7168.56,-2008.8 7004.71,-2008.8 7004.71,-1972.8 7168.56,-1972.8 7168.56,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="7086.63" y="-1986.6" font-family="Arial" font-size="14.00">Nangloi Railway Station</text>
+</g>
+<!-- Nangloi&#45;&#45;Nangloi Railway Station -->
+<g id="edge192" class="edge">
+<title>Nangloi--Nangloi Railway Station</title>
+<path fill="none" stroke="green" stroke-width="2" d="M7099.47,-2061.45C7096.69,-2046.33 7092.64,-2024.41 7089.84,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="7108.51" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Udyog Nagar -->
+<g id="node224" class="node">
+<title>Udyog Nagar</title>
+<polygon fill="white" stroke="black" points="6676.88,-1920 6578.39,-1920 6578.39,-1884 6676.88,-1884 6676.88,-1920"/>
+<text xml:space="preserve" text-anchor="middle" x="6627.63" y="-1897.8" font-family="Arial" font-size="14.00">Udyog Nagar</text>
+</g>
+<!-- Surajmal Stadium&#45;&#45;Udyog Nagar -->
+<g id="edge247" class="edge">
+<title>Surajmal Stadium--Udyog Nagar</title>
+<path fill="none" stroke="green" stroke-width="2" d="M6857.7,-1972.34C6804.81,-1956.4 6727.45,-1933.08 6677.32,-1917.97"/>
+<text xml:space="preserve" text-anchor="middle" x="6809.87" y="-1942.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Nangloi Railway Station&#45;&#45;Rajdhani Park -->
+<g id="edge193" class="edge">
+<title>Nangloi Railway Station--Rajdhani Park</title>
+<path fill="none" stroke="green" stroke-width="2" d="M7168.8,-1973.18C7204.01,-1965.81 7238.87,-1958.06 7246.63,-1954.8 7267.5,-1946.03 7288.83,-1931.66 7304.05,-1920.28"/>
+<text xml:space="preserve" text-anchor="middle" x="7288.86" y="-1942.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Uttam Nagar West&#45;&#45;Nawada -->
+<g id="edge280" class="edge">
+<title>Uttam Nagar West--Nawada</title>
+<path fill="none" stroke="black" stroke-width="4" d="M1457.14,-354.78C1454.12,-349.29 1451,-343.11 1448.63,-337.2 1444.13,-325.96 1440.59,-312.77 1438.2,-302.52"/>
+</g>
+<!-- Noida Sector 16 -->
+<g id="node215" class="node">
+<title>Noida Sector 16</title>
+<polygon fill="white" stroke="black" points="3366.83,-2186.4 3250.44,-2186.4 3250.44,-2150.4 3366.83,-2150.4 3366.83,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="3308.63" y="-2164.2" font-family="Arial" font-size="14.00">Noida Sector 16</text>
+</g>
+<!-- Noida Sector 15&#45;&#45;Noida Sector 16 -->
+<g id="edge204" class="edge">
+<title>Noida Sector 15--Noida Sector 16</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M3210.19,-2240.85C3224.93,-2235.73 3240.33,-2229.23 3253.63,-2221.2 3268.91,-2211.98 3283.48,-2197.94 3293.78,-2186.8"/>
+<text xml:space="preserve" text-anchor="middle" x="3287.58" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Noida Sector 52 -->
+<g id="node216" class="node">
+<title>Noida Sector 52</title>
+<polygon fill="white" stroke="black" points="3808.83,-1831.2 3692.44,-1831.2 3692.44,-1795.2 3808.83,-1795.2 3808.83,-1831.2"/>
+<text xml:space="preserve" text-anchor="middle" x="3750.63" y="-1809" font-family="Arial" font-size="14.00">Noida Sector 52</text>
+</g>
+<!-- Noida Sector 34&#45;&#45;Noida Sector 52 -->
+<g id="edge206" class="edge">
+<title>Noida Sector 34--Noida Sector 52</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M3750.63,-1883.85C3750.63,-1868.73 3750.63,-1846.81 3750.63,-1831.61"/>
+<text xml:space="preserve" text-anchor="middle" x="3763.08" y="-1853.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Noida Electronic City -->
+<g id="node213" class="node">
+<title>Noida Electronic City</title>
+<polygon fill="white" stroke="black" points="4106.6,-1831.2 3960.67,-1831.2 3960.67,-1795.2 4106.6,-1795.2 4106.6,-1831.2"/>
+<text xml:space="preserve" text-anchor="middle" x="4033.63" y="-1809" font-family="Arial" font-size="14.00">Noida Electronic City</text>
+</g>
+<!-- Noida Sector 62 -->
+<g id="node214" class="node">
+<title>Noida Sector 62</title>
+<polygon fill="white" stroke="black" points="4042.83,-1742.4 3926.44,-1742.4 3926.44,-1706.4 4042.83,-1706.4 4042.83,-1742.4"/>
+<text xml:space="preserve" text-anchor="middle" x="3984.63" y="-1720.2" font-family="Arial" font-size="14.00">Noida Sector 62</text>
+</g>
+<!-- Noida Electronic City&#45;&#45;Noida Sector 62 -->
+<g id="edge203" class="edge">
+<title>Noida Electronic City--Noida Sector 62</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M4023.95,-1795.05C4015.42,-1779.93 4003.04,-1758.01 3994.46,-1742.81"/>
+<text xml:space="preserve" text-anchor="middle" x="4025.97" y="-1764.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Noida Sector 16&#45;&#45;Noida Sector 18 -->
+<g id="edge205" class="edge">
+<title>Noida Sector 16--Noida Sector 18</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M3328.43,-2150.13C3342.44,-2138.75 3362.16,-2124.39 3381.74,-2115.6 3414.16,-2101.06 3425.1,-2105.97 3459.63,-2097.6 3462.43,-2096.92 3465.3,-2096.22 3468.19,-2095.51"/>
+<text xml:space="preserve" text-anchor="middle" x="3394.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Noida Sector 61 -->
+<g id="node217" class="node">
+<title>Noida Sector 61</title>
+<polygon fill="white" stroke="black" points="3841.83,-1742.4 3725.44,-1742.4 3725.44,-1706.4 3841.83,-1706.4 3841.83,-1742.4"/>
+<text xml:space="preserve" text-anchor="middle" x="3783.63" y="-1720.2" font-family="Arial" font-size="14.00">Noida Sector 61</text>
+</g>
+<!-- Noida Sector 52&#45;&#45;Noida Sector 61 -->
+<g id="edge207" class="edge">
+<title>Noida Sector 52--Noida Sector 61</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M3757.15,-1795.05C3762.9,-1779.93 3771.24,-1758.01 3777.02,-1742.81"/>
+<text xml:space="preserve" text-anchor="middle" x="3782.53" y="-1764.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Noida Sector 59 -->
+<g id="node218" class="node">
+<title>Noida Sector 59</title>
+<polygon fill="white" stroke="black" points="3942.83,-1831.2 3826.44,-1831.2 3826.44,-1795.2 3942.83,-1795.2 3942.83,-1831.2"/>
+<text xml:space="preserve" text-anchor="middle" x="3884.63" y="-1809" font-family="Arial" font-size="14.00">Noida Sector 59</text>
+</g>
+<!-- Noida Sector 59&#45;&#45;Noida Sector 62 -->
+<g id="edge209" class="edge">
+<title>Noida Sector 59--Noida Sector 62</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M3904.39,-1795.05C3921.81,-1779.93 3947.07,-1758.01 3964.58,-1742.81"/>
+<text xml:space="preserve" text-anchor="middle" x="3956.04" y="-1764.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Noida Sector 59&#45;&#45;Noida Sector 61 -->
+<g id="edge208" class="edge">
+<title>Noida Sector 59--Noida Sector 61</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M3864.68,-1795.05C3847.09,-1779.93 3821.58,-1758.01 3803.89,-1742.81"/>
+<text xml:space="preserve" text-anchor="middle" x="3855.63" y="-1764.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Terminal 1&#45;IGI Airport -->
+<g id="node234" class="node">
+<title>Terminal 1-IGI Airport</title>
+<polygon fill="white" stroke="black" points="1677.93,-2008.8 1527.34,-2008.8 1527.34,-1972.8 1677.93,-1972.8 1677.93,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="1602.63" y="-1986.6" font-family="Arial" font-size="14.00">Terminal 1-IGI Airport</text>
+</g>
+<!-- Sadar Bazar Cantonment&#45;&#45;Terminal 1&#45;IGI Airport -->
+<g id="edge236" class="edge">
+<title>Sadar Bazar Cantonment--Terminal 1-IGI Airport</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M1649.98,-2061.45C1639.7,-2046.33 1624.8,-2024.41 1614.47,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="1649.86" y="-2031" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Tikri Border&#45;&#45;Tikri Kalan -->
+<g id="edge248" class="edge">
+<title>Tikri Border--Tikri Kalan</title>
+<path fill="none" stroke="green" stroke-width="2" d="M7614.63,-1972.65C7614.63,-1957.53 7614.63,-1935.61 7614.63,-1920.41"/>
+<text xml:space="preserve" text-anchor="middle" x="7627.08" y="-1942.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Peeragarhi -->
+<g id="node222" class="node">
+<title>Peeragarhi</title>
+<polygon fill="white" stroke="black" points="6591.88,-2008.8 6507.39,-2008.8 6507.39,-1972.8 6591.88,-1972.8 6591.88,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="6549.63" y="-1986.6" font-family="Arial" font-size="14.00">Peeragarhi</text>
+</g>
+<!-- Paschim Vihar West&#45;&#45;Peeragarhi -->
+<g id="edge214" class="edge">
+<title>Paschim Vihar West--Peeragarhi</title>
+<path fill="none" stroke="green" stroke-width="2" d="M6270.84,-2061.14C6341.5,-2043.56 6448.21,-2017.03 6507,-2002.4"/>
+<text xml:space="preserve" text-anchor="middle" x="6418.84" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Peeragarhi&#45;&#45;Udyog Nagar -->
+<g id="edge218" class="edge">
+<title>Peeragarhi--Udyog Nagar</title>
+<path fill="none" stroke="green" stroke-width="2" d="M6565.04,-1972.65C6578.63,-1957.53 6598.33,-1935.61 6611.99,-1920.41"/>
+<text xml:space="preserve" text-anchor="middle" x="6608.07" y="-1942.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Patel Nagar&#45;&#45;Rajendra Place -->
+<g id="edge217" class="edge">
+<title>Patel Nagar--Rajendra Place</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1451.21,-1457.21C1444.74,-1472.41 1435.39,-1494.33 1428.94,-1509.45"/>
+<text xml:space="preserve" text-anchor="middle" x="1455.89" y="-1479" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Patel Nagar&#45;&#45;Shadipur -->
+<g id="edge216" class="edge">
+<title>Patel Nagar--Shadipur</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1456.04,-1420.66C1455.22,-1410.16 1455.62,-1396.72 1460.74,-1386 1463.92,-1379.35 1469.01,-1373.44 1474.5,-1368.45"/>
+<text xml:space="preserve" text-anchor="middle" x="1473.19" y="-1390.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Patel Nagar&#45;&#45;Shadipur -->
+<g id="edge268" class="edge">
+<title>Patel Nagar--Shadipur</title>
+<path fill="none" stroke="black" stroke-width="4" d="M1474.03,-1420.51C1478.24,-1415.11 1482.51,-1408.96 1485.63,-1402.8 1491.14,-1391.95 1494.92,-1378.76 1497.31,-1368.4"/>
+</g>
+<!-- Phase&#45;1 -->
+<g id="node225" class="node">
+<title>Phase-1</title>
+<polygon fill="white" stroke="black" points="7233.71,-2186.4 7165.56,-2186.4 7165.56,-2150.4 7233.71,-2150.4 7233.71,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="7199.63" y="-2164.2" font-family="Arial" font-size="14.00">Phase-1</text>
+</g>
+<!-- Phase&#45;1&#45;&#45;Sikanderpur -->
+<g id="edge220" class="edge">
+<title>Phase-1--Sikanderpur</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M7167.07,-2150.06C7146.98,-2139.61 7120.57,-2126.3 7096.63,-2115.6 7082.84,-2109.43 7067.61,-2103.23 7053.7,-2097.79"/>
+<text xml:space="preserve" text-anchor="middle" x="7143.48" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Sector 42&#45;43 -->
+<g id="node226" class="node">
+<title>Sector 42-43</title>
+<polygon fill="white" stroke="black" points="7273.71,-2097.6 7177.56,-2097.6 7177.56,-2061.6 7273.71,-2061.6 7273.71,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="7225.63" y="-2075.4" font-family="Arial" font-size="14.00">Sector 42-43</text>
+</g>
+<!-- Phase&#45;1&#45;&#45;Sector 42&#45;43 -->
+<g id="edge219" class="edge">
+<title>Phase-1--Sector 42-43</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M7204.77,-2150.25C7209.3,-2135.13 7215.87,-2113.21 7220.42,-2098.01"/>
+<text xml:space="preserve" text-anchor="middle" x="7227.41" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Sector 53&#45;54 -->
+<g id="node235" class="node">
+<title>Sector 53-54</title>
+<polygon fill="white" stroke="black" points="7282.71,-2008.8 7186.56,-2008.8 7186.56,-1972.8 7282.71,-1972.8 7282.71,-2008.8"/>
+<text xml:space="preserve" text-anchor="middle" x="7234.63" y="-1986.6" font-family="Arial" font-size="14.00">Sector 53-54</text>
+</g>
+<!-- Sector 42&#45;43&#45;&#45;Sector 53&#45;54 -->
+<g id="edge237" class="edge">
+<title>Sector 42-43--Sector 53-54</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M7227.41,-2061.45C7228.98,-2046.33 7231.25,-2024.41 7232.83,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="7243.39" y="-2031" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Rohini West -->
+<g id="node232" class="node">
+<title>Rohini West</title>
+<polygon fill="white" stroke="black" points="5597.37,-1831.2 5505.9,-1831.2 5505.9,-1795.2 5597.37,-1795.2 5597.37,-1831.2"/>
+<text xml:space="preserve" text-anchor="middle" x="5551.63" y="-1809" font-family="Arial" font-size="14.00">Rohini West</text>
+</g>
+<!-- Rohini East&#45;&#45;Rohini West -->
+<g id="edge234" class="edge">
+<title>Rohini East--Rohini West</title>
+<path fill="none" stroke="red" stroke-width="2" d="M5291.84,-1886.68C5294.81,-1885.76 5297.76,-1884.86 5300.63,-1884 5371.91,-1862.67 5455.23,-1839.93 5505.68,-1826.4"/>
+<text xml:space="preserve" text-anchor="middle" x="5429.68" y="-1853.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Pratap Nagar -->
+<g id="node228" class="node">
+<title>Pratap Nagar</title>
+<polygon fill="white" stroke="black" points="2596.27,-2275.2 2497,-2275.2 2497,-2239.2 2596.27,-2239.2 2596.27,-2275.2"/>
+<text xml:space="preserve" text-anchor="middle" x="2546.63" y="-2253" font-family="Arial" font-size="14.00">Pratap Nagar</text>
+</g>
+<!-- Pratap Nagar&#45;&#45;Shastri Nagar -->
+<g id="edge223" class="edge">
+<title>Pratap Nagar--Shastri Nagar</title>
+<path fill="none" stroke="red" stroke-width="2" d="M2596.38,-2251.99C2643.33,-2248.16 2715.72,-2242.58 2778.63,-2239.2 3011.77,-2226.67 3070.71,-2237.1 3303.63,-2221.2 3455.18,-2210.86 3494.44,-2214.95 3643.63,-2186.4 3646.51,-2185.85 3649.44,-2185.23 3652.39,-2184.55"/>
+<text xml:space="preserve" text-anchor="middle" x="3545.49" y="-2208.6" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Pulbangash -->
+<g id="node229" class="node">
+<title>Pulbangash</title>
+<polygon fill="white" stroke="black" points="2064.61,-2186.4 1974.66,-2186.4 1974.66,-2150.4 2064.61,-2150.4 2064.61,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="2019.63" y="-2164.2" font-family="Arial" font-size="14.00">Pulbangash</text>
+</g>
+<!-- Pratap Nagar&#45;&#45;Pulbangash -->
+<g id="edge224" class="edge">
+<title>Pratap Nagar--Pulbangash</title>
+<path fill="none" stroke="red" stroke-width="2" d="M2496.61,-2243.14C2448.9,-2231.2 2374.85,-2213.97 2309.63,-2204.4 2205.55,-2189.13 2176.92,-2206.32 2073.63,-2186.4 2070.74,-2185.84 2067.78,-2185.18 2064.81,-2184.45"/>
+<text xml:space="preserve" text-anchor="middle" x="2413.87" y="-2208.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Pulbangash&#45;&#45;Tis Hazari -->
+<g id="edge225" class="edge">
+<title>Pulbangash--Tis Hazari</title>
+<path fill="none" stroke="red" stroke-width="2" d="M1979.37,-2149.93C1967.2,-2144.48 1953.86,-2138.34 1941.74,-2132.4 1919.44,-2121.46 1894.75,-2108.27 1875.84,-2097.94"/>
+<text xml:space="preserve" text-anchor="middle" x="1954.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Subhash Nagar -->
+<g id="node240" class="node">
+<title>Subhash Nagar</title>
+<polygon fill="lightgreen" stroke="black" points="1653.28,-835.2 1539.99,-835.2 1539.99,-799.2 1653.28,-799.2 1653.28,-835.2"/>
+<text xml:space="preserve" text-anchor="middle" x="1596.63" y="-813" font-family="Arial" font-size="14.00">Subhash Nagar</text>
+</g>
+<!-- Tagore Garden&#45;&#45;Subhash Nagar -->
+<g id="edge274" class="edge">
+<title>Tagore Garden--Subhash Nagar</title>
+<path fill="none" stroke="black" stroke-width="4" d="M1608.67,-887.85C1606.06,-872.73 1602.27,-850.81 1599.64,-835.61"/>
+</g>
+<!-- Rithala -->
+<g id="node231" class="node">
+<title>Rithala</title>
+<polygon fill="white" stroke="black" points="5605.42,-1920 5545.84,-1920 5545.84,-1884 5605.42,-1884 5605.42,-1920"/>
+<text xml:space="preserve" text-anchor="middle" x="5575.63" y="-1897.8" font-family="Arial" font-size="14.00">Rithala</text>
+</g>
+<!-- Rithala&#45;&#45;Rohini West -->
+<g id="edge233" class="edge">
+<title>Rithala--Rohini West</title>
+<path fill="none" stroke="red" stroke-width="2" d="M5570.89,-1883.85C5566.71,-1868.73 5560.65,-1846.81 5556.45,-1831.61"/>
+<text xml:space="preserve" text-anchor="middle" x="5578.23" y="-1853.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Sector 54 Chowk -->
+<g id="node236" class="node">
+<title>Sector 54 Chowk</title>
+<polygon fill="white" stroke="black" points="7255.94,-1920 7133.33,-1920 7133.33,-1884 7255.94,-1884 7255.94,-1920"/>
+<text xml:space="preserve" text-anchor="middle" x="7194.63" y="-1897.8" font-family="Arial" font-size="14.00">Sector 54 Chowk</text>
+</g>
+<!-- Sector 53&#45;54&#45;&#45;Sector 54 Chowk -->
+<g id="edge238" class="edge">
+<title>Sector 53-54--Sector 54 Chowk</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M7226.73,-1972.65C7219.76,-1957.53 7209.66,-1935.61 7202.66,-1920.41"/>
+<text xml:space="preserve" text-anchor="middle" x="7230.66" y="-1942.2" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Sector 55&#45;56 -->
+<g id="node237" class="node">
+<title>Sector 55-56</title>
+<polygon fill="white" stroke="black" points="7242.71,-1831.2 7146.56,-1831.2 7146.56,-1795.2 7242.71,-1795.2 7242.71,-1831.2"/>
+<text xml:space="preserve" text-anchor="middle" x="7194.63" y="-1809" font-family="Arial" font-size="14.00">Sector 55-56</text>
+</g>
+<!-- Sector 54 Chowk&#45;&#45;Sector 55&#45;56 -->
+<g id="edge239" class="edge">
+<title>Sector 54 Chowk--Sector 55-56</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M7194.63,-1883.85C7194.63,-1868.73 7194.63,-1846.81 7194.63,-1831.61"/>
+<text xml:space="preserve" text-anchor="middle" x="7207.08" y="-1853.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Seelampur -->
+<g id="node238" class="node">
+<title>Seelampur</title>
+<polygon fill="white" stroke="black" points="2350.49,-2186.4 2266.78,-2186.4 2266.78,-2150.4 2350.49,-2150.4 2350.49,-2186.4"/>
+<text xml:space="preserve" text-anchor="middle" x="2308.63" y="-2164.2" font-family="Arial" font-size="14.00">Seelampur</text>
+</g>
+<!-- Seelampur&#45;&#45;Welcome -->
+<g id="edge241" class="edge">
+<title>Seelampur--Welcome</title>
+<path fill="none" stroke="red" stroke-width="2" d="M2350.98,-2152.32C2353.89,-2151.58 2356.79,-2150.93 2359.63,-2150.4 2522.77,-2119.87 2569.72,-2164.09 2732.63,-2132.4 2754.87,-2128.08 2758.53,-2120.02 2780.74,-2115.6 2919.54,-2088 2960,-2125.97 3098.63,-2097.6 3101.78,-2096.96 3105,-2096.14 3108.2,-2095.22"/>
+<text xml:space="preserve" text-anchor="middle" x="2793.19" y="-2119.8" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Seelampur&#45;&#45;Shastri Park -->
+<g id="edge240" class="edge">
+<title>Seelampur--Shastri Park</title>
+<path fill="none" stroke="red" stroke-width="2" d="M2266.3,-2152.93C2242.62,-2144.68 2216.84,-2135.41 2211.74,-2132.4 2202.01,-2126.64 2203.01,-2120.09 2192.63,-2115.6 2115.18,-2082.12 2086.38,-2114.15 2003.63,-2097.6 2000.79,-2097.03 1997.89,-2096.37 1994.97,-2095.65"/>
+<text xml:space="preserve" text-anchor="middle" x="2224.19" y="-2119.8" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Shankar Vihar -->
+<g id="node239" class="node">
+<title>Shankar Vihar</title>
+<polygon fill="white" stroke="black" points="1466.99,-2097.6 1362.28,-2097.6 1362.28,-2061.6 1466.99,-2061.6 1466.99,-2097.6"/>
+<text xml:space="preserve" text-anchor="middle" x="1414.63" y="-2075.4" font-family="Arial" font-size="14.00">Shankar Vihar</text>
+</g>
+<!-- Shankar Vihar&#45;&#45;Vasant Vihar -->
+<g id="edge244" class="edge">
+<title>Shankar Vihar--Vasant Vihar</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M1413.25,-2061.45C1412.03,-2046.33 1410.26,-2024.41 1409.04,-2009.21"/>
+<text xml:space="preserve" text-anchor="middle" x="1424.21" y="-2031" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Shankar Vihar&#45;&#45;Terminal 1&#45;IGI Airport -->
+<g id="edge243" class="edge">
+<title>Shankar Vihar--Terminal 1-IGI Airport</title>
+<path fill="none" stroke="magenta" stroke-width="2" d="M1452.23,-2061.24C1484.91,-2046.15 1532.03,-2024.4 1564.78,-2009.28"/>
+<text xml:space="preserve" text-anchor="middle" x="1537.92" y="-2031" font-family="Times,serif" font-size="14.00">2km</text>
+</g>
+<!-- Subhash Nagar&#45;&#45;Tilak Nagar -->
+<g id="edge245" class="edge">
+<title>Subhash Nagar--Tilak Nagar</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1592.73,-798.94C1590.94,-788.86 1589.46,-775.91 1590.74,-764.4 1591.39,-758.58 1592.63,-752.32 1593.93,-746.72"/>
+<text xml:space="preserve" text-anchor="middle" x="1603.19" y="-768.6" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+<!-- Subhash Nagar&#45;&#45;Tilak Nagar -->
+<g id="edge275" class="edge">
+<title>Subhash Nagar--Tilak Nagar</title>
+<path fill="none" stroke="black" stroke-width="4" d="M1608.31,-798.74C1611.3,-793.35 1614.1,-787.23 1615.63,-781.2 1618.62,-769.46 1614.37,-756.51 1609.37,-746.49"/>
+</g>
+<!-- Subhash Nagar&#45;&#45;Tagore Garden -->
+<g id="edge246" class="edge">
+<title>Subhash Nagar--Tagore Garden</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1602.91,-835.45C1604.71,-841.04 1606.5,-847.32 1607.63,-853.2 1609.82,-864.54 1610.82,-877.49 1611.28,-887.6"/>
+<text xml:space="preserve" text-anchor="middle" x="1622.33" y="-857.4" font-family="Times,serif" font-size="14.00">1km</text>
+</g>
+</g>
+</svg>
